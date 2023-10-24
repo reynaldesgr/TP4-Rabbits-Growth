@@ -26,8 +26,8 @@ public class Main
 
         
         // More realistic simulation
-        int initialAdult     = 100;
-        int simulationMonth  = 20;  // Set the number of simulation years
+        int initialAdult     = 30000;
+        int simulationMonth  = 20;  // Set the number of simulation months
 
         RabbitSimulation simulation = new RabbitSimulation(initialAdult, simulationMonth);
 

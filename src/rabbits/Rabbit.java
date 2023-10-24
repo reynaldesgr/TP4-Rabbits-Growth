@@ -15,6 +15,10 @@ public class Rabbit {
 
     private double survivalRate;
 
+    // Average condition
+    private double predatorEffect = 0.4;
+    private double foodEffect     = 0.5;
+
     public Rabbit(int ageInMonths, Sex sex) {
         this.id = ++rabbitCount;
 
@@ -30,14 +34,14 @@ public class Rabbit {
         survivalRate = calculateSurvivalRate(ageInMonths);
     }
 
-    public boolean canGiveBirth() {
+    public boolean canGiveBirth() 
+    {
         return sex == Sex.FEMALE && ageInMonths >= 5;
     }
 
     public boolean isAlive(MTRandom random) 
     {
-        double survivalRate = calculateSurvivalRate(ageInMonths);
-        return random.nextDouble() < survivalRate;
+       return random.nextDouble() <= survivalRate;
     }
 
     public boolean isPregnant() 
@@ -79,7 +83,7 @@ public class Rabbit {
 
         for (int i = 0; i < numberOfLitters; i++) 
         {
-            numberOfKittens = 3 + random.nextInt(4); // equal chance to have 3 to 6 kittens per litter
+            numberOfKittens = 3 + random.nextInt(4); // Equal chance to have 3 to 6 kittens per litter
 
             for (int j = 0; j < numberOfKittens; j++) 
             {
@@ -109,18 +113,22 @@ public class Rabbit {
     private double calculateSurvivalRate(int ageInMonths) {
         double survivalRate = 0.0;
 
-        if (ageInMonths < 60) 
+        if (ageInMonths < 5) 
         {
             // Survival rate for little rabbits (35%)
             survivalRate = 0.35;
-        } else if (ageInMonths >= 60 && ageInMonths < 120) 
+            // Sexuality maturity is reached between 5 to 8 months after the birth of kittens
+
+        } else if (ageInMonths >= 5 && ageInMonths < 120) 
         {
             // Survival rate for adult rabbits (60%)
             survivalRate = 0.60;
+
         } else if (ageInMonths >= 120 && ageInMonths < 180) 
         {
             // Diminish survival rate by 10% each month after age 10
             survivalRate = 0.60 - ((ageInMonths - 120) * 0.10 / 12.0);
+            
         } else 
         {
             // Survival rate is 0% for rabbits older than 180 months (15 years)
