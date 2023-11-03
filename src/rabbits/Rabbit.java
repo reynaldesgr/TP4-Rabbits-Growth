@@ -14,12 +14,9 @@ public class Rabbit {
     private Sex sex;
 
     private double survivalRate;
-
-    // Average condition
-    private double predatorEffect = 0.4;
-    private double foodEffect     = 0.5;
-
-    public Rabbit(int ageInMonths, Sex sex) {
+    
+    public Rabbit(int ageInMonths, Sex sex) 
+    {
         this.id = ++rabbitCount;
 
         this.ageInMonths = ageInMonths;
@@ -29,7 +26,8 @@ public class Rabbit {
         this.survivalRate = calculateSurvivalRate(ageInMonths);
     }
 
-    public void incrementAge() {
+    public void incrementAge() 
+    {
         this.ageInMonths++;
         survivalRate = calculateSurvivalRate(ageInMonths);
     }
@@ -119,17 +117,20 @@ public class Rabbit {
             survivalRate = 0.35;
             // Sexuality maturity is reached between 5 to 8 months after the birth of kittens
 
-        } else if (ageInMonths >= 5 && ageInMonths < 120) 
+        } 
+        else if (ageInMonths >= 5 && ageInMonths < 120) 
         {
             // Survival rate for adult rabbits (60%)
             survivalRate = 0.60;
 
-        } else if (ageInMonths >= 120 && ageInMonths < 180) 
+        } 
+        else if (ageInMonths >= 120 && ageInMonths < 180) 
         {
             // Diminish survival rate by 10% each month after age 10
             survivalRate = 0.60 - ((ageInMonths - 120) * 0.10 / 12.0);
             
-        } else 
+        } 
+        else 
         {
             // Survival rate is 0% for rabbits older than 180 months (15 years)
             survivalRate = 0.0;
@@ -139,50 +140,61 @@ public class Rabbit {
     }
 
     @Override
-    public String toString() {
+    public String toString() 
+    {
         String displayMsg = "[Rabbit]\n" + "\nNum. : " + this.id + "\nAge (months) : " + this.ageInMonths
                 + "\nSexe : " + this.getSex();
 
-        if (this.sex.equals(Sex.FEMALE)) {
+        if (this.sex.equals(Sex.FEMALE)) 
+        {
             displayMsg += "\nPregnant : " + this.sex;
         }
 
         return displayMsg;
     }
 
-    public static int getRabbitCount() {
+    public static int getRabbitCount() 
+    {
         return rabbitCount;
     }
 
-    public static void setRabbitCount(int rabbitCount) {
+    public static void setRabbitCount(int rabbitCount) 
+    {
         Rabbit.rabbitCount = rabbitCount;
     }
 
-    public int getId() {
+    public int getId() 
+    {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(int id) 
+    {
         this.id = id;
     }
 
-    public int getAgeInMonths() {
+    public int getAgeInMonths() 
+    {
         return ageInMonths;
     }
 
-    public void setAgeInMonths(int ageInMonths) {
+    public void setAgeInMonths(int ageInMonths) 
+    {
         this.ageInMonths = ageInMonths;
     }
 
-    public void setPregnant(boolean isPregnant) {
+    public void setPregnant(boolean isPregnant) 
+    {
         this.isPregnant = isPregnant;
     }
 
-    public Sex getSex() {
+    public Sex getSex() 
+    {
         return sex;
     }
 
-    public void setSex(Sex sex) {
+    public void setSex(Sex sex) 
+    {
         this.sex = sex;
     }
 }
