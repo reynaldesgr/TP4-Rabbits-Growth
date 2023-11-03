@@ -10,6 +10,7 @@ public class Rabbit {
     private int id;
     private double ageInYears; // Age in years
     private boolean isPregnant;
+    private boolean alive;
     private Sex sex;
 
     private double survivalRate;
@@ -19,22 +20,37 @@ public class Rabbit {
         this.ageInYears = ageInYears;
         this.isPregnant = false;
         this.sex = sex;
+        this.alive = true;
         this.survivalRate = calculateSurvivalRate(ageInYears);
     }
 
     public void incrementAge() {
-        this.ageInYears += 1.0; // Increase age by 1 year
+        this.ageInYears += 1; // Increase age by 1 year
         survivalRate = calculateSurvivalRate(ageInYears);
     }
 
     public boolean canGiveBirth() {
-        return sex == Sex.FEMALE && ageInYears >= 1;
+        return sex == Sex.FEMALE && ageInYears >= 2;
     }
 
-    public boolean isAlive(MTRandom random) {
-        double randomNumber = random.nextDouble();
-        return randomNumber > survivalRate;
+    
+    public void survive(MTRandom random) {
+        if (alive)
+        {
+            double randomNumber = random.nextDouble();
+            if(randomNumber < survivalRate)
+            {
+                this.alive = false;
+            }
+        }
     }
+
+
+    public boolean isAlive()
+    {
+        return this.alive;
+    }
+
 
     public boolean isPregnant() {
         return isPregnant;
@@ -96,10 +112,14 @@ public class Rabbit {
         if (ageInYears < 1) {
             // Survival rate for young rabbits (35%)
             survivalRate = 0.35;
-        } else if (ageInYears >= 5.0 && ageInYears < 10.0) {
+        } 
+        else if (ageInYears >= 5.0 && ageInYears < 10.0) 
+        {
             // Survival rate for adult rabbits (60%)
             survivalRate = 0.6;
-        } else if (ageInYears >= 10.0 && ageInYears < 15.0) {
+        } 
+        else if (ageInYears >= 10.0 && ageInYears < 15.0) 
+        {
             // Diminish survival rate by 10% every year after age 10
             double diminishingRate = (ageInYears - 10.0) * 0.1;
             survivalRate = 0.6 - diminishingRate;
@@ -157,5 +177,10 @@ public class Rabbit {
 
     public void setSex(Sex sex) {
         this.sex = sex;
+    }
+
+    public void killed()
+    {
+        this.alive = false;
     }
 }

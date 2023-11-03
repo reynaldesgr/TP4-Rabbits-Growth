@@ -45,10 +45,9 @@ public class Predator
             if (random.nextDouble() < 0.1) 
             {
                 // Le prédateur a une probabilité de 10% de chasser un lapin
-                if (rabbit.isAlive(random)) 
+                if (rabbit.isAlive()) 
                 {
-                    // Le lapin est chassé
-                    rabbits.remove(i);
+                    rabbit.killed();
                     numberOfShots++;
                 }
             }
