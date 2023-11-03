@@ -131,8 +131,6 @@ public class RSimulationStats {
         System.out.println(" -- Simulation Complete -- ");
         System.out.println("* Total Births: "     + getTotalBirths());
         System.out.println("* Total Deaths: "     + getTotalDeaths());
-        System.out.println("* Average Births: "   + String.format("%.2f%%", getAverageBirths(simulationMonths)));
-        System.out.println("* Average Deaths: "   + String.format("%.2f%%", getAverageDeaths(simulationMonths)));
         System.out.println("* Death by Predator - Percentage: "     + String.format("%.2f%%", getShotsPercentage()));
         System.out.println("* Natural death     - Percentage: "     + String.format("%.2f%%", getDeathPercentage()));
     }

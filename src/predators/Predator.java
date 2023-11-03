@@ -1,7 +1,6 @@
 package src.predators;
 
 import java.util.List;
-import java.util.Random;
 
 import src.MTRandom;
 import src.rabbits.Rabbit;
@@ -43,9 +42,9 @@ public class Predator
         for (i = rabbits.size() - 1; i >= 0; i--) 
         {
             Rabbit rabbit = rabbits.get(i);
-            if (random.nextDouble() < 0.02) 
+            if (random.nextDouble() < 0.1) 
             {
-                // Le prédateur a une probabilité de 2% de chasser un lapin
+                // Le prédateur a une probabilité de 10% de chasser un lapin
                 if (rabbit.isAlive(random)) 
                 {
                     // Le lapin est chassé
