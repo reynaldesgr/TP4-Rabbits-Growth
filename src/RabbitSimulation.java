@@ -28,7 +28,20 @@ public class RabbitSimulation {
         }
     }
 
-    public void runSimulation() {
+    public boolean areMalesAvailable() 
+    {
+        for (Rabbit rabbit : population) 
+        {
+            if (rabbit.isAlive() && rabbit.getSex() == Sex.MALE) 
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public void runSimulation() 
+    {
         MTRandom rnd = new MTRandom();
         rnd.setSeed(new int[]{0x124, 0x234, 0x341, 0x450});
         long deaths, shots, births, females, males;
@@ -87,7 +100,7 @@ public class RabbitSimulation {
                         newKittens.addAll(rabbit.giveBirth(rnd));
                         births++;
                     }
-                    else if (!rabbit.isPregnant())
+                    else if (!rabbit.isPregnant() && areMalesAvailable())
                     {
                         rabbit.gettingPregnant();
                     }
@@ -120,5 +133,6 @@ public class RabbitSimulation {
             System.out.println("- Births : "    + births);
             System.out.println("--------------------------------------------");
         }
+
     }
 }

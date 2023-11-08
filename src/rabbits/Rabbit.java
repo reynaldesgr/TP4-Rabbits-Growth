@@ -4,18 +4,22 @@ import java.util.ArrayList;
 import java.util.List;
 import src.MTRandom;
 
-public class Rabbit {
+public class Rabbit 
+{
     private static int rabbitCount = 0;
 
     private int id;
-    private double ageInYears; // Age in years
+    
+    // Age in years
+    private double ageInYears;
     private boolean isPregnant;
     private boolean alive;
     private Sex sex;
 
     private double survivalRate;
 
-    public Rabbit(double ageInYears, Sex sex) {
+    public Rabbit(double ageInYears, Sex sex) 
+    {
         this.id = ++rabbitCount;
         this.ageInYears = ageInYears;
         this.isPregnant = false;
@@ -24,17 +28,20 @@ public class Rabbit {
         this.survivalRate = calculateSurvivalRate(ageInYears);
     }
 
-    public void incrementAge() {
+    public void incrementAge() 
+    {
         this.ageInYears += 1; // Increase age by 1 year
         survivalRate = calculateSurvivalRate(ageInYears);
     }
 
-    public boolean canGiveBirth() {
+    public boolean canGiveBirth() 
+    {
         return sex == Sex.FEMALE && ageInYears >= 2;
     }
 
     
-    public void survive(MTRandom random) {
+    public void survive(MTRandom random) 
+    {
         if (alive)
         {
             double randomNumber = random.nextDouble();
@@ -52,17 +59,21 @@ public class Rabbit {
     }
 
 
-    public boolean isPregnant() {
+    public boolean isPregnant() 
+    {
         return isPregnant;
     }
 
-    public void gettingPregnant() {
-        if (canGiveBirth() && !isPregnant) {
+    public void gettingPregnant() 
+    {
+        if (canGiveBirth() && !isPregnant) 
+        {
             isPregnant = true;
         }
     }
 
-    public List<Rabbit> giveBirth(MTRandom random) {
+    public List<Rabbit> giveBirth(MTRandom random) 
+    {
         int numberOfLitters = 1;
         int numberOfKittens = 0;
 
@@ -95,7 +106,8 @@ public class Rabbit {
         return newKittens;
     }
 
-    public static Sex determineSexOfKitten(MTRandom random) {
+    public static Sex determineSexOfKitten(MTRandom random) 
+    {
         double naturalProbability = 0.5;
         double rg = random.nextDouble();
 
@@ -106,10 +118,12 @@ public class Rabbit {
         }
     }
 
-    private double calculateSurvivalRate(double ageInYears) {
+    private double calculateSurvivalRate(double ageInYears) 
+    {
         double survivalRate = 0.0;
 
-        if (ageInYears < 1) {
+        if (ageInYears < 1) 
+        {
             // Survival rate for young rabbits (35%)
             survivalRate = 0.35;
         } 
@@ -123,7 +137,9 @@ public class Rabbit {
             // Diminish survival rate by 10% every year after age 10
             double diminishingRate = (ageInYears - 10.0) * 0.1;
             survivalRate = 0.6 - diminishingRate;
-        } else {
+        } 
+        else 
+        {
             // Survival rate is 0% for rabbits older than 15 years
             survivalRate = 0.0;
         }
@@ -132,7 +148,8 @@ public class Rabbit {
     }
 
     @Override
-    public String toString() {
+    public String toString() 
+    {
         String displayMsg = "[Rabbit]\n" + "\nNum. : " + this.id + "\nAge (years) : " + this.ageInYears
                 + "\nSex : " + this.sex;
 
@@ -143,39 +160,48 @@ public class Rabbit {
         return displayMsg;
     }
 
-    public static int getRabbitCount() {
+    public static int getRabbitCount() 
+    {
         return rabbitCount;
     }
 
-    public static void setRabbitCount(int rabbitCount) {
+    public static void setRabbitCount(int rabbitCount) 
+    {
         Rabbit.rabbitCount = rabbitCount;
     }
 
-    public int getId() {
+    public int getId() 
+    {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(int id) 
+    {
         this.id = id;
     }
 
-    public double getAgeInYears() {
+    public double getAgeInYears() 
+    {
         return ageInYears;
     }
 
-    public void setAgeInYears(double ageInYears) {
+    public void setAgeInYears(double ageInYears) 
+    {
         this.ageInYears = ageInYears;
     }
 
-    public void setPregnant(boolean isPregnant) {
+    public void setPregnant(boolean isPregnant) 
+    {
         this.isPregnant = isPregnant;
     }
 
-    public Sex getSex() {
+    public Sex getSex() 
+    {
         return sex;
     }
 
-    public void setSex(Sex sex) {
+    public void setSex(Sex sex) 
+    {
         this.sex = sex;
     }
 
