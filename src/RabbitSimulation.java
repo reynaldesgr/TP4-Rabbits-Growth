@@ -29,7 +29,7 @@ public class RabbitSimulation {
     public void runSimulation() 
     {
         MTRandom rnd = new MTRandom();
-        rnd.setSeed(new int[]{0x123, 0x231, 0x341, 0x40});
+        rnd.setSeed(new int[]{0x123, 0x231, 0x341, 0x404});
 
         long numSurvived;
 
@@ -84,7 +84,27 @@ public class RabbitSimulation {
                         for (int i = 0; i <= females[age]; i++)
                         {
                             // Generate the number of litters for each female (3 to 6)
-                            int numLitters = rnd.nextInt(4) + 3;
+                            int    numLitters;
+                            double rndNumber;
+
+                            rndNumber = rnd.nextDouble();
+
+                            if (rndNumber < 0.1)
+                            {
+                                numLitters = 3;
+                            }
+                            else if (rndNumber < 0.3)
+                            {
+                                numLitters = 4;
+                            }
+                            else if (rndNumber < 0.7)
+                            {
+                                numLitters = 5;
+                            }
+                            else
+                            {
+                                numLitters = 6;
+                            }
 
                             // Add new babies for each litter
                             for (int litter = 0; litter < numLitters; litter++) 
