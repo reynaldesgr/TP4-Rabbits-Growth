@@ -2,211 +2,98 @@ package src.rabbits;
 
 import java.util.ArrayList;
 import java.util.List;
+
 import src.MTRandom;
 
 public class Rabbit 
 {
-    private static int rabbitCount = 0;
+    private static final double IMMATURE_SURVIVAL_RATE = 0.35;
+    private static final double ADULT_SURVIVAL_RATE = 0.60;
+    private static final double SURVIVAL_DECREASE_RATE = 0.1;
 
-    private int id;
-    
-    // Age in years
-    private double ageInYears;
-    private boolean isPregnant;
-    private boolean alive;
-    private Sex sex;
-
+    private boolean isFemale;
+    private int age;
     private double survivalRate;
+    private boolean alive;
 
-    public Rabbit(double ageInYears, Sex sex) 
+    public Rabbit(int age, boolean isFemale) 
     {
-        this.id = ++rabbitCount;
-        this.ageInYears = ageInYears;
-        this.isPregnant = false;
-        this.sex = sex;
-        this.alive = true;
-        this.survivalRate = calculateSurvivalRate(ageInYears);
+        this.age = age;
+        this.isFemale = isFemale;
+        updateSurvivalAndAlive();
     }
 
-    public void incrementAge() 
+    public void incrementAge()
     {
-        this.ageInYears += 1; // Increase age by 1 year
-        survivalRate = calculateSurvivalRate(ageInYears);
+        this.age++;
+        updateSurvivalAndAlive();
     }
-
-    public boolean canGiveBirth() 
-    {
-        return sex == Sex.FEMALE && ageInYears >= 2;
-    }
-
-    
-    public void survive(MTRandom random) 
-    {
-        if (alive)
-        {
-            double randomNumber = random.nextDouble();
-            if(randomNumber < survivalRate)
-            {
-                this.alive = false;
-            }
-        }
-    }
-
 
     public boolean isAlive()
     {
-        return this.alive;
+        return alive;
     }
 
-
-    public boolean isPregnant() 
+    private void updateSurvivalAndAlive() 
     {
-        return isPregnant;
-    }
-
-    public void gettingPregnant() 
-    {
-        if (canGiveBirth() && !isPregnant) 
-        {
-            isPregnant = true;
-        }
-    }
-
-    public List<Rabbit> giveBirth(MTRandom random) 
-    {
-        int numberOfLitters = 1;
-        int numberOfKittens = 0;
-
-        double rg = random.nextDouble();
-
-        if (rg < 0.1) {
-            numberOfLitters = 4;
-        } else if (rg < 0.5) {
-            numberOfLitters = 5;
-        } else if (rg < 0.8) {
-            numberOfLitters = 6;
-        } else {
-            numberOfLitters = 7;
-        }
-
-        List<Rabbit> newKittens = new ArrayList<>();
-
-        for (int i = 0; i < numberOfLitters; i++) {
-            numberOfKittens = 3 + random.nextInt(4); // Equal chance to have 3 to 6 kittens per litter
-
-            for (int j = 0; j < numberOfKittens; j++) {
-                Sex kittenSex = determineSexOfKitten(random);
-                Rabbit kitten = new Rabbit(0, kittenSex);
-                newKittens.add(kitten);
-            }
-        }
-
-        this.isPregnant = false;
-
-        return newKittens;
-    }
-
-    public static Sex determineSexOfKitten(MTRandom random) 
-    {
-        double naturalProbability = 0.5;
-        double rg = random.nextDouble();
-
-        if (rg < naturalProbability) {
-            return Sex.MALE;
-        } else {
-            return Sex.FEMALE;
-        }
-    }
-
-    private double calculateSurvivalRate(double ageInYears) 
-    {
-        double survivalRate = 0.0;
-
-        if (ageInYears < 1) 
-        {
-            // Survival rate for young rabbits (35%)
+        if (age < 5) {
+            // 35% chance of survival for immature rabbits (less than 5 months)
             survivalRate = 0.35;
-        } 
-        else if (ageInYears >= 5.0 && ageInYears < 10.0) 
+        } else if (age >= 5 && age <= 8) 
         {
-            // Survival rate for adult rabbits (60%)
-            survivalRate = 0.6;
-        } 
-        else if (ageInYears >= 10.0 && ageInYears < 15.0) 
-        {
-            // Diminish survival rate by 10% every year after age 10
-            double diminishingRate = (ageInYears - 10.0) * 0.1;
-            survivalRate = 0.6 - diminishingRate;
+            // Survival rate of adults (between 5 and 8 months)
+            survivalRate = 0.60;
         } 
         else 
         {
-            // Survival rate is 0% for rabbits older than 15 years
-            survivalRate = 0.0;
+            // After the age of ten years, the survival rate decreases by 10% each year
+            if (age > 10) 
+            {
+                survivalRate -= 0.1;
+            }
         }
 
+        // Check if the rabbit is still alive based on survival rate
+        alive = survivalRate > 0;
+    }
+
+
+    public boolean isFemale() 
+    {
+        return isFemale;
+    }
+
+    public double getSurvivalRate() 
+    {
         return survivalRate;
     }
 
-    @Override
-    public String toString() 
+    public static List<Rabbit> giveBirth(int numberOfKittens, MTRandom random)
     {
-        String displayMsg = "[Rabbit]\n" + "\nNum. : " + this.id + "\nAge (years) : " + this.ageInYears
-                + "\nSex : " + this.sex;
+        List<Rabbit> kittens = new ArrayList<>();
 
-        if (this.sex.equals(Sex.FEMALE)) {
-            displayMsg += "\nPregnant : " + this.isPregnant;
+        for (int i = 0; i < numberOfKittens; i++) 
+        {
+            boolean isFemale = random.nextBoolean();
+            kittens.add(new Rabbit(0, isFemale));
         }
 
-        return displayMsg;
+        return kittens;
     }
 
-    public static int getRabbitCount() 
+    public static double calculateSurvivalRate(int age) 
     {
-        return rabbitCount;
-    }
-
-    public static void setRabbitCount(int rabbitCount) 
-    {
-        Rabbit.rabbitCount = rabbitCount;
-    }
-
-    public int getId() 
-    {
-        return id;
-    }
-
-    public void setId(int id) 
-    {
-        this.id = id;
-    }
-
-    public double getAgeInYears() 
-    {
-        return ageInYears;
-    }
-
-    public void setAgeInYears(double ageInYears) 
-    {
-        this.ageInYears = ageInYears;
-    }
-
-    public void setPregnant(boolean isPregnant) 
-    {
-        this.isPregnant = isPregnant;
-    }
-
-    public Sex getSex() 
-    {
-        return sex;
-    }
-
-    public void setSex(Sex sex) 
-    {
-        this.sex = sex;
-    }
-
-    public void killed()
-    {
-        this.alive = false;
+        if (age < 5) 
+        {
+            return IMMATURE_SURVIVAL_RATE;
+        } 
+        else if (age >= 5 && age <= 10) 
+        {
+            return ADULT_SURVIVAL_RATE;
+        } 
+        else 
+        {
+            return Math.max(0, 0.6 - ( (10 - age) * SURVIVAL_DECREASE_RATE ) );
+        }
     }
 }

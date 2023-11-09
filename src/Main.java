@@ -27,12 +27,7 @@ public class Main
         
         // More realistic simulation
 
-
-        int initialAdult         = 1; // 2 rabbits, because it is a couple of adults
-        int initialPredators     = 0;
-        int simulationYear       = 20;  // Set the number of simulation months
-
-        RabbitSimulation simulation = new RabbitSimulation(initialAdult, initialPredators, simulationYear);
+        RabbitSimulation simulation = new RabbitSimulation(1, 1, 20);
 
         simulation.runSimulation();
     }

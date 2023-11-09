@@ -1,138 +1,118 @@
 package src;
 
-import javax.swing.*;
-import java.util.ArrayList;
+import src.rabbits.Rabbit;
+
 import java.util.List;
-import src.predators.Predator;
-import src.rabbits.*;
 
 public class RabbitSimulation {
-    private List<Rabbit> population;
-    private List<Predator> predators;
-    private int currentYear;
+    private long[] females = new long[15];
+    private long[] males   = new long[15];
     private int simulationYear;
 
-    public RabbitSimulation(int initialAdult, int initialPredators, int simulationYear) {
-        this.currentYear    = 0;
+    public RabbitSimulation(int initialFemales, int initialMales, int simulationYear) 
+    {
         this.simulationYear = simulationYear;
-        this.population     = new ArrayList<>();
-        this.predators      = new ArrayList<>();
-
-        for (int i = 0; i < initialAdult; i++) {
-            population.add(new Rabbit(0, Sex.MALE));
-            population.add(new Rabbit(0, Sex.FEMALE));
-        }
-
-        for (int i = 0; i < initialPredators; i++) {
-            predators.add(new Predator());
-        }
+        females[0]          = initialFemales;
+        males  [0]          = initialMales;
     }
 
-    public boolean areMalesAvailable() 
+    public long count(long[] population) 
     {
-        for (Rabbit rabbit : population) 
+        long total = 0;
+        for (int i = 0; i < 15; i++) 
         {
-            if (rabbit.isAlive() && rabbit.getSex() == Sex.MALE) 
-            {
-                return true;
-            }
+            total += population[i];
         }
-        return false;
+        return total;
     }
 
     public void runSimulation() 
     {
         MTRandom rnd = new MTRandom();
-        rnd.setSeed(new int[]{0x124, 0x234, 0x341, 0x450});
-        long deaths, shots, births, females, males;
-        int size = population.size();
-        
-        while (currentYear < simulationYear) {
-            currentYear++;
+        rnd.setSeed(new int[]{0x123, 0x231, 0x341, 0x40});
 
-            System.out.println("Initial population at year " + currentYear + " : " + size);
-            deaths  = 0;
-            shots   = 0;
-            births  = 0;
-            females = 0;
-            males   = 0;
-            size    = 0;
-            List<Rabbit> newPopulation = new ArrayList<>();
+        long numSurvived;
 
-            // Update predator age and check for survival
-            for (Predator predator : predators) 
+        System.out.println("Females : " + count(females));
+        System.out.println("Males : "   + count(males));
+
+        for (int year = 0; year < simulationYear; year++)
+        {
+            numSurvived = 0;
+            // Males
+            for (int age = 14; age >= 1; age--) 
             {
-                predator.incrementAge();
+                // Increment age for existing males
+                males[age] = males[age - 1];
+
+                if (males[age] > 0)
+                {
+                    
+                    for (long n = 0; n < males[age]; n++)
+                    {
+                        if (rnd.nextDouble() < Rabbit.calculateSurvivalRate(age))
+                        {
+                            numSurvived++;
+                        }
+
+                    }
+                    males[age] = numSurvived;
+                }
             }
 
-            // Update rabbit age and check for survival
+            numSurvived = 0;
 
-            for (Rabbit rabbit : population)
+            // Females
+            for (int age = 14; age >= 1; age--)
             {
-                rabbit.survive(rnd);
-            }
-
-            for (Rabbit rabbit : population) {
-                if (rabbit.isAlive())
+                females[age] = females[age - 1];
+                if (females[age] > 0)
                 {
-                    rabbit.incrementAge();
-                }
-                else
-                {
-                    deaths++;
-                }
-            }
-
-            // Predators hunt rabbits
-            for (Predator predator : predators) {
-                if (predator.isAlive(rnd))
-                {
-                    shots += predator.hunt(population, rnd);
-                }
-            }
-
-            // Check for rabbit reproduction
-            List<Rabbit> newKittens = new ArrayList<>();
-            for (Rabbit rabbit : population) {
-                if (rabbit.isAlive())
-                {
-                    if (rabbit.canGiveBirth() && rabbit.isPregnant()) {
-                        newKittens.addAll(rabbit.giveBirth(rnd));
-                        births++;
-                    }
-                    else if (!rabbit.isPregnant() && areMalesAvailable())
+                    for (long n = 0; n <= females[age]; n++)
                     {
-                        rabbit.gettingPregnant();
+                        if (rnd.nextDouble() < Rabbit.calculateSurvivalRate(age))
+                        {
+                            numSurvived++;
+                        }
+
+                    }
+
+                    females[age] = numSurvived;
+
+                    if (females[age] > 0 && age > 1)
+                    {
+                        for (int i = 0; i <= females[age]; i++)
+                        {
+                            // Generate the number of litters for each female (3 to 6)
+                            int numLitters = rnd.nextInt(4) + 3;
+
+                            // Add new babies for each litter
+                            for (int litter = 0; litter < numLitters; litter++) 
+                            {
+                                int numBorn = rnd.nextInt(5) + 4; // (4 to 8)
+
+                                List<Rabbit> femaleBabies = Rabbit.giveBirth(numBorn, rnd);
+
+                                for (Rabbit rabbit : femaleBabies) 
+                                {
+                                    if (rabbit.isFemale() && rabbit.isAlive()) 
+                                    {
+                                        females[0]++;
+                                    } 
+                                    else if (!rabbit.isFemale() && rabbit.isAlive()) 
+                                    {
+                                        males[0]++;
+                                    }
+                                }
+                            }
+                        }
                     }
                 }
             }
 
-            population.addAll(newKittens);
-
-            for (Rabbit rabbit : population)
-            {
-                if (rabbit.isAlive())
-                {
-                    if (rabbit.getSex() == Sex.FEMALE)
-                    {
-                        females++;
-                    }
-                    else
-                    {
-                        males++;
-                    }
-                    size++;
-                }
-            }
-            System.out.println("--------------------------------------------");
-            System.out.println("* Year "        + currentYear);
-            System.out.println("- Females : "   + females);
-            System.out.println("- Males : "     + males);
-            System.out.println("- Natural Deaths : "          + deaths);
-            System.out.println("- Death(s) by predator(s) : " + shots);
-            System.out.println("- Births : "    + births);
-            System.out.println("--------------------------------------------");
+            System.out.println("Year " + (year + 1) + ":");
+            System.out.println("Females : " + count(females));
+            System.out.println("Males : "   + count(males));
         }
-
     }
 }
