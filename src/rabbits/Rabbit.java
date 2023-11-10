@@ -16,47 +16,17 @@ public class Rabbit
     private double survivalRate;
     private boolean alive;
 
-    public Rabbit(int age, boolean isFemale) 
+    public Rabbit(int age, boolean isFemale, MTRandom rnd) 
     {
         this.age = age;
         this.isFemale = isFemale;
-        updateSurvivalAndAlive();
-    }
-
-    public void incrementAge()
-    {
-        this.age++;
-        updateSurvivalAndAlive();
+        this.alive    = (rnd.nextDouble() < calculateSurvivalRate(age));
     }
 
     public boolean isAlive()
     {
         return alive;
     }
-
-    private void updateSurvivalAndAlive() 
-    {
-        if (age < 5) {
-            // 35% chance of survival for immature rabbits (less than 5 months)
-            survivalRate = 0.35;
-        } else if (age >= 5 && age <= 8) 
-        {
-            // Survival rate of adults (between 5 and 8 months)
-            survivalRate = 0.60;
-        } 
-        else 
-        {
-            // After the age of ten years, the survival rate decreases by 10% each year
-            if (age > 10) 
-            {
-                survivalRate -= 0.1;
-            }
-        }
-
-        // Check if the rabbit is still alive based on survival rate
-        alive = survivalRate > 0;
-    }
-
 
     public boolean isFemale() 
     {
@@ -75,7 +45,11 @@ public class Rabbit
         for (int i = 0; i < numberOfKittens; i++) 
         {
             boolean isFemale = random.nextBoolean();
-            kittens.add(new Rabbit(0, isFemale));
+            Rabbit  newBorn  = new Rabbit(0, isFemale, random);
+            if (newBorn.isAlive())
+            {
+                kittens.add(newBorn);
+            }
         }
 
         return kittens;
@@ -95,5 +69,10 @@ public class Rabbit
         {
             return Math.max(0, 0.6 - ( (10 - age) * SURVIVAL_DECREASE_RATE ) );
         }
+    }
+
+    public int getAge()
+    {
+        return this.age;
     }
 }

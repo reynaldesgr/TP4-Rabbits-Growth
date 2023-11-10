@@ -48,7 +48,7 @@ public class RabbitSimulation {
                 if (males[age] > 0)
                 {
                     
-                    for (long n = 0; n < males[age]; n++)
+                    for (long n = 0; n <= males[age]; n++)
                     {
                         if (rnd.nextDouble() < Rabbit.calculateSurvivalRate(age))
                         {
@@ -66,6 +66,7 @@ public class RabbitSimulation {
             for (int age = 14; age >= 1; age--)
             {
                 females[age] = females[age - 1];
+                
                 if (females[age] > 0)
                 {
                     for (long n = 0; n <= females[age]; n++)
@@ -79,7 +80,7 @@ public class RabbitSimulation {
 
                     females[age] = numSurvived;
 
-                    if (females[age] > 0 && age > 1)
+                    if (females[age] > 0 && age > 2)
                     {
                         for (int i = 0; i <= females[age]; i++)
                         {
