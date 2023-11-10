@@ -8,12 +8,12 @@ import src.MTRandom;
 public class Rabbit 
 {
     private static final double IMMATURE_SURVIVAL_RATE = 0.35;
-    private static final double ADULT_SURVIVAL_RATE = 0.60;
+    private static final double ADULT_SURVIVAL_RATE    = 0.60;
     private static final double SURVIVAL_DECREASE_RATE = 0.1;
 
     private boolean isFemale;
-    private int age;
-    private double survivalRate;
+    private int     age;
+    private double  survivalRate;
     private boolean alive;
 
     public Rabbit(int age, boolean isFemale, MTRandom rnd) 
@@ -51,7 +51,7 @@ public class Rabbit
                 kittens.add(newBorn);
             }
         }
-
+        
         return kittens;
     }
 
