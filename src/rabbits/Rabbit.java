@@ -44,14 +44,25 @@ public class Rabbit
 
         for (int i = 0; i < numberOfKittens; i++) 
         {
-            boolean isFemale = random.nextBoolean();
+            double  rnd = Math.random();
+            boolean isFemale;
+            
+            if (rnd < 0.5)
+            {
+                isFemale = false;
+            }
+            else
+            {
+                isFemale = true;
+            }
+            
             Rabbit  newBorn  = new Rabbit(0, isFemale, random);
             if (newBorn.isAlive())
             {
                 kittens.add(newBorn);
             }
         }
-        
+
         return kittens;
     }
 
@@ -69,6 +80,31 @@ public class Rabbit
         {
             return Math.max(0, 0.6 - ( (10 - age) * SURVIVAL_DECREASE_RATE ) );
         }
+    }
+    
+    public static int calculateNumberOfLitters(MTRandom rnd)
+    {
+        int numLitters;
+        double rndNumber = rnd.nextDouble();
+
+        if (rndNumber < 0.1)
+        {
+            numLitters = 3;
+        }
+        else if (rndNumber < 0.3)
+        {
+            numLitters = 4;
+        }
+        else if (rndNumber < 0.7)
+        {
+            numLitters = 5;
+        }
+        else
+        {
+            numLitters = 6;
+        }
+
+        return numLitters;
     }
 
     public int getAge()

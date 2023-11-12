@@ -26,10 +26,11 @@ public class Main
 
         
         // More realistic simulation
-
-        RabbitSimulation simulation = new RabbitSimulation(1, 1, 20);
-
-        simulation.runSimulation();
+        
+        RabbitSimulation simulation = new RabbitSimulation(5, 5, 20);
+        
+        RSimulationLauncher launcher = new RSimulationLauncher();
+        launcher.launchSimulations();
     }
 }
 

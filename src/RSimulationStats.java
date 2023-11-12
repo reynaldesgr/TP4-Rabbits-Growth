@@ -2,194 +2,185 @@ package src;
 
 public class RSimulationStats 
 {
-    private int    yearsSimulated;
+    private long   initialSizePopulation;
 
-    private long   totalFemales;
-    private long   totalMales;
-    private long   totalRabbits;
-    private long   totalBirths;
-    private long   totalDeaths;
-    private long   totalYoungRabbits;
-    private long   totalPredators;
-    private double totalAges; 
+    private long[] females;
+    private long[] males;
 
-    public RSimulationStats(int years) 
+    private long   femalesDead;
+    private long   malesDead;
+
+    private long   femalesBorn;
+    private long   malesBorn;
+
+    private int    totalAgeAtDeath;
+
+    private long   births;
+
+    public RSimulationStats(){}
+
+    public RSimulationStats(long[] females, long[] males) 
     {
-        // Initialize statistics
-        this.totalFemales      = 0;
-        this.totalMales        = 0;
-        this.totalRabbits      = 0;
-        this.totalBirths       = 0;
-        this.totalDeaths       = 0;
-        this.totalYoungRabbits = 0;
-        this.totalPredators    = 0;
-        this.totalAges         = 0;
+        this.initialSizePopulation = count(females) + count(males);
 
-        this.yearsSimulated = years;
+        this.females               = females;
+        this.males                 = males;
+        
+        this.births                = 0;
+        
+        this.femalesDead           = 0;
+        this.malesDead             = 0;
+
+        this.femalesBorn           = 0;
+        this.malesBorn             = 0;
+
+        this.totalAgeAtDeath       = 0;
     }
 
-    /**
-     * Update statistics based on the current population.
-     * @param females Number of females in the last year
-     * @param males Number of males in the last year
-     * @param predators Number of predators in the last year
-     * @param births Number of births in the last year
-     * @param deaths Number of deaths in the last year
-     * @param ages Sum of ages of all rabbits
-     */
-    public void updateStats(long females, long males, long deaths, long births, double ages) 
-    {
-        // Update statistics by iterating through the population
-        totalFemales      += females;
-        totalMales        += males;
-        totalBirths       += births;
-        totalYoungRabbits += females + males;
-        totalAges         += ages;
-        this.totalDeaths   = deaths;
 
-        totalRabbits = totalFemales + totalMales;
+    public void updateStats(long initialSizePopulation, long[] females, long[] males, long births, long femalesBorn, long malesBorn, long femalesDead, long malesDead, int totalAgeAtDeath)
+    {
+        this.initialSizePopulation = initialSizePopulation;
+
+        this.females               = females;
+        this.males                 = males;
+
+        this.births                = births;
+
+        this.femalesDead           = femalesDead;
+        this.malesDead             = malesDead;
+
+        this.femalesBorn           = femalesBorn;
+        this.malesBorn             = malesBorn;
+
+        this.totalAgeAtDeath       = totalAgeAtDeath;
+
     }
 
-    /**
-     * Calculate the percentage of females in the population.
-     * @return The percentage of females
-     */
-    public double calculatePercentageFemales() 
+    public void displayStats(int year) 
     {
-        if (totalRabbits == 0) {
+        System.out.println();
+        System.out.println("-- Year " + (year + 1) + " stats : --");
+        System.out.println("\n* Initial size at the beginning of the year : " + this.initialSizePopulation);
+        System.out.println("Percentage of Females: "         + Math.round(calculatePercentage(count(females), count(males))) + "%");
+        System.out.println("Percentage of Males: "           + Math.round(calculatePercentage(count(males), count(females))) + "%");
+        System.out.println("Number of births : "             + births);
+        System.out.println("Number of deaths : "             + (femalesDead + malesDead) );
+        System.out.println("Number of females deaths : "     + femalesDead);
+        System.out.println("Number of males deaths : "       + malesDead);
+        System.out.println("Number of females born : "       + femalesBorn);
+        System.out.println("Number of males born : "         + malesBorn);
+        System.out.println("Average age : "                  + Math.round(calculateAverageAge()));
+        if (femalesDead != 0 || malesDead != 0)
+        {
+            System.out.println("Average age at death : "        + Math.round(totalAgeAtDeath / (femalesDead + malesDead)));
+        }
+        System.out.println("===============================================");
+        System.out.println("Total Population : "                + getTotalPopulation());
+        System.out.println("Total Females :\t"                  + count(females));
+        System.out.println("Total Males :\t"                    + count(males));
+        System.out.println("===============================================");
+        System.out.println();
+    }
+
+    private double calculatePercentage(long count1, long count2) 
+    {
+        if (count1 + count2 == 0) 
+        {
             return 0.0;
         }
-        return (double) totalFemales / totalRabbits * 100;
+        return (double) count1 / (count1 + count2) * 100.0;
     }
 
-    /**
-     * Calculate the percentage of males in the population.
-     * @return The percentage of males
-     */
-    public double calculatePercentageMales() 
-    {
-        if (totalRabbits == 0) {
-            return 0.0;
-        }
-        return (double) totalMales / totalRabbits * 100;
-    }
-
-    /**
-     * Calculate the percentage of predators in the population.
-     * @return The percentage of predators
-     */
-    public double calculatePercentagePredators() 
-    {
-        if (totalRabbits == 0) {
-            return 0.0;
-        }
-        return (double) totalPredators / totalRabbits * 100;
-    }
-
-    /**
-     * Calculate the average number of births per year.
-     * @return The average number of births per year
-     */
-    public double calculateAverageBirths() 
-    {
-        if (yearsSimulated == 0) {
-            return 0.0;
-        }
-        return (double) totalBirths / yearsSimulated;
-    }
-
-    /**
-     * Calculate the average number of deaths per year.
-     * @return The average number of deaths per year
-     */
-    public double calculateAverageDeaths() 
-    {
-        if (yearsSimulated == 0) {
-            return 0.0;
-        }
-        return (double) totalDeaths / yearsSimulated;
-    }
-
-    /**
-     * Calculate the average age of the rabbits in the population.
-     * @return The average age of rabbits
-     */
     public double calculateAverageAge() 
     {
-        if (totalRabbits == 0) {
+        long totalPopulation = getTotalPopulation();
+        if (totalPopulation == 0) 
+        {
             return 0.0;
         }
-        return (double) totalAges / (double) totalRabbits;
+
+        long sum = 0;
+        for (int i = 0; i < females.length; i++) 
+        {
+            sum += females[i] * (i + 1) + males[i] * (i + 1); // Contribution de chaque groupe d'âge
+        }
+
+        return (double) sum / totalPopulation;
     }
 
-    /**
-     * Get the total number of females.
-     * @return The total number of females
-     */
-    public long getTotalFemales() 
+    public double calculatePopulationGrowthRate(long previousPopulation, long currentPopulation) 
     {
-        return totalFemales;
+        if (previousPopulation == 0) 
+        {
+            return 0.0;
+        }
+
+        return ((double) currentPopulation - previousPopulation) / previousPopulation * 100.0;
     }
 
-    /**
-     * Get the total number of males.
-     * @return The total number of males
-     */
-    public long getTotalMales() 
+
+    private long count(long[] population) 
     {
-        return totalMales;
+        long total = 0;
+        if (population != null)
+        {
+            for (long count : population) 
+            {
+                total += count;
+            }
+        }
+        return total;
     }
 
-    /**
-     * Get the total number of rabbits.
-     * @return The total number of rabbits
-     */
-    public long getTotalRabbits() 
+    public long getTotalPopulation() 
     {
-        return totalRabbits;
-    }
+        return count(females) + count(males);
+    } 
 
-    /**
-     * Get the total number of births.
-     * @return The total number of births
-     */
-    public long getTotalBirths() 
+    public long getFemalesDead()
     {
-        return totalBirths;
+        return femalesDead;
     }
 
-    /**
-     * Get the total number of deaths.
-     * @return The total number of deaths
-     */
-    public long getTotalDeaths() 
+    public long getMalesDead()
     {
-        return totalDeaths;
+        return malesDead;
     }
 
-    /**
-     * Get the total number of young rabbits (age < 1 year).
-     * @return The total number of young rabbits
-     */
-    public long getTotalYoungRabbits() 
+    public long getMales()
     {
-        return totalYoungRabbits;
+        return count(males);
     }
 
-
-    public void printStats() 
+    public long getFemales()
     {
-        System.out.println("Total Females: " + getTotalFemales());
-        System.out.println("Total Males: " + getTotalMales());
-        System.out.println("Total Rabbits: " + getTotalRabbits());
-        System.out.println("Total Births: " + getTotalBirths());
-        System.out.println("Total Deaths: " + getTotalDeaths());
-        System.out.println("Total Young Rabbits: " + getTotalYoungRabbits());
-        System.out.println("Percentage Females: " + calculatePercentageFemales() + "%");
-        System.out.println("Percentage Males: " + calculatePercentageMales() + "%");
-        System.out.println("Average Births Per Year: " + calculateAverageBirths());
-        System.out.println("Average Deaths Per Year: " + calculateAverageDeaths());
-        System.out.println("Average Age of Rabbits: " + calculateAverageAge());
+        return count(females);
     }
 
+    public long getBirths()
+    {
+        return births;
+    }
+
+
+    public double getPercentageFemales()
+    {
+       return Math.round(calculatePercentage(count(females), count(males)));
+    }
+
+    public double getPercentageMales()
+    {
+       return Math.round(calculatePercentage(count(males), count(females)));
+    }
+
+    public void setFemales(long[] females)
+    {
+        this.females = females;
+    }
+
+    public void setMales(long[] males)
+    {
+        this.males = males;
+    }
 }

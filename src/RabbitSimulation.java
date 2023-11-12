@@ -26,25 +26,47 @@ public class RabbitSimulation {
         return total;
     }
 
-    public void runSimulation() 
+    public void runSimulation(RSimulationStats stats) 
     {
         MTRandom rnd = new MTRandom();
         rnd.setSeed(new int[]{0x123, 0x231, 0x341, 0x404});
 
-        long numSurvived;
+        long   numSurvived;
+        double numLitters;
 
-        System.out.println("Females : " + count(females));
-        System.out.println("Males : "   + count(males));
+        long   initialSizePopulation;
+        long   numOfFemalesDead;
+        long   numOfMalesDead;
+
+        long   numOfFemalesBorn;
+        long   numOfMalesBorn;
+
+        long   numBirths;
+        int    ageAtDeath;
+
+        System.out.println("Computing simulation...");
+
+        stats.setFemales(females);
+        stats.setMales(males);
 
         for (int year = 0; year < simulationYear; year++)
         {
-            numSurvived = 0;
+            initialSizePopulation = count(females) + count(males);
+
+            numBirths        = 0;
+            numSurvived      = 0;
+
+            numOfFemalesDead = 0;
+            numOfMalesDead   = 0;
+
+            numOfFemalesBorn = 0;
+            numOfMalesBorn   = 0;
+
+            ageAtDeath       = 0;
+
             // Males
             for (int age = 14; age >= 1; age--) 
             {
-                // Increment age for existing males
-                males[age] = males[age - 1];
-
                 if (males[age] > 0)
                 {
                     
@@ -54,19 +76,23 @@ public class RabbitSimulation {
                         {
                             numSurvived++;
                         }
-
+                        else
+                        {
+                            numOfMalesDead++;
+                            ageAtDeath+=age;
+                        }
                     }
+                    
                     males[age] = numSurvived;
                 }
             }
 
-            numSurvived = 0;
+            numSurvived    = 0;
 
             // Females
             for (int age = 14; age >= 1; age--)
             {
-                females[age] = females[age - 1];
-                
+                // Increment age for existing females
                 if (females[age] > 0)
                 {
                     for (long n = 0; n <= females[age]; n++)
@@ -75,37 +101,23 @@ public class RabbitSimulation {
                         {
                             numSurvived++;
                         }
+                        else
+                        {
+                            numOfFemalesDead++;
+                            ageAtDeath+=age;
+                        }
 
                     }
 
-                    females[age] = numSurvived;
+                    females[age]          = numSurvived;
 
+                    // Pregnancy
                     if (females[age] > 0 && age > 2)
                     {
                         for (int i = 0; i <= females[age]; i++)
                         {
                             // Generate the number of litters for each female (3 to 6)
-                            int    numLitters;
-                            double rndNumber;
-
-                            rndNumber = rnd.nextDouble();
-
-                            if (rndNumber < 0.1)
-                            {
-                                numLitters = 3;
-                            }
-                            else if (rndNumber < 0.3)
-                            {
-                                numLitters = 4;
-                            }
-                            else if (rndNumber < 0.7)
-                            {
-                                numLitters = 5;
-                            }
-                            else
-                            {
-                                numLitters = 6;
-                            }
+                            numLitters = Rabbit.calculateNumberOfLitters(rnd);
 
                             // Add new babies for each litter
                             for (int litter = 0; litter < numLitters; litter++) 
@@ -129,11 +141,23 @@ public class RabbitSimulation {
                         }
                     }
                 }
+
             }
 
-            System.out.println("Year " + (year + 1) + ":");
-            System.out.println("Females : " + count(females));
-            System.out.println("Males : "   + count(males));
+            numOfFemalesBorn = females[0];
+            numOfMalesBorn   = males[0];
+            numBirths        = males[0] + females[0];
+
+            for (int age = 14; age >= 1; age--)
+            {
+                females[age] = females[age - 1];
+                males  [age] = males  [age - 1];
+            }
+
+            stats.updateStats(initialSizePopulation, females, males, numBirths, numOfFemalesBorn, numOfMalesBorn, numOfFemalesDead, numOfMalesDead, ageAtDeath);
+            //if (year == 19) stats.displayStats(year);
         }
     }
+
+
 }
