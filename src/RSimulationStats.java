@@ -1,5 +1,6 @@
 package src;
 
+
 public class RSimulationStats 
 {
     private long   initialSizePopulation;
@@ -7,13 +8,14 @@ public class RSimulationStats
     private long[] females;
     private long[] males;
 
+    private long[] ageAtDeath;
+
     private long   femalesDead;
     private long   malesDead;
 
     private long   femalesBorn;
     private long   malesBorn;
 
-    private int    totalAgeAtDeath;
 
     private long   births;
 
@@ -33,12 +35,10 @@ public class RSimulationStats
 
         this.femalesBorn           = 0;
         this.malesBorn             = 0;
-
-        this.totalAgeAtDeath       = 0;
     }
 
 
-    public void updateStats(long initialSizePopulation, long[] females, long[] males, long births, long femalesBorn, long malesBorn, long femalesDead, long malesDead, int totalAgeAtDeath)
+    public void updateStats(long initialSizePopulation, long[] females, long[] males, long births, long femalesBorn, long malesBorn, long femalesDead, long malesDead, long[] ageAtDeath)
     {
         this.initialSizePopulation = initialSizePopulation;
 
@@ -53,8 +53,7 @@ public class RSimulationStats
         this.femalesBorn           = femalesBorn;
         this.malesBorn             = malesBorn;
 
-        this.totalAgeAtDeath       = totalAgeAtDeath;
-
+        this.ageAtDeath            = ageAtDeath;
     }
 
     public void displayStats(int year) 
@@ -70,10 +69,10 @@ public class RSimulationStats
         System.out.println("Number of males deaths : "       + malesDead);
         System.out.println("Number of females born : "       + femalesBorn);
         System.out.println("Number of males born : "         + malesBorn);
-        System.out.println("Average age : "                  + Math.round(calculateAverageAge()));
+        System.out.printf("Average age : %.2f \n",             calculateAverageAge());
         if (femalesDead != 0 || malesDead != 0)
         {
-            System.out.println("Average age at death : "        + Math.round(totalAgeAtDeath / (femalesDead + malesDead)));
+            System.out.printf("Average age at death : %.2f \n", calculateWeightedAverage(ageAtDeath));
         }
         System.out.println("===============================================");
         System.out.println("Total Population : "                + getTotalPopulation());
@@ -81,6 +80,24 @@ public class RSimulationStats
         System.out.println("Total Males :\t"                    + count(males));
         System.out.println("===============================================");
         System.out.println();
+    }
+
+    private static double calculateWeightedAverage(long[] ageAtDeath) 
+    {
+        long totalDecedents = 0;
+        long sumWeightedAges = 0;
+
+        for (int age = 0; age < ageAtDeath.length; age++) 
+        {
+            totalDecedents  += ageAtDeath[age];
+            sumWeightedAges += age * ageAtDeath[age];
+        }
+
+        if (totalDecedents == 0) {
+            return 0;
+        }
+
+        return (double) sumWeightedAges / totalDecedents;
     }
 
     private double calculatePercentage(long count1, long count2) 
@@ -103,7 +120,7 @@ public class RSimulationStats
         long sum = 0;
         for (int i = 0; i < females.length; i++) 
         {
-            sum += females[i] * (i + 1) + males[i] * (i + 1); // Contribution de chaque groupe d'âge
+            sum += females[i] * (i + 1) + males[i] * (i + 1); 
         }
 
         return (double) sum / totalPopulation;
@@ -162,7 +179,6 @@ public class RSimulationStats
     {
         return births;
     }
-
 
     public double getPercentageFemales()
     {

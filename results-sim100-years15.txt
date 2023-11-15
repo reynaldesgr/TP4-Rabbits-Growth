@@ -1,0 +1,3111 @@
+/================================================================================/
+Average females per simulations             :        4.177304135E7
+Average males per simulations               :        4.177305847E7
+Average deaths per simulations              :        3.679365419E7
+Average population size per simulations     :        8.354609982E7
+Average births per simulations              :        6.36901736E7
+Average % females per simulations.          :        50.0%
+Average % males per simulations.            :        50.0%
+/================================================================================/
+
+
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 45)
+Annee : 3
+Total : (2, 201)
+Annee : 4
+Total : (3, 1015)
+Annee : 5
+Total : (4, 5458)
+Annee : 6
+Total : (5, 29510)
+Annee : 7
+Total : (6, 154561)
+Annee : 8
+Total : (7, 815558)
+Annee : 9
+Total : (8, 4314175)
+Annee : 10
+Total : (9, 7286220)
+Annee : 11
+Total : (10, 16532391)
+Annee : 12
+Total : (11, 25444408)
+Annee : 13
+Total : (12, 37911593)
+Annee : 14
+Total : (13, 60750935)
+Annee : 15
+Total : (14, 85729831)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 122)
+Annee : 4
+Total : (3, 709)
+Annee : 5
+Total : (4, 3638)
+Annee : 6
+Total : (5, 19425)
+Annee : 7
+Total : (6, 102327)
+Annee : 8
+Total : (7, 539506)
+Annee : 9
+Total : (8, 2847283)
+Annee : 10
+Total : (9, 4813547)
+Annee : 11
+Total : (10, 10753291)
+Annee : 12
+Total : (11, 22234893)
+Annee : 13
+Total : (12, 34293875)
+Annee : 14
+Total : (13, 53939089)
+Annee : 15
+Total : (14, 78851747)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 73)
+Annee : 4
+Total : (3, 347)
+Annee : 5
+Total : (4, 1810)
+Annee : 6
+Total : (5, 9792)
+Annee : 7
+Total : (6, 51793)
+Annee : 8
+Total : (7, 273899)
+Annee : 9
+Total : (8, 1448564)
+Annee : 10
+Total : (9, 7667459)
+Annee : 11
+Total : (10, 12231829)
+Annee : 12
+Total : (11, 18695635)
+Annee : 13
+Total : (12, 29473523)
+Annee : 14
+Total : (13, 48063456)
+Annee : 15
+Total : (14, 75990072)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 52)
+Annee : 3
+Total : (2, 296)
+Annee : 4
+Total : (3, 1567)
+Annee : 5
+Total : (4, 8616)
+Annee : 6
+Total : (5, 45929)
+Annee : 7
+Total : (6, 244737)
+Annee : 8
+Total : (7, 1297270)
+Annee : 9
+Total : (8, 6862165)
+Annee : 10
+Total : (9, 11946913)
+Annee : 11
+Total : (10, 17673744)
+Annee : 12
+Total : (11, 27130055)
+Annee : 13
+Total : (12, 43843825)
+Annee : 14
+Total : (13, 67492015)
+Annee : 15
+Total : (14, 97442391)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 134)
+Annee : 4
+Total : (3, 588)
+Annee : 5
+Total : (4, 2962)
+Annee : 6
+Total : (5, 15653)
+Annee : 7
+Total : (6, 82790)
+Annee : 8
+Total : (7, 436181)
+Annee : 9
+Total : (8, 2302902)
+Annee : 10
+Total : (9, 3878535)
+Annee : 11
+Total : (10, 8313372)
+Annee : 12
+Total : (11, 17314068)
+Annee : 13
+Total : (12, 24971542)
+Annee : 14
+Total : (13, 37712556)
+Annee : 15
+Total : (14, 61666657)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 151)
+Annee : 4
+Total : (3, 743)
+Annee : 5
+Total : (4, 3773)
+Annee : 6
+Total : (5, 19567)
+Annee : 7
+Total : (6, 103634)
+Annee : 8
+Total : (7, 545925)
+Annee : 9
+Total : (8, 2884040)
+Annee : 10
+Total : (9, 4630478)
+Annee : 11
+Total : (10, 10522872)
+Annee : 12
+Total : (11, 20249303)
+Annee : 13
+Total : (12, 30239682)
+Annee : 14
+Total : (13, 47373218)
+Annee : 15
+Total : (14, 66419807)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 134)
+Annee : 4
+Total : (3, 806)
+Annee : 5
+Total : (4, 4263)
+Annee : 6
+Total : (5, 22832)
+Annee : 7
+Total : (6, 120253)
+Annee : 8
+Total : (7, 634281)
+Annee : 9
+Total : (8, 3358405)
+Annee : 10
+Total : (9, 5750156)
+Annee : 11
+Total : (10, 12877022)
+Annee : 12
+Total : (11, 26482451)
+Annee : 13
+Total : (12, 39856337)
+Annee : 14
+Total : (13, 60541736)
+Annee : 15
+Total : (14, 90715089)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 73)
+Annee : 4
+Total : (3, 408)
+Annee : 5
+Total : (4, 2260)
+Annee : 6
+Total : (5, 12147)
+Annee : 7
+Total : (6, 64478)
+Annee : 8
+Total : (7, 341489)
+Annee : 9
+Total : (8, 1806973)
+Annee : 10
+Total : (9, 9554296)
+Annee : 11
+Total : (10, 15033710)
+Annee : 12
+Total : (11, 20825653)
+Annee : 13
+Total : (12, 34630363)
+Annee : 14
+Total : (13, 57557619)
+Annee : 15
+Total : (14, 94674452)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 122)
+Annee : 4
+Total : (3, 740)
+Annee : 5
+Total : (4, 3912)
+Annee : 6
+Total : (5, 20137)
+Annee : 7
+Total : (6, 105903)
+Annee : 8
+Total : (7, 558127)
+Annee : 9
+Total : (8, 2955569)
+Annee : 10
+Total : (9, 4838022)
+Annee : 11
+Total : (10, 11164849)
+Annee : 12
+Total : (11, 21744802)
+Annee : 13
+Total : (12, 33552612)
+Annee : 14
+Total : (13, 54477185)
+Annee : 15
+Total : (14, 78166124)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 134)
+Annee : 4
+Total : (3, 661)
+Annee : 5
+Total : (4, 3530)
+Annee : 6
+Total : (5, 18412)
+Annee : 7
+Total : (6, 97570)
+Annee : 8
+Total : (7, 515719)
+Annee : 9
+Total : (8, 2719551)
+Annee : 10
+Total : (9, 4606161)
+Annee : 11
+Total : (10, 9983586)
+Annee : 12
+Total : (11, 20486336)
+Annee : 13
+Total : (12, 30977939)
+Annee : 14
+Total : (13, 49150175)
+Annee : 15
+Total : (14, 70851950)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 66)
+Annee : 4
+Total : (3, 311)
+Annee : 5
+Total : (4, 1612)
+Annee : 6
+Total : (5, 8457)
+Annee : 7
+Total : (6, 44350)
+Annee : 8
+Total : (7, 235214)
+Annee : 9
+Total : (8, 1241245)
+Annee : 10
+Total : (9, 6559815)
+Annee : 11
+Total : (10, 10734778)
+Annee : 12
+Total : (11, 15032171)
+Annee : 13
+Total : (12, 24139454)
+Annee : 14
+Total : (13, 37961364)
+Annee : 15
+Total : (14, 58380974)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 134)
+Annee : 4
+Total : (3, 723)
+Annee : 5
+Total : (4, 3751)
+Annee : 6
+Total : (5, 19657)
+Annee : 7
+Total : (6, 104628)
+Annee : 8
+Total : (7, 552107)
+Annee : 9
+Total : (8, 2918860)
+Annee : 10
+Total : (9, 4806245)
+Annee : 11
+Total : (10, 10801860)
+Annee : 12
+Total : (11, 21031304)
+Annee : 13
+Total : (12, 32538109)
+Annee : 14
+Total : (13, 49163761)
+Annee : 15
+Total : (14, 69616329)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 45)
+Annee : 3
+Total : (2, 240)
+Annee : 4
+Total : (3, 1230)
+Annee : 5
+Total : (4, 6851)
+Annee : 6
+Total : (5, 36295)
+Annee : 7
+Total : (6, 192189)
+Annee : 8
+Total : (7, 1018896)
+Annee : 9
+Total : (8, 5377675)
+Annee : 10
+Total : (9, 9217411)
+Annee : 11
+Total : (10, 20933794)
+Annee : 12
+Total : (11, 30580322)
+Annee : 13
+Total : (12, 46945157)
+Annee : 14
+Total : (13, 70069249)
+Annee : 15
+Total : (14, 103001471)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 122)
+Annee : 4
+Total : (3, 709)
+Annee : 5
+Total : (4, 3796)
+Annee : 6
+Total : (5, 19985)
+Annee : 7
+Total : (6, 104799)
+Annee : 8
+Total : (7, 552490)
+Annee : 9
+Total : (8, 2920958)
+Annee : 10
+Total : (9, 4990612)
+Annee : 11
+Total : (10, 10987694)
+Annee : 12
+Total : (11, 22234325)
+Annee : 13
+Total : (12, 32532819)
+Annee : 14
+Total : (13, 51171505)
+Annee : 15
+Total : (14, 73574270)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 160)
+Annee : 4
+Total : (3, 736)
+Annee : 5
+Total : (4, 3655)
+Annee : 6
+Total : (5, 19374)
+Annee : 7
+Total : (6, 102339)
+Annee : 8
+Total : (7, 540327)
+Annee : 9
+Total : (8, 2852766)
+Annee : 10
+Total : (9, 4742131)
+Annee : 11
+Total : (10, 10657879)
+Annee : 12
+Total : (11, 21586207)
+Annee : 13
+Total : (12, 33142481)
+Annee : 14
+Total : (13, 52115039)
+Annee : 15
+Total : (14, 73725463)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 73)
+Annee : 4
+Total : (3, 459)
+Annee : 5
+Total : (4, 2179)
+Annee : 6
+Total : (5, 11648)
+Annee : 7
+Total : (6, 62369)
+Annee : 8
+Total : (7, 327725)
+Annee : 9
+Total : (8, 1729208)
+Annee : 10
+Total : (9, 9134993)
+Annee : 11
+Total : (10, 14846192)
+Annee : 12
+Total : (11, 22187110)
+Annee : 13
+Total : (12, 34398151)
+Annee : 14
+Total : (13, 54803068)
+Annee : 15
+Total : (14, 79243531)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 187)
+Annee : 4
+Total : (3, 1013)
+Annee : 5
+Total : (4, 5348)
+Annee : 6
+Total : (5, 28620)
+Annee : 7
+Total : (6, 151371)
+Annee : 8
+Total : (7, 805546)
+Annee : 9
+Total : (8, 4253658)
+Annee : 10
+Total : (9, 6921736)
+Annee : 11
+Total : (10, 15116670)
+Annee : 12
+Total : (11, 30256093)
+Annee : 13
+Total : (12, 47248487)
+Annee : 14
+Total : (13, 74237192)
+Annee : 15
+Total : (14, 102149856)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 153)
+Annee : 4
+Total : (3, 821)
+Annee : 5
+Total : (4, 4243)
+Annee : 6
+Total : (5, 22290)
+Annee : 7
+Total : (6, 117601)
+Annee : 8
+Total : (7, 620935)
+Annee : 9
+Total : (8, 3287514)
+Annee : 10
+Total : (9, 5375927)
+Annee : 11
+Total : (10, 11967658)
+Annee : 12
+Total : (11, 23706173)
+Annee : 13
+Total : (12, 37694269)
+Annee : 14
+Total : (13, 57641938)
+Annee : 15
+Total : (14, 85168418)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 216)
+Annee : 4
+Total : (3, 1088)
+Annee : 5
+Total : (4, 5522)
+Annee : 6
+Total : (5, 29449)
+Annee : 7
+Total : (6, 154874)
+Annee : 8
+Total : (7, 817395)
+Annee : 9
+Total : (8, 4320535)
+Annee : 10
+Total : (9, 7306633)
+Annee : 11
+Total : (10, 15800142)
+Annee : 12
+Total : (11, 25163137)
+Annee : 13
+Total : (12, 40200818)
+Annee : 14
+Total : (13, 62241677)
+Annee : 15
+Total : (14, 92331767)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 45)
+Annee : 3
+Total : (2, 232)
+Annee : 4
+Total : (3, 1160)
+Annee : 5
+Total : (4, 5943)
+Annee : 6
+Total : (5, 31378)
+Annee : 7
+Total : (6, 165080)
+Annee : 8
+Total : (7, 872043)
+Annee : 9
+Total : (8, 4609236)
+Annee : 10
+Total : (9, 7564628)
+Annee : 11
+Total : (10, 16499462)
+Annee : 12
+Total : (11, 25269572)
+Annee : 13
+Total : (12, 38578313)
+Annee : 14
+Total : (13, 64651146)
+Annee : 15
+Total : (14, 90320003)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 73)
+Annee : 4
+Total : (3, 415)
+Annee : 5
+Total : (4, 2096)
+Annee : 6
+Total : (5, 11037)
+Annee : 7
+Total : (6, 58345)
+Annee : 8
+Total : (7, 306641)
+Annee : 9
+Total : (8, 1621468)
+Annee : 10
+Total : (9, 8582542)
+Annee : 11
+Total : (10, 14660773)
+Annee : 12
+Total : (11, 20820536)
+Annee : 13
+Total : (12, 33973950)
+Annee : 14
+Total : (13, 53551288)
+Annee : 15
+Total : (14, 83023263)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 177)
+Annee : 4
+Total : (3, 838)
+Annee : 5
+Total : (4, 4434)
+Annee : 6
+Total : (5, 23437)
+Annee : 7
+Total : (6, 122527)
+Annee : 8
+Total : (7, 648978)
+Annee : 9
+Total : (8, 3432515)
+Annee : 10
+Total : (9, 5467293)
+Annee : 11
+Total : (10, 12699662)
+Annee : 12
+Total : (11, 24371576)
+Annee : 13
+Total : (12, 35612491)
+Annee : 14
+Total : (13, 54473317)
+Annee : 15
+Total : (14, 78645289)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 108)
+Annee : 4
+Total : (3, 574)
+Annee : 5
+Total : (4, 3236)
+Annee : 6
+Total : (5, 16997)
+Annee : 7
+Total : (6, 90828)
+Annee : 8
+Total : (7, 479966)
+Annee : 9
+Total : (8, 2543665)
+Annee : 10
+Total : (9, 4299903)
+Annee : 11
+Total : (10, 9461820)
+Annee : 12
+Total : (11, 19737030)
+Annee : 13
+Total : (12, 28375970)
+Annee : 14
+Total : (13, 45996402)
+Annee : 15
+Total : (14, 68768938)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 45)
+Annee : 3
+Total : (2, 170)
+Annee : 4
+Total : (3, 857)
+Annee : 5
+Total : (4, 4854)
+Annee : 6
+Total : (5, 26277)
+Annee : 7
+Total : (6, 139919)
+Annee : 8
+Total : (7, 740817)
+Annee : 9
+Total : (8, 3911624)
+Annee : 10
+Total : (9, 6174757)
+Annee : 11
+Total : (10, 14391755)
+Annee : 12
+Total : (11, 29448986)
+Annee : 13
+Total : (12, 42953188)
+Annee : 14
+Total : (13, 66242422)
+Annee : 15
+Total : (14, 91378615)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 160)
+Annee : 4
+Total : (3, 763)
+Annee : 5
+Total : (4, 3883)
+Annee : 6
+Total : (5, 20853)
+Annee : 7
+Total : (6, 111425)
+Annee : 8
+Total : (7, 586515)
+Annee : 9
+Total : (8, 3098538)
+Annee : 10
+Total : (9, 5375820)
+Annee : 11
+Total : (10, 11987314)
+Annee : 12
+Total : (11, 24977083)
+Annee : 13
+Total : (12, 37193783)
+Annee : 14
+Total : (13, 56856121)
+Annee : 15
+Total : (14, 81703912)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 122)
+Annee : 4
+Total : (3, 613)
+Annee : 5
+Total : (4, 3221)
+Annee : 6
+Total : (5, 16903)
+Annee : 7
+Total : (6, 88278)
+Annee : 8
+Total : (7, 466932)
+Annee : 9
+Total : (8, 2468904)
+Annee : 10
+Total : (9, 4216555)
+Annee : 11
+Total : (10, 9282556)
+Annee : 12
+Total : (11, 19160625)
+Annee : 13
+Total : (12, 29274102)
+Annee : 14
+Total : (13, 44869177)
+Annee : 15
+Total : (14, 70851323)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 134)
+Annee : 4
+Total : (3, 732)
+Annee : 5
+Total : (4, 3846)
+Annee : 6
+Total : (5, 20507)
+Annee : 7
+Total : (6, 108924)
+Annee : 8
+Total : (7, 573313)
+Annee : 9
+Total : (8, 3034886)
+Annee : 10
+Total : (9, 5046601)
+Annee : 11
+Total : (10, 10978361)
+Annee : 12
+Total : (11, 21755288)
+Annee : 13
+Total : (12, 32976610)
+Annee : 14
+Total : (13, 53863261)
+Annee : 15
+Total : (14, 77055480)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 52)
+Annee : 3
+Total : (2, 197)
+Annee : 4
+Total : (3, 980)
+Annee : 5
+Total : (4, 5145)
+Annee : 6
+Total : (5, 27409)
+Annee : 7
+Total : (6, 144212)
+Annee : 8
+Total : (7, 759816)
+Annee : 9
+Total : (8, 4019896)
+Annee : 10
+Total : (9, 7031629)
+Annee : 11
+Total : (10, 15514501)
+Annee : 12
+Total : (11, 32058565)
+Annee : 13
+Total : (12, 48639754)
+Annee : 14
+Total : (13, 75363053)
+Annee : 15
+Total : (14, 112036208)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 90)
+Annee : 4
+Total : (3, 433)
+Annee : 5
+Total : (4, 2128)
+Annee : 6
+Total : (5, 11408)
+Annee : 7
+Total : (6, 60938)
+Annee : 8
+Total : (7, 322221)
+Annee : 9
+Total : (8, 1703463)
+Annee : 10
+Total : (9, 9004683)
+Annee : 11
+Total : (10, 15202608)
+Annee : 12
+Total : (11, 22312529)
+Annee : 13
+Total : (12, 36261946)
+Annee : 14
+Total : (13, 55415550)
+Annee : 15
+Total : (14, 82125171)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 95)
+Annee : 4
+Total : (3, 449)
+Annee : 5
+Total : (4, 2382)
+Annee : 6
+Total : (5, 12277)
+Annee : 7
+Total : (6, 64160)
+Annee : 8
+Total : (7, 340225)
+Annee : 9
+Total : (8, 1798343)
+Annee : 10
+Total : (9, 9513827)
+Annee : 11
+Total : (10, 15835599)
+Annee : 12
+Total : (11, 21707171)
+Annee : 13
+Total : (12, 34639438)
+Annee : 14
+Total : (13, 58431753)
+Annee : 15
+Total : (14, 91731768)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 95)
+Annee : 4
+Total : (3, 482)
+Annee : 5
+Total : (4, 2597)
+Annee : 6
+Total : (5, 13650)
+Annee : 7
+Total : (6, 71456)
+Annee : 8
+Total : (7, 376882)
+Annee : 9
+Total : (8, 1989322)
+Annee : 10
+Total : (9, 10520774)
+Annee : 11
+Total : (10, 17634307)
+Annee : 12
+Total : (11, 25671431)
+Annee : 13
+Total : (12, 41803158)
+Annee : 14
+Total : (13, 68483891)
+Annee : 15
+Total : (14, 96505354)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 52)
+Annee : 3
+Total : (2, 308)
+Annee : 4
+Total : (3, 1697)
+Annee : 5
+Total : (4, 9048)
+Annee : 6
+Total : (5, 48020)
+Annee : 7
+Total : (6, 256652)
+Annee : 8
+Total : (7, 1354297)
+Annee : 9
+Total : (8, 7157928)
+Annee : 10
+Total : (9, 12258729)
+Annee : 11
+Total : (10, 17358899)
+Annee : 12
+Total : (11, 27263878)
+Annee : 13
+Total : (12, 45033232)
+Annee : 14
+Total : (13, 73385116)
+Annee : 15
+Total : (14, 105517542)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 83)
+Annee : 4
+Total : (3, 476)
+Annee : 5
+Total : (4, 2307)
+Annee : 6
+Total : (5, 12218)
+Annee : 7
+Total : (6, 64708)
+Annee : 8
+Total : (7, 341817)
+Annee : 9
+Total : (8, 1804941)
+Annee : 10
+Total : (9, 9531708)
+Annee : 11
+Total : (10, 16026787)
+Annee : 12
+Total : (11, 24156987)
+Annee : 13
+Total : (12, 39752694)
+Annee : 14
+Total : (13, 65016924)
+Annee : 15
+Total : (14, 96506838)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 9)
+Annee : 3
+Total : (2, 39)
+Annee : 4
+Total : (3, 215)
+Annee : 5
+Total : (4, 1096)
+Annee : 6
+Total : (5, 5988)
+Annee : 7
+Total : (6, 31808)
+Annee : 8
+Total : (7, 166712)
+Annee : 9
+Total : (8, 880016)
+Annee : 10
+Total : (9, 4660853)
+Annee : 11
+Total : (10, 7752411)
+Annee : 12
+Total : (11, 17111258)
+Annee : 13
+Total : (12, 26800559)
+Annee : 14
+Total : (13, 39355111)
+Annee : 15
+Total : (14, 66865485)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 134)
+Annee : 4
+Total : (3, 642)
+Annee : 5
+Total : (4, 3361)
+Annee : 6
+Total : (5, 18031)
+Annee : 7
+Total : (6, 95273)
+Annee : 8
+Total : (7, 504531)
+Annee : 9
+Total : (8, 2670063)
+Annee : 10
+Total : (9, 4653235)
+Annee : 11
+Total : (10, 10099015)
+Annee : 12
+Total : (11, 20040370)
+Annee : 13
+Total : (12, 30540249)
+Annee : 14
+Total : (13, 47598141)
+Annee : 15
+Total : (14, 69564692)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 145)
+Annee : 4
+Total : (3, 868)
+Annee : 5
+Total : (4, 4705)
+Annee : 6
+Total : (5, 24949)
+Annee : 7
+Total : (6, 131547)
+Annee : 8
+Total : (7, 689883)
+Annee : 9
+Total : (8, 3643014)
+Annee : 10
+Total : (9, 6288208)
+Annee : 11
+Total : (10, 13963484)
+Annee : 12
+Total : (11, 28466955)
+Annee : 13
+Total : (12, 43734142)
+Annee : 14
+Total : (13, 68258726)
+Annee : 15
+Total : (14, 94576398)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 52)
+Annee : 3
+Total : (2, 275)
+Annee : 4
+Total : (3, 1340)
+Annee : 5
+Total : (4, 7222)
+Annee : 6
+Total : (5, 38503)
+Annee : 7
+Total : (6, 203017)
+Annee : 8
+Total : (7, 1070899)
+Annee : 9
+Total : (8, 5663439)
+Annee : 10
+Total : (9, 9007991)
+Annee : 11
+Total : (10, 20182784)
+Annee : 12
+Total : (11, 29599106)
+Annee : 13
+Total : (12, 48393151)
+Annee : 14
+Total : (13, 67230572)
+Annee : 15
+Total : (14, 96590118)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 54)
+Annee : 3
+Total : (2, 295)
+Annee : 4
+Total : (3, 1567)
+Annee : 5
+Total : (4, 8145)
+Annee : 6
+Total : (5, 42767)
+Annee : 7
+Total : (6, 225404)
+Annee : 8
+Total : (7, 1188772)
+Annee : 9
+Total : (8, 6283013)
+Annee : 10
+Total : (9, 10635144)
+Annee : 11
+Total : (10, 15131477)
+Annee : 12
+Total : (11, 24756974)
+Annee : 13
+Total : (12, 38917800)
+Annee : 14
+Total : (13, 59283107)
+Annee : 15
+Total : (14, 84911559)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 40)
+Annee : 4
+Total : (3, 222)
+Annee : 5
+Total : (4, 1204)
+Annee : 6
+Total : (5, 6367)
+Annee : 7
+Total : (6, 34231)
+Annee : 8
+Total : (7, 178964)
+Annee : 9
+Total : (8, 943881)
+Annee : 10
+Total : (9, 4987088)
+Annee : 11
+Total : (10, 8698869)
+Annee : 12
+Total : (11, 18789402)
+Annee : 13
+Total : (12, 28183612)
+Annee : 14
+Total : (13, 43464156)
+Annee : 15
+Total : (14, 69069789)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 52)
+Annee : 3
+Total : (2, 296)
+Annee : 4
+Total : (3, 1500)
+Annee : 5
+Total : (4, 8040)
+Annee : 6
+Total : (5, 42800)
+Annee : 7
+Total : (6, 226940)
+Annee : 8
+Total : (7, 1195139)
+Annee : 9
+Total : (8, 6318188)
+Annee : 10
+Total : (9, 10993290)
+Annee : 11
+Total : (10, 15615712)
+Annee : 12
+Total : (11, 25293427)
+Annee : 13
+Total : (12, 40437072)
+Annee : 14
+Total : (13, 66128668)
+Annee : 15
+Total : (14, 100480163)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 160)
+Annee : 4
+Total : (3, 822)
+Annee : 5
+Total : (4, 4476)
+Annee : 6
+Total : (5, 23180)
+Annee : 7
+Total : (6, 121542)
+Annee : 8
+Total : (7, 642031)
+Annee : 9
+Total : (8, 3398172)
+Annee : 10
+Total : (9, 5545855)
+Annee : 11
+Total : (10, 12726832)
+Annee : 12
+Total : (11, 25778207)
+Annee : 13
+Total : (12, 40542460)
+Annee : 14
+Total : (13, 62073144)
+Annee : 15
+Total : (14, 84716707)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 39)
+Annee : 4
+Total : (3, 162)
+Annee : 5
+Total : (4, 843)
+Annee : 6
+Total : (5, 4396)
+Annee : 7
+Total : (6, 23545)
+Annee : 8
+Total : (7, 124502)
+Annee : 9
+Total : (8, 654028)
+Annee : 10
+Total : (9, 3453295)
+Annee : 11
+Total : (10, 5998876)
+Annee : 12
+Total : (11, 13258539)
+Annee : 13
+Total : (12, 26394379)
+Annee : 14
+Total : (13, 38409483)
+Annee : 15
+Total : (14, 58874316)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 177)
+Annee : 4
+Total : (3, 848)
+Annee : 5
+Total : (4, 4477)
+Annee : 6
+Total : (5, 23647)
+Annee : 7
+Total : (6, 123758)
+Annee : 8
+Total : (7, 655005)
+Annee : 9
+Total : (8, 3468108)
+Annee : 10
+Total : (9, 5713448)
+Annee : 11
+Total : (10, 12946974)
+Annee : 12
+Total : (11, 25297625)
+Annee : 13
+Total : (12, 39503157)
+Annee : 14
+Total : (13, 59271829)
+Annee : 15
+Total : (14, 85779978)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 52)
+Annee : 3
+Total : (2, 264)
+Annee : 4
+Total : (3, 1464)
+Annee : 5
+Total : (4, 7868)
+Annee : 6
+Total : (5, 41394)
+Annee : 7
+Total : (6, 217495)
+Annee : 8
+Total : (7, 1151500)
+Annee : 9
+Total : (8, 6091832)
+Annee : 10
+Total : (9, 10014732)
+Annee : 11
+Total : (10, 22435562)
+Annee : 12
+Total : (11, 36134541)
+Annee : 13
+Total : (12, 54084819)
+Annee : 14
+Total : (13, 77869696)
+Annee : 15
+Total : (14, 110474909)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 122)
+Annee : 4
+Total : (3, 582)
+Annee : 5
+Total : (4, 2995)
+Annee : 6
+Total : (5, 15645)
+Annee : 7
+Total : (6, 82619)
+Annee : 8
+Total : (7, 435324)
+Annee : 9
+Total : (8, 2302084)
+Annee : 10
+Total : (9, 3843810)
+Annee : 11
+Total : (10, 8382310)
+Annee : 12
+Total : (11, 16967236)
+Annee : 13
+Total : (12, 25716029)
+Annee : 14
+Total : (13, 38645583)
+Annee : 15
+Total : (14, 63186412)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 95)
+Annee : 4
+Total : (3, 556)
+Annee : 5
+Total : (4, 3126)
+Annee : 6
+Total : (5, 16751)
+Annee : 7
+Total : (6, 88576)
+Annee : 8
+Total : (7, 467287)
+Annee : 9
+Total : (8, 2463412)
+Annee : 10
+Total : (9, 4153002)
+Annee : 11
+Total : (10, 9355563)
+Annee : 12
+Total : (11, 18915889)
+Annee : 13
+Total : (12, 28950999)
+Annee : 14
+Total : (13, 47068132)
+Annee : 15
+Total : (14, 71246297)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 9)
+Annee : 3
+Total : (2, 39)
+Annee : 4
+Total : (3, 154)
+Annee : 5
+Total : (4, 770)
+Annee : 6
+Total : (5, 4053)
+Annee : 7
+Total : (6, 21709)
+Annee : 8
+Total : (7, 114881)
+Annee : 9
+Total : (8, 604791)
+Annee : 10
+Total : (9, 3190276)
+Annee : 11
+Total : (10, 5207605)
+Annee : 12
+Total : (11, 11342341)
+Annee : 13
+Total : (12, 23882636)
+Annee : 14
+Total : (13, 36332114)
+Annee : 15
+Total : (14, 54716893)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 145)
+Annee : 4
+Total : (3, 654)
+Annee : 5
+Total : (4, 3475)
+Annee : 6
+Total : (5, 18671)
+Annee : 7
+Total : (6, 97608)
+Annee : 8
+Total : (7, 517150)
+Annee : 9
+Total : (8, 2733232)
+Annee : 10
+Total : (9, 4547540)
+Annee : 11
+Total : (10, 10168436)
+Annee : 12
+Total : (11, 19733573)
+Annee : 13
+Total : (12, 29748732)
+Annee : 14
+Total : (13, 45381771)
+Annee : 15
+Total : (14, 73754388)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 52)
+Annee : 3
+Total : (2, 197)
+Annee : 4
+Total : (3, 935)
+Annee : 5
+Total : (4, 5159)
+Annee : 6
+Total : (5, 27373)
+Annee : 7
+Total : (6, 143577)
+Annee : 8
+Total : (7, 756302)
+Annee : 9
+Total : (8, 3998715)
+Annee : 10
+Total : (9, 6719933)
+Annee : 11
+Total : (10, 15289589)
+Annee : 12
+Total : (11, 30686494)
+Annee : 13
+Total : (12, 47548597)
+Annee : 14
+Total : (13, 72982316)
+Annee : 15
+Total : (14, 108956394)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 177)
+Annee : 4
+Total : (3, 935)
+Annee : 5
+Total : (4, 5242)
+Annee : 6
+Total : (5, 27338)
+Annee : 7
+Total : (6, 143802)
+Annee : 8
+Total : (7, 760699)
+Annee : 9
+Total : (8, 4023223)
+Annee : 10
+Total : (9, 6593295)
+Annee : 11
+Total : (10, 15139022)
+Annee : 12
+Total : (11, 30824030)
+Annee : 13
+Total : (12, 44274605)
+Annee : 14
+Total : (13, 71274153)
+Annee : 15
+Total : (14, 101144595)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 145)
+Annee : 4
+Total : (3, 725)
+Annee : 5
+Total : (4, 3949)
+Annee : 6
+Total : (5, 20691)
+Annee : 7
+Total : (6, 108206)
+Annee : 8
+Total : (7, 570708)
+Annee : 9
+Total : (8, 3018403)
+Annee : 10
+Total : (9, 5231760)
+Annee : 11
+Total : (10, 11406005)
+Annee : 12
+Total : (11, 23120871)
+Annee : 13
+Total : (12, 36853779)
+Annee : 14
+Total : (13, 57114098)
+Annee : 15
+Total : (14, 83476041)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 187)
+Annee : 4
+Total : (3, 921)
+Annee : 5
+Total : (4, 5063)
+Annee : 6
+Total : (5, 27159)
+Annee : 7
+Total : (6, 141449)
+Annee : 8
+Total : (7, 746388)
+Annee : 9
+Total : (8, 3953467)
+Annee : 10
+Total : (9, 6858528)
+Annee : 11
+Total : (10, 14723548)
+Annee : 12
+Total : (11, 29102665)
+Annee : 13
+Total : (12, 42545565)
+Annee : 14
+Total : (13, 66572422)
+Annee : 15
+Total : (14, 97265069)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 134)
+Annee : 4
+Total : (3, 620)
+Annee : 5
+Total : (4, 3331)
+Annee : 6
+Total : (5, 18174)
+Annee : 7
+Total : (6, 96158)
+Annee : 8
+Total : (7, 508988)
+Annee : 9
+Total : (8, 2689700)
+Annee : 10
+Total : (9, 4577919)
+Annee : 11
+Total : (10, 10380449)
+Annee : 12
+Total : (11, 20110450)
+Annee : 13
+Total : (12, 29432591)
+Annee : 14
+Total : (13, 48439957)
+Annee : 15
+Total : (14, 72833963)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 145)
+Annee : 4
+Total : (3, 716)
+Annee : 5
+Total : (4, 3778)
+Annee : 6
+Total : (5, 19372)
+Annee : 7
+Total : (6, 100775)
+Annee : 8
+Total : (7, 531791)
+Annee : 9
+Total : (8, 2814123)
+Annee : 10
+Total : (9, 4490980)
+Annee : 11
+Total : (10, 9865001)
+Annee : 12
+Total : (11, 19352900)
+Annee : 13
+Total : (12, 29332421)
+Annee : 14
+Total : (13, 45484664)
+Annee : 15
+Total : (14, 70649248)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 224)
+Annee : 4
+Total : (3, 1238)
+Annee : 5
+Total : (4, 6441)
+Annee : 6
+Total : (5, 34788)
+Annee : 7
+Total : (6, 183303)
+Annee : 8
+Total : (7, 973379)
+Annee : 9
+Total : (8, 5143523)
+Annee : 10
+Total : (9, 8389686)
+Annee : 11
+Total : (10, 18189437)
+Annee : 12
+Total : (11, 28398439)
+Annee : 13
+Total : (12, 44162642)
+Annee : 14
+Total : (13, 70290916)
+Annee : 15
+Total : (14, 101184556)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 83)
+Annee : 4
+Total : (3, 443)
+Annee : 5
+Total : (4, 2316)
+Annee : 6
+Total : (5, 12115)
+Annee : 7
+Total : (6, 64587)
+Annee : 8
+Total : (7, 340711)
+Annee : 9
+Total : (8, 1807189)
+Annee : 10
+Total : (9, 9564084)
+Annee : 11
+Total : (10, 15824496)
+Annee : 12
+Total : (11, 22473763)
+Annee : 13
+Total : (12, 35955572)
+Annee : 14
+Total : (13, 59735448)
+Annee : 15
+Total : (14, 90125462)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 45)
+Annee : 3
+Total : (2, 189)
+Annee : 4
+Total : (3, 1025)
+Annee : 5
+Total : (4, 5584)
+Annee : 6
+Total : (5, 29777)
+Annee : 7
+Total : (6, 156756)
+Annee : 8
+Total : (7, 826813)
+Annee : 9
+Total : (8, 4367046)
+Annee : 10
+Total : (9, 7348345)
+Annee : 11
+Total : (10, 15947851)
+Annee : 12
+Total : (11, 25250375)
+Annee : 13
+Total : (12, 39445899)
+Annee : 14
+Total : (13, 59778667)
+Annee : 15
+Total : (14, 89033395)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 73)
+Annee : 4
+Total : (3, 432)
+Annee : 5
+Total : (4, 2462)
+Annee : 6
+Total : (5, 13207)
+Annee : 7
+Total : (6, 70837)
+Annee : 8
+Total : (7, 375143)
+Annee : 9
+Total : (8, 1987459)
+Annee : 10
+Total : (9, 10510898)
+Annee : 11
+Total : (10, 17723681)
+Annee : 12
+Total : (11, 26433252)
+Annee : 13
+Total : (12, 42543737)
+Annee : 14
+Total : (13, 68013067)
+Annee : 15
+Total : (14, 96542581)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 151)
+Annee : 4
+Total : (3, 788)
+Annee : 5
+Total : (4, 4311)
+Annee : 6
+Total : (5, 22415)
+Annee : 7
+Total : (6, 117883)
+Annee : 8
+Total : (7, 619470)
+Annee : 9
+Total : (8, 3275411)
+Annee : 10
+Total : (9, 5464466)
+Annee : 11
+Total : (10, 12026338)
+Annee : 12
+Total : (11, 25260350)
+Annee : 13
+Total : (12, 37098910)
+Annee : 14
+Total : (13, 57385204)
+Annee : 15
+Total : (14, 85113137)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 170)
+Annee : 4
+Total : (3, 780)
+Annee : 5
+Total : (4, 4296)
+Annee : 6
+Total : (5, 23010)
+Annee : 7
+Total : (6, 122169)
+Annee : 8
+Total : (7, 647471)
+Annee : 9
+Total : (8, 3422782)
+Annee : 10
+Total : (9, 5875230)
+Annee : 11
+Total : (10, 12530399)
+Annee : 12
+Total : (11, 26216140)
+Annee : 13
+Total : (12, 41097150)
+Annee : 14
+Total : (13, 65186552)
+Annee : 15
+Total : (14, 92218084)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 45)
+Annee : 3
+Total : (2, 232)
+Annee : 4
+Total : (3, 1181)
+Annee : 5
+Total : (4, 6475)
+Annee : 6
+Total : (5, 34323)
+Annee : 7
+Total : (6, 180980)
+Annee : 8
+Total : (7, 957891)
+Annee : 9
+Total : (8, 5070803)
+Annee : 10
+Total : (9, 8380563)
+Annee : 11
+Total : (10, 18828429)
+Annee : 12
+Total : (11, 27557175)
+Annee : 13
+Total : (12, 41663126)
+Annee : 14
+Total : (13, 70348623)
+Annee : 15
+Total : (14, 105072185)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 9)
+Annee : 3
+Total : (2, 39)
+Annee : 4
+Total : (3, 199)
+Annee : 5
+Total : (4, 1024)
+Annee : 6
+Total : (5, 5313)
+Annee : 7
+Total : (6, 27872)
+Annee : 8
+Total : (7, 148793)
+Annee : 9
+Total : (8, 787212)
+Annee : 10
+Total : (9, 4166475)
+Annee : 11
+Total : (10, 6960674)
+Annee : 12
+Total : (11, 15197968)
+Annee : 13
+Total : (12, 30476414)
+Annee : 14
+Total : (13, 44739330)
+Annee : 15
+Total : (14, 69005872)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 209)
+Annee : 4
+Total : (3, 1104)
+Annee : 5
+Total : (4, 5777)
+Annee : 6
+Total : (5, 30812)
+Annee : 7
+Total : (6, 163431)
+Annee : 8
+Total : (7, 862112)
+Annee : 9
+Total : (8, 4560748)
+Annee : 10
+Total : (9, 7345815)
+Annee : 11
+Total : (10, 16577168)
+Annee : 12
+Total : (11, 25785693)
+Annee : 13
+Total : (12, 41194758)
+Annee : 14
+Total : (13, 66238631)
+Annee : 15
+Total : (14, 93983872)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 108)
+Annee : 4
+Total : (3, 548)
+Annee : 5
+Total : (4, 2970)
+Annee : 6
+Total : (5, 15808)
+Annee : 7
+Total : (6, 82777)
+Annee : 8
+Total : (7, 436491)
+Annee : 9
+Total : (8, 2309905)
+Annee : 10
+Total : (9, 3878480)
+Annee : 11
+Total : (10, 8831629)
+Annee : 12
+Total : (11, 17432829)
+Annee : 13
+Total : (12, 25472154)
+Annee : 14
+Total : (13, 40710069)
+Annee : 15
+Total : (14, 64243547)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 78)
+Annee : 4
+Total : (3, 401)
+Annee : 5
+Total : (4, 2156)
+Annee : 6
+Total : (5, 11994)
+Annee : 7
+Total : (6, 63872)
+Annee : 8
+Total : (7, 336870)
+Annee : 9
+Total : (8, 1778561)
+Annee : 10
+Total : (9, 9405396)
+Annee : 11
+Total : (10, 15906673)
+Annee : 12
+Total : (11, 23151528)
+Annee : 13
+Total : (12, 37068232)
+Annee : 14
+Total : (13, 57864796)
+Annee : 15
+Total : (14, 81864547)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 151)
+Annee : 4
+Total : (3, 770)
+Annee : 5
+Total : (4, 4099)
+Annee : 6
+Total : (5, 21599)
+Annee : 7
+Total : (6, 114516)
+Annee : 8
+Total : (7, 603065)
+Annee : 9
+Total : (8, 3185119)
+Annee : 10
+Total : (9, 5276955)
+Annee : 11
+Total : (10, 11421832)
+Annee : 12
+Total : (11, 23997393)
+Annee : 13
+Total : (12, 38019727)
+Annee : 14
+Total : (13, 61861645)
+Annee : 15
+Total : (14, 84957369)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 108)
+Annee : 4
+Total : (3, 560)
+Annee : 5
+Total : (4, 3095)
+Annee : 6
+Total : (5, 15771)
+Annee : 7
+Total : (6, 82957)
+Annee : 8
+Total : (7, 438329)
+Annee : 9
+Total : (8, 2317231)
+Annee : 10
+Total : (9, 3850539)
+Annee : 11
+Total : (10, 8449519)
+Annee : 12
+Total : (11, 16882381)
+Annee : 13
+Total : (12, 24449601)
+Annee : 14
+Total : (13, 37885369)
+Annee : 15
+Total : (14, 60351868)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 153)
+Annee : 4
+Total : (3, 758)
+Annee : 5
+Total : (4, 4061)
+Annee : 6
+Total : (5, 21384)
+Annee : 7
+Total : (6, 113390)
+Annee : 8
+Total : (7, 598550)
+Annee : 9
+Total : (8, 3163706)
+Annee : 10
+Total : (9, 5435438)
+Annee : 11
+Total : (10, 11933192)
+Annee : 12
+Total : (11, 23507313)
+Annee : 13
+Total : (12, 33867941)
+Annee : 14
+Total : (13, 54198978)
+Annee : 15
+Total : (14, 77678212)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 122)
+Annee : 4
+Total : (3, 621)
+Annee : 5
+Total : (4, 3096)
+Annee : 6
+Total : (5, 16478)
+Annee : 7
+Total : (6, 87627)
+Annee : 8
+Total : (7, 460268)
+Annee : 9
+Total : (8, 2436505)
+Annee : 10
+Total : (9, 4178136)
+Annee : 11
+Total : (10, 9048760)
+Annee : 12
+Total : (11, 18809880)
+Annee : 13
+Total : (12, 28986445)
+Annee : 14
+Total : (13, 44363832)
+Annee : 15
+Total : (14, 73307020)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 170)
+Annee : 4
+Total : (3, 937)
+Annee : 5
+Total : (4, 4844)
+Annee : 6
+Total : (5, 25744)
+Annee : 7
+Total : (6, 135483)
+Annee : 8
+Total : (7, 716728)
+Annee : 9
+Total : (8, 3790188)
+Annee : 10
+Total : (9, 6390166)
+Annee : 11
+Total : (10, 14340186)
+Annee : 12
+Total : (11, 28080736)
+Annee : 13
+Total : (12, 43478294)
+Annee : 14
+Total : (13, 66105176)
+Annee : 15
+Total : (14, 95034668)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 83)
+Annee : 4
+Total : (3, 485)
+Annee : 5
+Total : (4, 2720)
+Annee : 6
+Total : (5, 14286)
+Annee : 7
+Total : (6, 74800)
+Annee : 8
+Total : (7, 394192)
+Annee : 9
+Total : (8, 2088003)
+Annee : 10
+Total : (9, 11054912)
+Annee : 11
+Total : (10, 18969934)
+Annee : 12
+Total : (11, 26968250)
+Annee : 13
+Total : (12, 43969334)
+Annee : 14
+Total : (13, 69606438)
+Annee : 15
+Total : (14, 97393784)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 45)
+Annee : 3
+Total : (2, 218)
+Annee : 4
+Total : (3, 1092)
+Annee : 5
+Total : (4, 6125)
+Annee : 6
+Total : (5, 32101)
+Annee : 7
+Total : (6, 169851)
+Annee : 8
+Total : (7, 897199)
+Annee : 9
+Total : (8, 4744068)
+Annee : 10
+Total : (9, 7691531)
+Annee : 11
+Total : (10, 16780922)
+Annee : 12
+Total : (11, 24964909)
+Annee : 13
+Total : (12, 37017609)
+Annee : 14
+Total : (13, 58368399)
+Annee : 15
+Total : (14, 80759658)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 145)
+Annee : 4
+Total : (3, 679)
+Annee : 5
+Total : (4, 3323)
+Annee : 6
+Total : (5, 17440)
+Annee : 7
+Total : (6, 92612)
+Annee : 8
+Total : (7, 488599)
+Annee : 9
+Total : (8, 2586179)
+Annee : 10
+Total : (9, 4419943)
+Annee : 11
+Total : (10, 9560313)
+Annee : 12
+Total : (11, 19174858)
+Annee : 13
+Total : (12, 28936395)
+Annee : 14
+Total : (13, 45111728)
+Annee : 15
+Total : (14, 75427998)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 108)
+Annee : 4
+Total : (3, 605)
+Annee : 5
+Total : (4, 3353)
+Annee : 6
+Total : (5, 18366)
+Annee : 7
+Total : (6, 97413)
+Annee : 8
+Total : (7, 515095)
+Annee : 9
+Total : (8, 2726963)
+Annee : 10
+Total : (9, 4660800)
+Annee : 11
+Total : (10, 10411978)
+Annee : 12
+Total : (11, 21114505)
+Annee : 13
+Total : (12, 31605635)
+Annee : 14
+Total : (13, 48334181)
+Annee : 15
+Total : (14, 69637481)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 164)
+Annee : 4
+Total : (3, 781)
+Annee : 5
+Total : (4, 4347)
+Annee : 6
+Total : (5, 23011)
+Annee : 7
+Total : (6, 122512)
+Annee : 8
+Total : (7, 645952)
+Annee : 9
+Total : (8, 3412854)
+Annee : 10
+Total : (9, 5974941)
+Annee : 11
+Total : (10, 12859892)
+Annee : 12
+Total : (11, 25942064)
+Annee : 13
+Total : (12, 38330675)
+Annee : 14
+Total : (13, 59453389)
+Annee : 15
+Total : (14, 82493272)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 170)
+Annee : 4
+Total : (3, 946)
+Annee : 5
+Total : (4, 5054)
+Annee : 6
+Total : (5, 27215)
+Annee : 7
+Total : (6, 145203)
+Annee : 8
+Total : (7, 767307)
+Annee : 9
+Total : (8, 4069230)
+Annee : 10
+Total : (9, 7123380)
+Annee : 11
+Total : (10, 15048601)
+Annee : 12
+Total : (11, 31421137)
+Annee : 13
+Total : (12, 48840261)
+Annee : 14
+Total : (13, 76022884)
+Annee : 15
+Total : (14, 115271582)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 170)
+Annee : 4
+Total : (3, 768)
+Annee : 5
+Total : (4, 3864)
+Annee : 6
+Total : (5, 20388)
+Annee : 7
+Total : (6, 106656)
+Annee : 8
+Total : (7, 567164)
+Annee : 9
+Total : (8, 3006131)
+Annee : 10
+Total : (9, 5219989)
+Annee : 11
+Total : (10, 11635446)
+Annee : 12
+Total : (11, 23868376)
+Annee : 13
+Total : (12, 37795916)
+Annee : 14
+Total : (13, 58222377)
+Annee : 15
+Total : (14, 88718467)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 9)
+Annee : 3
+Total : (2, 39)
+Annee : 4
+Total : (3, 206)
+Annee : 5
+Total : (4, 1072)
+Annee : 6
+Total : (5, 5941)
+Annee : 7
+Total : (6, 32074)
+Annee : 8
+Total : (7, 169250)
+Annee : 9
+Total : (8, 894434)
+Annee : 10
+Total : (9, 4728846)
+Annee : 11
+Total : (10, 7608855)
+Annee : 12
+Total : (11, 16715833)
+Annee : 13
+Total : (12, 24681844)
+Annee : 14
+Total : (13, 37831430)
+Annee : 15
+Total : (14, 59612942)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 170)
+Annee : 4
+Total : (3, 739)
+Annee : 5
+Total : (4, 3978)
+Annee : 6
+Total : (5, 21144)
+Annee : 7
+Total : (6, 112082)
+Annee : 8
+Total : (7, 594371)
+Annee : 9
+Total : (8, 3142743)
+Annee : 10
+Total : (9, 5258297)
+Annee : 11
+Total : (10, 11352227)
+Annee : 12
+Total : (11, 23635008)
+Annee : 13
+Total : (12, 33816419)
+Annee : 14
+Total : (13, 51952496)
+Annee : 15
+Total : (14, 74681031)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 45)
+Annee : 3
+Total : (2, 279)
+Annee : 4
+Total : (3, 1427)
+Annee : 5
+Total : (4, 7735)
+Annee : 6
+Total : (5, 39900)
+Annee : 7
+Total : (6, 210599)
+Annee : 8
+Total : (7, 1112418)
+Annee : 9
+Total : (8, 5880435)
+Annee : 10
+Total : (9, 9282003)
+Annee : 11
+Total : (10, 21041157)
+Annee : 12
+Total : (11, 33091129)
+Annee : 13
+Total : (12, 48254975)
+Annee : 14
+Total : (13, 65838945)
+Annee : 15
+Total : (14, 100878268)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 52)
+Annee : 4
+Total : (3, 263)
+Annee : 5
+Total : (4, 1484)
+Annee : 6
+Total : (5, 8032)
+Annee : 7
+Total : (6, 42666)
+Annee : 8
+Total : (7, 226160)
+Annee : 9
+Total : (8, 1196679)
+Annee : 10
+Total : (9, 6328898)
+Annee : 11
+Total : (10, 10743823)
+Annee : 12
+Total : (11, 15387432)
+Annee : 13
+Total : (12, 24035531)
+Annee : 14
+Total : (13, 38525024)
+Annee : 15
+Total : (14, 58977844)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 69)
+Annee : 4
+Total : (3, 368)
+Annee : 5
+Total : (4, 2013)
+Annee : 6
+Total : (5, 10443)
+Annee : 7
+Total : (6, 55493)
+Annee : 8
+Total : (7, 295582)
+Annee : 9
+Total : (8, 1569198)
+Annee : 10
+Total : (9, 8297138)
+Annee : 11
+Total : (10, 13220394)
+Annee : 12
+Total : (11, 19035814)
+Annee : 13
+Total : (12, 31486887)
+Annee : 14
+Total : (13, 51225797)
+Annee : 15
+Total : (14, 79190364)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 145)
+Annee : 4
+Total : (3, 652)
+Annee : 5
+Total : (4, 3215)
+Annee : 6
+Total : (5, 16696)
+Annee : 7
+Total : (6, 88096)
+Annee : 8
+Total : (7, 468082)
+Annee : 9
+Total : (8, 2471740)
+Annee : 10
+Total : (9, 3951326)
+Annee : 11
+Total : (10, 9018858)
+Annee : 12
+Total : (11, 17797283)
+Annee : 13
+Total : (12, 26661986)
+Annee : 14
+Total : (13, 40556470)
+Annee : 15
+Total : (14, 67716213)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 45)
+Annee : 3
+Total : (2, 240)
+Annee : 4
+Total : (3, 1335)
+Annee : 5
+Total : (4, 7260)
+Annee : 6
+Total : (5, 39634)
+Annee : 7
+Total : (6, 209663)
+Annee : 8
+Total : (7, 1108076)
+Annee : 9
+Total : (8, 5858752)
+Annee : 10
+Total : (9, 9416263)
+Annee : 11
+Total : (10, 20962952)
+Annee : 12
+Total : (11, 32055423)
+Annee : 13
+Total : (12, 51728002)
+Annee : 14
+Total : (13, 74586728)
+Annee : 15
+Total : (14, 103661923)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 95)
+Annee : 4
+Total : (3, 456)
+Annee : 5
+Total : (4, 2557)
+Annee : 6
+Total : (5, 13829)
+Annee : 7
+Total : (6, 73513)
+Annee : 8
+Total : (7, 386858)
+Annee : 9
+Total : (8, 2045882)
+Annee : 10
+Total : (9, 10810280)
+Annee : 11
+Total : (10, 17872927)
+Annee : 12
+Total : (11, 26582082)
+Annee : 13
+Total : (12, 41421927)
+Annee : 14
+Total : (13, 63910834)
+Annee : 15
+Total : (14, 91650955)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 66)
+Annee : 4
+Total : (3, 325)
+Annee : 5
+Total : (4, 1703)
+Annee : 6
+Total : (5, 8934)
+Annee : 7
+Total : (6, 47430)
+Annee : 8
+Total : (7, 250529)
+Annee : 9
+Total : (8, 1326645)
+Annee : 10
+Total : (9, 7014262)
+Annee : 11
+Total : (10, 11167353)
+Annee : 12
+Total : (11, 15956867)
+Annee : 13
+Total : (12, 26213006)
+Annee : 14
+Total : (13, 41373502)
+Annee : 15
+Total : (14, 69302209)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 54)
+Annee : 3
+Total : (2, 281)
+Annee : 4
+Total : (3, 1450)
+Annee : 5
+Total : (4, 7732)
+Annee : 6
+Total : (5, 41199)
+Annee : 7
+Total : (6, 217813)
+Annee : 8
+Total : (7, 1155052)
+Annee : 9
+Total : (8, 6113585)
+Annee : 10
+Total : (9, 10404265)
+Annee : 11
+Total : (10, 23119795)
+Annee : 12
+Total : (11, 35221761)
+Annee : 13
+Total : (12, 53502582)
+Annee : 14
+Total : (13, 75166674)
+Annee : 15
+Total : (14, 108265945)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 145)
+Annee : 4
+Total : (3, 746)
+Annee : 5
+Total : (4, 3980)
+Annee : 6
+Total : (5, 21005)
+Annee : 7
+Total : (6, 111589)
+Annee : 8
+Total : (7, 588745)
+Annee : 9
+Total : (8, 3116563)
+Annee : 10
+Total : (9, 5396565)
+Annee : 11
+Total : (10, 11630297)
+Annee : 12
+Total : (11, 22822477)
+Annee : 13
+Total : (12, 34998681)
+Annee : 14
+Total : (13, 56411662)
+Annee : 15
+Total : (14, 81023075)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 122)
+Annee : 4
+Total : (3, 603)
+Annee : 5
+Total : (4, 3371)
+Annee : 6
+Total : (5, 17779)
+Annee : 7
+Total : (6, 94134)
+Annee : 8
+Total : (7, 499565)
+Annee : 9
+Total : (8, 2643252)
+Annee : 10
+Total : (9, 4527540)
+Annee : 11
+Total : (10, 10057129)
+Annee : 12
+Total : (11, 20834825)
+Annee : 13
+Total : (12, 30413980)
+Annee : 14
+Total : (13, 48174874)
+Annee : 15
+Total : (14, 66674066)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 66)
+Annee : 4
+Total : (3, 315)
+Annee : 5
+Total : (4, 1640)
+Annee : 6
+Total : (5, 8946)
+Annee : 7
+Total : (6, 47566)
+Annee : 8
+Total : (7, 251723)
+Annee : 9
+Total : (8, 1325957)
+Annee : 10
+Total : (9, 7006631)
+Annee : 11
+Total : (10, 11358719)
+Annee : 12
+Total : (11, 17100197)
+Annee : 13
+Total : (12, 26550138)
+Annee : 14
+Total : (13, 41303556)
+Annee : 15
+Total : (14, 64673397)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 113)
+Annee : 4
+Total : (3, 562)
+Annee : 5
+Total : (4, 2982)
+Annee : 6
+Total : (5, 15996)
+Annee : 7
+Total : (6, 84566)
+Annee : 8
+Total : (7, 448494)
+Annee : 9
+Total : (8, 2369464)
+Annee : 10
+Total : (9, 4031950)
+Annee : 11
+Total : (10, 8878029)
+Annee : 12
+Total : (11, 17410716)
+Annee : 13
+Total : (12, 27537587)
+Annee : 14
+Total : (13, 42642352)
+Annee : 15
+Total : (14, 65652900)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 122)
+Annee : 4
+Total : (3, 566)
+Annee : 5
+Total : (4, 2801)
+Annee : 6
+Total : (5, 14521)
+Annee : 7
+Total : (6, 76420)
+Annee : 8
+Total : (7, 402706)
+Annee : 9
+Total : (8, 2128136)
+Annee : 10
+Total : (9, 11232945)
+Annee : 11
+Total : (10, 18063134)
+Annee : 12
+Total : (11, 25294778)
+Annee : 13
+Total : (12, 41029345)
+Annee : 14
+Total : (13, 68852291)
+Annee : 15
+Total : (14, 103444539)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 195)
+Annee : 4
+Total : (3, 989)
+Annee : 5
+Total : (4, 5330)
+Annee : 6
+Total : (5, 29280)
+Annee : 7
+Total : (6, 154894)
+Annee : 8
+Total : (7, 818720)
+Annee : 9
+Total : (8, 4329737)
+Annee : 10
+Total : (9, 7528274)
+Annee : 11
+Total : (10, 15951421)
+Annee : 12
+Total : (11, 23710335)
+Annee : 13
+Total : (12, 38912728)
+Annee : 14
+Total : (13, 63206266)
+Annee : 15
+Total : (14, 93150128)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 54)
+Annee : 3
+Total : (2, 326)
+Annee : 4
+Total : (3, 1685)
+Annee : 5
+Total : (4, 8729)
+Annee : 6
+Total : (5, 46474)
+Annee : 7
+Total : (6, 246977)
+Annee : 8
+Total : (7, 1304951)
+Annee : 9
+Total : (8, 6898789)
+Annee : 10
+Total : (9, 11703574)
+Annee : 11
+Total : (10, 16489234)
+Annee : 12
+Total : (11, 26084555)
+Annee : 13
+Total : (12, 43700892)
+Annee : 14
+Total : (13, 67070507)
+Annee : 15
+Total : (14, 92482327)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 177)
+Annee : 4
+Total : (3, 796)
+Annee : 5
+Total : (4, 4349)
+Annee : 6
+Total : (5, 22790)
+Annee : 7
+Total : (6, 119312)
+Annee : 8
+Total : (7, 630096)
+Annee : 9
+Total : (8, 3330133)
+Annee : 10
+Total : (9, 5574765)
+Annee : 11
+Total : (10, 12294848)
+Annee : 12
+Total : (11, 24822902)
+Annee : 13
+Total : (12, 38032354)
+Annee : 14
+Total : (13, 59198922)
+Annee : 15
+Total : (14, 83791047)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 164)
+Annee : 4
+Total : (3, 870)
+Annee : 5
+Total : (4, 4666)
+Annee : 6
+Total : (5, 24600)
+Annee : 7
+Total : (6, 127823)
+Annee : 8
+Total : (7, 676364)
+Annee : 9
+Total : (8, 3569883)
+Annee : 10
+Total : (9, 5775918)
+Annee : 11
+Total : (10, 13199138)
+Annee : 12
+Total : (11, 26401982)
+Annee : 13
+Total : (12, 38860700)
+Annee : 14
+Total : (13, 57611034)
+Annee : 15
+Total : (14, 79032610)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 195)
+Annee : 4
+Total : (3, 1119)
+Annee : 5
+Total : (4, 5874)
+Annee : 6
+Total : (5, 31241)
+Annee : 7
+Total : (6, 164236)
+Annee : 8
+Total : (7, 865656)
+Annee : 9
+Total : (8, 4566610)
+Annee : 10
+Total : (9, 7809086)
+Annee : 11
+Total : (10, 16981647)
+Annee : 12
+Total : (11, 25120127)
+Annee : 13
+Total : (12, 40798958)
+Annee : 14
+Total : (13, 67105922)
+Annee : 15
+Total : (14, 98935048)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 25)
+Annee : 3
+Total : (2, 145)
+Annee : 4
+Total : (3, 746)
+Annee : 5
+Total : (4, 3990)
+Annee : 6
+Total : (5, 20994)
+Annee : 7
+Total : (6, 111138)
+Annee : 8
+Total : (7, 587426)
+Annee : 9
+Total : (8, 3110377)
+Annee : 10
+Total : (9, 5408841)
+Annee : 11
+Total : (10, 11584910)
+Annee : 12
+Total : (11, 22904573)
+Annee : 13
+Total : (12, 33825571)
+Annee : 14
+Total : (13, 54169108)
+Annee : 15
+Total : (14, 80484337)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 35)
+Annee : 3
+Total : (2, 164)
+Annee : 4
+Total : (3, 814)
+Annee : 5
+Total : (4, 4348)
+Annee : 6
+Total : (5, 22843)
+Annee : 7
+Total : (6, 119853)
+Annee : 8
+Total : (7, 631897)
+Annee : 9
+Total : (8, 3344654)
+Annee : 10
+Total : (9, 5860234)
+Annee : 11
+Total : (10, 12653495)
+Annee : 12
+Total : (11, 26750726)
+Annee : 13
+Total : (12, 42136678)
+Annee : 14
+Total : (13, 63677452)
+Annee : 15
+Total : (14, 96122984)
+===============================================
+Annee : 1
+Total : (0, 7)
+Annee : 2
+Total : (1, 17)
+Annee : 3
+Total : (2, 73)
+Annee : 4
+Total : (3, 379)
+Annee : 5
+Total : (4, 2082)
+Annee : 6
+Total : (5, 11236)
+Annee : 7
+Total : (6, 59282)
+Annee : 8
+Total : (7, 313404)
+Annee : 9
+Total : (8, 1660593)
+Annee : 10
+Total : (9, 8775232)
+Annee : 11
+Total : (10, 14773297)
+Annee : 12
+Total : (11, 20553594)
+Annee : 13
+Total : (12, 33901389)
+Annee : 14
+Total : (13, 53440455)
+Annee : 15
+Total : (14, 82783896)
+===============================================

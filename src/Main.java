@@ -6,7 +6,12 @@ public class Main
 
     public static void main(String[] args) 
     {
-        /*int months = 12; // Number of months to simulate
+        // Q1.
+
+        // Number of months to simulate        
+        int months = 12; 
+
+        // Population
         int[] population = new int[months];
 
         // Start with 1 pair of rabbits (1 adult pair) - (Generation)
@@ -22,14 +27,13 @@ public class Main
         {
             population[i] = population[i - 1] + population[i - 2];
             System.out.println("Month " + (i + 1) + " \t:\t " + population[i] + "\t pairs of rabbits (" + population[i - 1] + " adults)");
-        }*/
+        }
 
-        
+        // Q2.
+
         // More realistic simulation
-        
-        RabbitSimulation simulation = new RabbitSimulation(5, 5, 20);
-        
         RSimulationLauncher launcher = new RSimulationLauncher();
+        // Compute NB_SIMULATIONS 
         launcher.launchSimulations();
     }
 }

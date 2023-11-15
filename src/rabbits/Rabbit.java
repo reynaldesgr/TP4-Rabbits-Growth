@@ -62,7 +62,6 @@ public class Rabbit
                 kittens.add(newBorn);
             }
         }
-
         return kittens;
     }
 
@@ -91,11 +90,11 @@ public class Rabbit
         {
             numLitters = 3;
         }
-        else if (rndNumber < 0.3)
+        else if (rndNumber < 0.4)
         {
             numLitters = 4;
         }
-        else if (rndNumber < 0.7)
+        else if (rndNumber < 0.8)
         {
             numLitters = 5;
         }
@@ -105,6 +104,25 @@ public class Rabbit
         }
 
         return numLitters;
+    }
+    
+    private static int calculateTotalLitters(MTRandom rnd, long numMatureFemales) 
+    {
+        int totalLitters = 0;
+    
+        for (long i = 0; i < numMatureFemales; i++) 
+        {
+            int numLitters = calculateNumberOfLitters(rnd);
+            totalLitters += numLitters;
+        }
+    
+        return totalLitters;
+    }
+    
+    public static double calculateAverageLittersPerYear(MTRandom rnd, long numMatureFemales) 
+    {
+        int totalLitters = calculateTotalLitters(rnd, numMatureFemales);
+        return (double) totalLitters / numMatureFemales;
     }
 
     public int getAge()
