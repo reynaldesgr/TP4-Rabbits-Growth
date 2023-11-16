@@ -5,6 +5,7 @@
  * 
  * @author SEGERIE Reynalde
  */
+
 package src;
 
 public class RSimulationLauncher 
