@@ -1,3 +1,11 @@
+/**
+ * The Rabbit class represents an individual rabbit in the population simulation.
+ * It contains information about the rabbit's age, gender, survival rate, and life status.
+ * The class also includes methods for giving birth, calculating survival rates,
+ * and determining the average number of litters per year for mature females.
+ * 
+ * @author SEGERIE Reynalde
+ */
 package src.rabbits;
 
 import java.util.ArrayList;
@@ -16,6 +24,14 @@ public class Rabbit
     private double  survivalRate;
     private boolean alive;
 
+    /**
+     * Constructs a new Rabbit instance with the specified age, gender, and a random number generator.
+     *
+     * @param age       the age of the rabbit
+     * @param isFemale  true if the rabbit is female, false otherwise
+     * @param rnd       the random number generator
+     */
+
     public Rabbit(int age, boolean isFemale, MTRandom rnd) 
     {
         this.age = age;
@@ -23,20 +39,46 @@ public class Rabbit
         this.alive    = (rnd.nextDouble() < calculateSurvivalRate(age));
     }
 
+    /**
+     * Checks if the rabbit is alive.
+     *
+     * @return true if the rabbit is alive, false otherwise
+     */
+
     public boolean isAlive()
     {
         return alive;
     }
+
+    /**
+     * Checks if the rabbit is female.
+     *
+     * @return true if the rabbit is female, false otherwise
+     */
 
     public boolean isFemale() 
     {
         return isFemale;
     }
 
+    /**
+     * Gets the survival rate of the rabbit.
+     *
+     * @return the survival rate of the rabbit
+     */
+
     public double getSurvivalRate() 
     {
         return survivalRate;
     }
+
+    /**
+     * Generates a list of new rabbits representing a birth event.
+     *
+     * @param numberOfKittens the number of kittens to be born
+     * @param random          the random number generator
+     * @return                a list of new rabbits born
+     */
 
     public static List<Rabbit> giveBirth(int numberOfKittens, MTRandom random)
     {
@@ -65,6 +107,13 @@ public class Rabbit
         return kittens;
     }
 
+    /**
+     * Calculates the survival rate based on the age of the rabbit.
+     *
+     * @param age the age of the rabbit
+     * @return    the calculated survival rate
+     */
+
     public static double calculateSurvivalRate(int age) 
     {
         if (age < 5) 
@@ -80,7 +129,14 @@ public class Rabbit
             return Math.max(0, 0.6 - ( (10 - age) * SURVIVAL_DECREASE_RATE ) );
         }
     }
-    
+
+    /**
+     * Calculates the number of litters for a single rabbit.
+     *
+     * @param rnd the random number generator
+     * @return the number of litters
+     */
+
     public static int calculateNumberOfLitters(MTRandom rnd)
     {
         int numLitters;
@@ -106,25 +162,12 @@ public class Rabbit
         return numLitters;
     }
     
-    private static int calculateTotalLitters(MTRandom rnd, long numMatureFemales) 
-    {
-        int totalLitters = 0;
+    /**
+     * Gets the age of the rabbit.
+     *
+     * @return the age of the rabbit
+     */
     
-        for (long i = 0; i < numMatureFemales; i++) 
-        {
-            int numLitters = calculateNumberOfLitters(rnd);
-            totalLitters += numLitters;
-        }
-    
-        return totalLitters;
-    }
-    
-    public static double calculateAverageLittersPerYear(MTRandom rnd, long numMatureFemales) 
-    {
-        int totalLitters = calculateTotalLitters(rnd, numMatureFemales);
-        return (double) totalLitters / numMatureFemales;
-    }
-
     public int getAge()
     {
         return this.age;

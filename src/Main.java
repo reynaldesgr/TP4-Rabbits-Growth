@@ -1,9 +1,23 @@
+/**
+ * The Main class contains the main method for executing a simple rabbit population simulation.
+ * It includes simulations based on the Fibonacci sequence to represent rabbit pairs' growth over months.
+ * Additionally, it uses a more realistic population simulation with the help of the RSimulationLauncher.
+ * 
+ * @author SEGERIE Reynalde
+ */
+
 package src;
 
 
 public class Main 
 {
 
+    /**
+     * The main method of the program, responsible for executing the rabbit population simulations.
+     *
+     * @param args the command-line arguments (not used in this program)
+     */
+    
     public static void main(String[] args) 
     {
         // Q1.
@@ -17,7 +31,7 @@ public class Main
         // Start with 1 pair of rabbits (1 adult pair) - (Generation)
         population[0] = 1;
 
-        // The second month, there is still 1 pair of rabbits (Maturation)
+        // The second month, there is still 1 pair of rabbits - (Maturation)
         population[1] = 1; 
 
         System.out.println("Month 1: 1 pair of rabbits (0 adult)");

@@ -1,3 +1,10 @@
+/**
+ * The RSimulationLauncher class initiates and manages multiple rabbit population simulations.
+ * It runs a specified number of simulations, collects and averages the results, and prints
+ * statistics such as the average number of females, males, deaths, births, and population size.
+ * 
+ * @author SEGERIE Reynalde
+ */
 package src;
 
 public class RSimulationLauncher 
@@ -5,7 +12,11 @@ public class RSimulationLauncher
     private static final int NUM_SIMULATIONS = 100;
     private static final int NUM_FEMALES     = 1;
     private static final int NUM_MALES       = 1;
-    private static final int NUM_YEARS       = 20;
+    private static final int NUM_YEARS       = 10;
+
+    /**
+     * Launches multiple rabbit population simulations and prints average statistics.
+     */
 
     public void launchSimulations()
     {   
@@ -19,7 +30,10 @@ public class RSimulationLauncher
         double averagePercentFemalesPerSimulations        = 0.;
         double averagePercentMalesPerSimulations          = 0.;
 
-        
+        /**
+         * The statistics object to collect data from each simulation.
+         */
+
         RSimulationStats stats              = new RSimulationStats();
 
         System.out.println("FEMALES : " + NUM_FEMALES + " | MALES : " + NUM_MALES);
@@ -41,7 +55,7 @@ public class RSimulationLauncher
 
         }
 
-        // Calcule les moyennes
+        // Calculate averages
         averageFemalesPerSimulations              /= NUM_SIMULATIONS;
         averageMalesPerSimulations                /= NUM_SIMULATIONS;
         averageDeathsPerSimulations               /= NUM_SIMULATIONS;

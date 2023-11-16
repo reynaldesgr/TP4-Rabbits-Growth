@@ -1,5 +1,12 @@
-package src;
+/**
+ * The RSimulationStats class represents statistics for a rabbit population simulation.
+ * It includes information about the initial and final population, births, deaths,
+ * average age, and other relevant statistics.
+ * 
+ * @author SEGERIE Reynalde
+ */
 
+package src;
 
 public class RSimulationStats 
 {
@@ -38,6 +45,20 @@ public class RSimulationStats
     }
 
 
+    /**
+     * Updates the statistics with new information from the simulation.
+     *
+     * @param initialSizePopulation the initial size of the population
+     * @param females               the array representing the population of females at different age levels
+     * @param males                 the array representing the population of males at different age levels
+     * @param births                the number of births in the current simulation year
+     * @param femalesBorn           the number of female rabbits born in the current simulation year
+     * @param malesBorn             the number of male rabbits born in the current simulation year
+     * @param femalesDead           the number of female rabbits that died in the current simulation year
+     * @param malesDead             the number of male rabbits that died in the current simulation year
+     * @param ageAtDeath            the array representing the age at which rabbits died
+     */
+
     public void updateStats(long initialSizePopulation, long[] females, long[] males, long births, long femalesBorn, long malesBorn, long femalesDead, long malesDead, long[] ageAtDeath)
     {
         this.initialSizePopulation = initialSizePopulation;
@@ -55,6 +76,12 @@ public class RSimulationStats
 
         this.ageAtDeath            = ageAtDeath;
     }
+
+    /**
+     * Displays the statistics for a specific simulation year.
+     *
+     * @param year the simulation year
+     */
 
     public void displayStats(int year) 
     {
@@ -82,6 +109,13 @@ public class RSimulationStats
         System.out.println();
     }
 
+    /**
+     * Calculates the weighted average age at death based on the ages and the number of rabbits that died at each age.
+     *
+     * @param ageAtDeath the array representing the age at which rabbits died
+     * @return           the weighted average age at death
+     */
+
     private static double calculateWeightedAverage(long[] ageAtDeath) 
     {
         long totalDecedents = 0;
@@ -100,6 +134,14 @@ public class RSimulationStats
         return (double) sumWeightedAges / totalDecedents;
     }
 
+    /**
+     * Calculates the percentage of one count relative to the sum of two counts.
+     *
+     * @param count1 the first count
+     * @param count2 the second count
+     * @return the percentage of count1 relative to the sum of count1 and count2
+     */
+
     private double calculatePercentage(long count1, long count2) 
     {
         if (count1 + count2 == 0) 
@@ -108,6 +150,13 @@ public class RSimulationStats
         }
         return (double) count1 / (count1 + count2) * 100.0;
     }
+
+
+    /**
+     * Calculates the average age of the rabbit population.
+     *
+     * @return the average age of the population
+     */
 
     public double calculateAverageAge() 
     {
@@ -126,6 +175,14 @@ public class RSimulationStats
         return (double) sum / totalPopulation;
     }
 
+    /**
+     * Calculates the population growth rate between two populations.
+     *
+     * @param previousPopulation the population size in the previous year
+     * @param currentPopulation  the population size in the current year
+     * @return                   the population growth rate
+     */
+
     public double calculatePopulationGrowthRate(long previousPopulation, long currentPopulation) 
     {
         if (previousPopulation == 0) 
@@ -136,6 +193,12 @@ public class RSimulationStats
         return ((double) currentPopulation - previousPopulation) / previousPopulation * 100.0;
     }
 
+    /**
+     * Counts the total number of rabbits in the given population array.
+     *
+     * @param population the array representing the population of rabbits
+     * @return the total number of rabbits in the population array
+     */
 
     private long count(long[] population) 
     {
@@ -150,53 +213,115 @@ public class RSimulationStats
         return total;
     }
 
-    public long getTotalPopulation() 
-    {
-        return count(females) + count(males);
-    } 
-
-    public long getFemalesDead()
-    {
-        return femalesDead;
-    }
-
-    public long getMalesDead()
-    {
-        return malesDead;
-    }
-
-    public long getMales()
-    {
-        return count(males);
-    }
-
-    public long getFemales()
-    {
-        return count(females);
-    }
-
-    public long getBirths()
-    {
-        return births;
-    }
+    /**
+     * Calculates the percentage of females in the population.
+     *
+     * @return the percentage of females
+     */
 
     public double getPercentageFemales()
     {
        return Math.round(calculatePercentage(count(females), count(males)));
     }
 
+    /**
+     * Calculates the percentage of males in the population.
+     *
+     * @return the percentage of males
+     */
+    
     public double getPercentageMales()
     {
        return Math.round(calculatePercentage(count(males), count(females)));
     }
+
+
+    /**
+     * Gets the total population by summing the number of females and males.
+     *
+     * @return the total population
+     */
+
+    public long getTotalPopulation() 
+    {
+        return count(females) + count(males);
+    } 
+
+    /**
+     * Gets the number of dead females.
+     *
+     * @return the number of dead females
+     */
+
+    public long getFemalesDead()
+    {
+        return femalesDead;
+    }
+
+    /**
+     * Gets the number of dead males.
+     *
+     * @return the number of dead males
+     */
+
+    public long getMalesDead()
+    {
+        return malesDead;
+    }
+
+    /**
+     * Gets the total number of males.
+     *
+     * @return the total number of males
+     */
+
+    public long getMales()
+    {
+        return count(males);
+    }
+
+    /**
+     * Sets the population of males.
+     *
+     * @param males the array representing the population of males
+     */
+
+    public void setMales(long[] males)
+    {
+        this.males = males;
+    }
+
+    /**
+     * Gets the total number of females.
+     *
+     * @return the total number of females
+     */
+
+    public long getFemales()
+    {
+        return count(females);
+    }
+
+    /**
+     * Sets the population of females.
+     *
+     * @param females the array representing the population of females
+     */
 
     public void setFemales(long[] females)
     {
         this.females = females;
     }
 
-    public void setMales(long[] males)
+    /**
+     * Gets the number of births.
+     *
+     * @return the number of births
+     */
+
+    public long getBirths()
     {
-        this.males = males;
+        return births;
     }
+
 }

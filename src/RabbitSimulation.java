@@ -1,3 +1,12 @@
+
+/**
+ * The RabbitSimulation class simulates the population growth of rabbits over several years.
+ * It uses a simple model to estimate the number of births and simulate the survival of rabbits
+ * based on their age and gender.
+ *
+ * @author SEGERIE Reynalde
+ */
+
 package src;
 
 import src.rabbits.Rabbit;
@@ -12,6 +21,14 @@ public class RabbitSimulation
 
     private static final long ESTIMATION_THRESHOLD = 1000000;
 
+    /**
+     * Constructs a RabbitSimulation object with the specified initial number of females, males, and simulation years.
+     *
+     * @param initialFemales the initial number of female rabbits
+     * @param initialMales   the initial number of male rabbits
+     * @param simulationYear the number of years to simulate
+     */
+
     public RabbitSimulation(int initialFemales, int initialMales, int simulationYear) 
     {
         this.simulationYear = simulationYear;
@@ -21,30 +38,46 @@ public class RabbitSimulation
         males  [1] = initialMales;
     }
 
-    private long[] estimateNumberOfBabies(long numMatureFemales, long numMatureMales, MTRandom rnd) 
-    {
-        // Facteur de base pour estimer le nombre de lapereaux par lapine mature
+    /**
+     * Estimates the number of babies based on the number of mature females, mature males, and a random number generator.
+     *
+     * @param numMatureFemales the number of mature female rabbits
+     * @param numMatureMales   the number of mature male rabbits
+     * @param rnd              the random number generator
+     * @return                 an array containing the estimated number of female and male babies
+     */
+
+     private long[] estimateNumberOfBabies(long numMatureFemales, long numMatureMales, MTRandom rnd) 
+     {
+        // Base factor for estimating the number of offspring per mature female
         double baseFactor = 4.8;
     
-        // Facteur supplémentaire en fonction de la disponibilité des mâles
+        // Additional factor based on male availability
         double maleAvailabilityFactor = Math.min(1.0, (double) numMatureMales / numMatureFemales);
-
+    
         double randomFactor = 0.4 + rnd.nextDouble() * 0.08;
-
-        // Estimation finale en utilisant les facteurs
+    
+        // Final estimation using the factors
         double estimatedNumBabies = (baseFactor * maleAvailabilityFactor * randomFactor) * numMatureFemales;
     
-        // Estimer le nombre de naissances pour les mâles et les femelles
-        long estimatedNumFemales = (long) (estimatedNumBabies * 0.5);  //50% de femelles
-        long estimatedNumMales   = (long) (estimatedNumBabies * 0.5); // 50% de mâles
+        // Estimate the number of births for males and females
+        long estimatedNumFemales = (long) (estimatedNumBabies * 0.5); // 50% females
+        long estimatedNumMales = (long) (estimatedNumBabies * 0.5); // 50% males
     
         estimatedNumFemales = Math.max(0, estimatedNumFemales);
-        estimatedNumMales   = Math.max(0, estimatedNumMales);
+        estimatedNumMales = Math.max(0, estimatedNumMales);
     
-        // Retourne un tableau avec les estimations pour les mâles et les femelles
+        // Return an array with estimates for males and females
         return new long[]{estimatedNumFemales, estimatedNumMales};
     }
     
+    
+
+    /**
+     * Runs the rabbit population simulation for the specified number of years.
+     *
+     * @param stats the RSimulationStats object to store simulation statistics
+     */
 
     public void runSimulation(RSimulationStats stats) 
     {
@@ -178,6 +211,13 @@ public class RabbitSimulation
         }
     }
 
+    /**
+     * Counts the total population at all age levels.
+     *
+     * @param population the array representing the population at different age levels
+     * @return           the total population
+     */
+
     public long count(long[] population) 
     {
         long total = 0;
@@ -188,6 +228,14 @@ public class RabbitSimulation
     }
 
  
+     /**
+     * Displays the population of rabbits at different age levels.
+     *
+     * @param population the array representing the population at different age levels
+     * @param name       the name of the population (e.g., "Females" or "Males")
+     * @param n          the number of age levels to display
+     */
+
     public void displayPopulation(long[] population, String name, int n) 
     {
         System.out.println(name);
