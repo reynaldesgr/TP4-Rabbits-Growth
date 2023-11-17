@@ -19,7 +19,8 @@ public class RabbitSimulation
     private long[] males   = new long[15];
     private int simulationYear;
 
-    private static final long ESTIMATION_THRESHOLD = 1000000;
+    private static final long ESTIMATION_THRESHOLD = 10000000;
+    private static final double[] CONSTANT_PREDATION_PROBABILITIES = {0.7, 0.5, 0.25, 0.35, 0.4, 0.2, 0.3, 0.25, 0.35, 0.4, 0.2, 0.3, 0.25, 0.35, 0.4};
 
     /**
      * Constructs a RabbitSimulation object with the specified initial number of females, males, and simulation years.
@@ -62,10 +63,10 @@ public class RabbitSimulation
     
         // Estimate the number of births for males and females
         long estimatedNumFemales = (long) (estimatedNumBabies * 0.5); // 50% females
-        long estimatedNumMales = (long) (estimatedNumBabies * 0.5); // 50% males
+        long estimatedNumMales   = (long) (estimatedNumBabies * 0.5); // 50% males
     
         estimatedNumFemales = Math.max(0, estimatedNumFemales);
-        estimatedNumMales = Math.max(0, estimatedNumMales);
+        estimatedNumMales   = Math.max(0, estimatedNumMales);
     
         // Return an array with estimates for males and females
         return new long[]{estimatedNumFemales, estimatedNumMales};
@@ -188,6 +189,9 @@ public class RabbitSimulation
                     females[age]       = numSurvivedFemales;
                 }
 
+               //long[] predation = simulatePredation(females, males, age, rnd);
+
+               
                 totalFemalesDeath += numOfFemalesDead;
                 totalMalesDeath   += numOfMalesDead;
 
@@ -207,8 +211,40 @@ public class RabbitSimulation
             }
 
             females[0] = 0;
-            males[0]   = 0;
+            males  [0] = 0;
         }
+    }
+
+
+
+     /**
+     * Simulates predation based on pre-defined probabilities.
+     *
+     * @param females the array representing the population of females at different age levels
+     * @param males   the array representing the population of males at different age levels
+     * @param rnd     the random number generator
+     */
+
+    public long[] simulatePredation(long[] females, long[] males, int age, MTRandom rnd) 
+    {
+        // Probabilité de prédation pour chaque tranche d'âge
+        double predationProbability = CONSTANT_PREDATION_PROBABILITIES[age - 1];
+
+        // Prédation sur les femelles
+        long numFemalesPredated = (long) (females[age] * (rnd.nextDouble(2) * predationProbability));
+        females[age] -= numFemalesPredated;
+
+        // Prédation sur les mâles
+        long numMalesPredated = (long) (males[age] * (rnd.nextDouble(2) * predationProbability));
+        males[age]   -= numMalesPredated;
+
+        /*System.out.println("--- Predateurs ---");
+        System.out.println(" Age : " + age);
+        System.out.println("Females : " + numFemalesPredated);
+        System.out.println("Males : " + numMalesPredated);
+        System.out.println("========================================");*/
+
+        return new long[]{numFemalesPredated, numMalesPredated};
     }
 
     /**

@@ -10,10 +10,10 @@ package src;
 
 public class RSimulationLauncher 
 {
-    private static final int NUM_SIMULATIONS = 100;
+    private static final int NUM_SIMULATIONS = 1;
     private static final int NUM_FEMALES     = 1;
     private static final int NUM_MALES       = 1;
-    private static final int NUM_YEARS       = 10;
+    private static final int NUM_YEARS       = 15;
 
     /**
      * Launches multiple rabbit population simulations and prints average statistics.
