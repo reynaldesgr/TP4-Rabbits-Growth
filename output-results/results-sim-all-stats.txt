@@ -1,0 +1,640 @@
+FEMALES : 1 | MALES : 1
+         SIMU. 1 :
+Computing simulation...
+
+-- Year 1 stats : --
+
+* Initial size at the beginning of the year : 2
+Percentage of Females: 43%
+Percentage of Males: 57%
+Number of births : 7
+Number of deaths : 2
+Number of females deaths : 1
+Number of males deaths : 1
+Number of females born : 3
+Number of males born : 4
+Average age : 1,00 
+Average age at death : 1,00
+-------------------------------------------------
+Age Coefficient of variation: 0,00
+Life expectancy: 1,00
+Females to males ratio: 0,75
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   7
+Age 2:   0
+Age 3:   0
+Age 4:   0
+Age 5:   0
+Age 6:   0
+Age 7:   0
+Age 8:   0
+Age 9:   0
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 7
+Total Females : 3
+Total Males :   4
+===============================================
+
+
+-- Year 2 stats : --
+
+* Initial size at the beginning of the year : 7
+Percentage of Females: 52%
+Percentage of Males: 48%
+Number of births : 23
+Number of deaths : 5
+Number of females deaths : 2
+Number of males deaths : 3
+Number of females born : 12
+Number of males born : 11
+Average age : 1,08
+Average age at death : 1,00
+-------------------------------------------------
+Age Coefficient of variation: 0,25
+Life expectancy: 1,00
+Females to males ratio: 1,08
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   23
+Age 2:   2
+Age 3:   0
+Age 4:   0
+Age 5:   0
+Age 6:   0
+Age 7:   0
+Age 8:   0
+Age 9:   0
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 25
+Total Females : 13
+Total Males :   12
+===============================================
+
+
+-- Year 3 stats : --
+
+* Initial size at the beginning of the year : 25
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 127
+Number of deaths : 18
+Number of females deaths : 9
+Number of males deaths : 9
+Number of females born : 63
+Number of males born : 64
+Average age : 1,05
+Average age at death : 1,20
+-------------------------------------------------
+Age Coefficient of variation: 0,21
+Life expectancy: 1,33
+Females to males ratio: 1,00
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   127
+Age 2:   7
+Age 3:   0
+Age 4:   0
+Age 5:   0
+Age 6:   0
+Age 7:   0
+Age 8:   0
+Age 9:   0
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 134
+Total Females : 67
+Total Males :   67
+===============================================
+
+
+-- Year 4 stats : --
+
+* Initial size at the beginning of the year : 134
+Percentage of Females: 47%
+Percentage of Males: 53%
+Number of births : 629
+Number of deaths : 88
+Number of females deaths : 44
+Number of males deaths : 44
+Number of females born : 296
+Number of males born : 333
+Average age : 1,07
+Average age at death : 1,11
+-------------------------------------------------
+Age Coefficient of variation: 0,25
+Life expectancy: 1,17
+Females to males ratio: 0,90
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   629
+Age 2:   44
+Age 3:   2
+Age 4:   0
+Age 5:   0
+Age 6:   0
+Age 7:   0
+Age 8:   0
+Age 9:   0
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 675
+Total Females : 319
+Total Males :   356
+===============================================
+
+
+-- Year 5 stats : --
+
+* Initial size at the beginning of the year : 675
+Percentage of Females: 52%
+Percentage of Males: 48%
+Number of births : 3176
+Number of deaths : 442
+Number of females deaths : 209
+Number of males deaths : 233
+Number of females born : 1646
+Number of males born : 1530
+Average age : 1,07
+Average age at death : 1,15
+-------------------------------------------------
+Age Coefficient of variation: 0,26
+Life expectancy: 1,24
+Females to males ratio: 1,06
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   3176
+Age 2:   219
+Age 3:   14
+Age 4:   0
+Age 5:   0
+Age 6:   0
+Age 7:   0
+Age 8:   0
+Age 9:   0
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 3409
+Total Females : 1756
+Total Males :   1653
+===============================================
+
+
+-- Year 6 stats : --
+
+* Initial size at the beginning of the year : 3409
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 17373
+Number of deaths : 2218
+Number of females deaths : 1142
+Number of males deaths : 1076
+Number of females born : 8635
+Number of males born : 8738
+Average age : 1,07
+Average age at death : 1,15
+-------------------------------------------------
+Age Coefficient of variation: 0,25
+Life expectancy: 1,23
+Females to males ratio: 0,99
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   17373
+Age 2:   1111
+Age 3:   76
+Age 4:   4
+Age 5:   0
+Age 6:   0
+Age 7:   0
+Age 8:   0
+Age 9:   0
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 18564
+Total Females : 9249
+Total Males :   9315
+===============================================
+
+
+-- Year 7 stats : --
+
+* Initial size at the beginning of the year : 18564
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 91319
+Number of deaths : 12070
+Number of females deaths : 6014
+Number of males deaths : 6056
+Number of females born : 45691
+Number of males born : 45628
+Average age : 1,07
+Average age at death : 1,14
+-------------------------------------------------
+Age Coefficient of variation: 0,26
+Life expectancy: 1,22
+Females to males ratio: 1,00
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   91319
+Age 2:   6080
+Age 3:   388
+Age 4:   26
+Age 5:   0
+Age 6:   0
+Age 7:   0
+Age 8:   0
+Age 9:   0
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 97813
+Total Females : 48926
+Total Males :   48887
+===============================================
+
+
+-- Year 8 stats : --
+
+* Initial size at the beginning of the year : 97813
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 482646
+Number of deaths : 63583
+Number of females deaths : 31804
+Number of males deaths : 31779
+Number of females born : 240607
+Number of males born : 242039
+Average age : 1,07
+Average age at death : 1,14
+-------------------------------------------------
+Age Coefficient of variation: 0,26
+Life expectancy: 1,22
+Females to males ratio: 0,99
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   482646
+Age 2:   31960
+Age 3:   2127
+Age 4:   135
+Age 5:   8
+Age 6:   0
+Age 7:   0
+Age 8:   0
+Age 9:   0
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 516876
+Total Females : 257729
+Total Males :   259147
+===============================================
+
+
+-- Year 9 stats : --
+
+* Initial size at the beginning of the year : 516876
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 2543336
+Number of deaths : 335973
+Number of females deaths : 167526
+Number of males deaths : 168447
+Number of females born : 1271924
+Number of males born : 1271412
+Average age : 1,07
+Average age at death : 1,14
+-------------------------------------------------
+Age Coefficient of variation: 0,26
+Life expectancy: 1,22
+Females to males ratio: 1,00
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   2543336
+Age 2:   168925
+Age 3:   11185
+Age 4:   743
+Age 5:   46
+Age 6:   4
+Age 7:   0
+Age 8:   0
+Age 9:   0
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 2724239
+Total Females : 1362127
+Total Males :   1362112
+===============================================
+
+
+-- Year 10 stats : --
+
+* Initial size at the beginning of the year : 2724239
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 13443864
+Number of deaths : 1770747
+Number of females deaths : 885378
+Number of males deaths : 885369
+Number of females born : 6723205
+Number of males born : 6720659
+Average age : 1,07
+Average age at death : 1,14
+-------------------------------------------------    
+Age Coefficient of variation: 0,26
+Life expectancy: 1,22
+Females to males ratio: 1,00
+-------------------------------------------------    
+
+Age Distribution of Living Rabbits:
+Age 1:   13443864
+Age 2:   890167
+Age 3:   59123
+Age 4:   3914
+Age 5:   259
+Age 6:   27
+Age 7:   2
+Age 8:   0
+Age 9:   0
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 14397356
+Total Females : 7199954
+Total Males :   7197402
+===============================================
+
+
+-- Year 11 stats : --
+
+* Initial size at the beginning of the year : 14397356
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 71076728
+Number of deaths : 9358217
+Number of females deaths : 4679938
+Number of males deaths : 4678279
+Number of females born : 35535722
+Number of males born : 35541006
+Average age : 1,07
+Average age at death : 1,14
+-------------------------------------------------
+Age Coefficient of variation: 0,26
+Life expectancy: 1,22
+Females to males ratio: 1,00
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   71076728
+Age 2:   4705351
+Age 3:   311557
+Age 4:   20692
+Age 5:   1369
+Age 6:   155
+Age 7:   15
+Age 8:   0
+Age 9:   0
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 76115867
+Total Females : 38055738
+Total Males :   38060129
+===============================================
+
+
+-- Year 12 stats : --
+
+* Initial size at the beginning of the year : 76115867
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 97348268
+Number of deaths : 49474935
+Number of females deaths : 24736040
+Number of males deaths : 24738895
+Number of females born : 48669470
+Number of males born : 48678798
+Average age : 1,23
+Average age at death : 1,14
+-------------------------------------------------
+Age Coefficient of variation: 0,37
+Life expectancy: 1,22
+Females to males ratio: 1,00
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   97348268
+Age 2:   24876854
+Age 3:   1646872
+Age 4:   109044
+Age 5:   7241
+Age 6:   821
+Age 7:   92
+Age 8:   8
+Age 9:   0
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 123989200
+Total Females : 61989168
+Total Males :   62000032
+===============================================
+
+
+-- Year 13 stats : --
+
+* Initial size at the beginning of the year : 123989200
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 139248590
+Number of deaths : 80590946
+Number of females deaths : 40291945
+Number of males deaths : 40299001
+Number of females born : 69625501
+Number of males born : 69623089
+Average age : 1,29
+Average age at death : 1,40
+-------------------------------------------------
+Age Coefficient of variation: 0,44
+Life expectancy: 1,72
+Females to males ratio: 1,00
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   139248590
+Age 2:   34071893
+Age 3:   8706898
+Age 4:   576405
+Age 5:   38164
+Age 6:   4344
+Age 7:   492
+Age 8:   54
+Age 9:   4
+Age 10:  0
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 182646844
+Total Females : 91322724
+Total Males :   91324120
+===============================================
+
+
+-- Year 14 stats : --
+
+* Initial size at the beginning of the year : 182646844
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 217209131
+Number of deaths : 118709694
+Number of females deaths : 59354394
+Number of males deaths : 59355300
+Number of females born : 108605561
+Number of males born : 108603570
+Average age : 1,29
+Average age at death : 1,54
+-------------------------------------------------
+Age Coefficient of variation: 0,47
+Life expectancy: 1,99
+Females to males ratio: 1,00
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   217209131
+Age 2:   48737006
+Age 3:   11925161
+Age 4:   3047413
+Age 5:   201740
+Age 6:   22897
+Age 7:   2605
+Age 8:   294
+Age 9:   32
+Age 10:  2
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 281146281
+Total Females : 140573891
+Total Males :   140572390
+===============================================
+
+
+-- Year 15 stats : --
+
+* Initial size at the beginning of the year : 281146281
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 355982266
+Number of deaths : 182688199
+Number of females deaths : 91344583
+Number of males deaths : 91343616
+Number of females born : 177996016
+Number of males born : 177986250
+Average age : 1,28
+Average age at death : 1,57
+-------------------------------------------------
+Age Coefficient of variation: 0,47
+Life expectancy: 2,03
+Females to males ratio: 1,00
+-------------------------------------------------
+
+Age Distribution of Living Rabbits:
+Age 1:   355982266
+Age 2:   76023195
+Age 3:   17057951
+Age 4:   4173806
+Age 5:   1066594
+Age 6:   121043
+Age 7:   13737
+Age 8:   1562
+Age 9:   176
+Age 10:  18
+Age 11:  0
+Age 12:  0
+Age 13:  0
+Age 14:  0
+Age 15:  0
+===============================================
+Total Population : 454440348
+Total Females : 227225324
+Total Males :   227215024
+===============================================
+
+Average females per simulations :        2.27225324E8
+Average males per simulations :  2.27215024E8
+Average deaths per simulations :         1.82688199E8
+Average population size per simulations :        4.54440348E8
+Average births per simulations :         3.55982266E8
+Average % females per simulations. :     50.0%
+Average % males per simulations. :       50.0%

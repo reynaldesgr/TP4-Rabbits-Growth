@@ -86,7 +86,6 @@ public class RabbitSimulation
         MTRandom rnd = new MTRandom();
         rnd.setSeed(new int[]{0x125, 0x235, 0x345, 0x404});
 
-        double      numLitters;
         long        initialSizePopulation;
         long        numOfFemalesDead;
         long        numOfMalesDead;
@@ -97,7 +96,10 @@ public class RabbitSimulation
         long        numSurvivedFemales;
         long    []  ageAtDeath = new long[15];
         long        totalFemalesDeath = 0;
-        long        totalMalesDeath = 0;
+        long        totalMalesDeath   = 0;
+
+        double      numLitters;
+        double      numDeathByPredations;
 
         System.out.println("Computing simulation...");
 
@@ -110,13 +112,15 @@ public class RabbitSimulation
 
             initialSizePopulation = count(females) + count(males);
 
-            numBirths          = 0;
-            totalFemalesDeath  = 0;
-            totalMalesDeath    = 0;
-            numOfFemalesBorn   = 0;
-            numOfMalesBorn     = 0;
-            numSurvivedMales   = 0;
-            numSurvivedFemales = 0;
+            numBirths            = 0;
+            totalFemalesDeath    = 0;
+            totalMalesDeath      = 0;
+            numDeathByPredations = 0;
+            numOfFemalesBorn     = 0;
+            numOfMalesBorn       = 0;
+            numSurvivedMales     = 0;
+            numSurvivedFemales   = 0;
+
 
             for (int age = 0; age < 15; age++) 
             {
@@ -189,9 +193,8 @@ public class RabbitSimulation
                     females[age]       = numSurvivedFemales;
                 }
 
-               //long[] predation = simulatePredation(females, males, age, rnd);
+                //long[] predation = simulatePredation(females, males, age, rnd);
 
-               
                 totalFemalesDeath += numOfFemalesDead;
                 totalMalesDeath   += numOfMalesDead;
 
@@ -203,7 +206,7 @@ public class RabbitSimulation
                     totalFemalesDeath, totalMalesDeath, ageAtDeath);
 
             stats.displayStats(year);
-
+            
             for (int age = 14; age >= 1; age--) 
             {
                 females[age] = females[age - 1];
@@ -231,11 +234,11 @@ public class RabbitSimulation
         double predationProbability = CONSTANT_PREDATION_PROBABILITIES[age - 1];
 
         // Prédation sur les femelles
-        long numFemalesPredated = (long) (females[age] * (rnd.nextDouble(2) * predationProbability));
+        long numFemalesPredated = (long) (females[age] * (rnd.nextDouble() * predationProbability));
         females[age] -= numFemalesPredated;
 
         // Prédation sur les mâles
-        long numMalesPredated = (long) (males[age] * (rnd.nextDouble(2) * predationProbability));
+        long numMalesPredated = (long) (males[age] * (rnd.nextDouble() * predationProbability));
         males[age]   -= numMalesPredated;
 
         /*System.out.println("--- Predateurs ---");

@@ -1,0 +1,648 @@
+with predators : 
+-- Year 1 stats : --
+
+* Initial size at the beginning of the year : 2
+Percentage of Females: 86%
+Percentage of Males: 14%
+Number of births : 7
+Number of deaths : 2
+Number of females deaths : 1
+Number of males deaths : 1
+Number of females born : 6
+Number of males born : 1
+Average age : 1,00 
+Average age at death : 1,00 
+===============================================
+Total Population : 7
+Total Females : 6
+Total Males :   1
+===============================================
+
+Death by predation : 0.0
+
+-- Year 2 stats : --
+
+* Initial size at the beginning of the year : 7
+Percentage of Females: 47%
+Percentage of Males: 53%
+Number of births : 36
+Number of deaths : 5
+Number of females deaths : 4
+Number of males deaths : 1
+Number of females born : 16
+Number of males born : 20
+Average age : 1,05
+Average age at death : 1,00
+===============================================
+Total Population : 38
+Total Females : 18
+Total Males :   20
+===============================================
+
+Death by predation : 0.0
+
+-- Year 3 stats : --
+
+* Initial size at the beginning of the year : 38
+Percentage of Females: 48%
+Percentage of Males: 52%
+Number of births : 176
+Number of deaths : 31
+Number of females deaths : 15
+Number of males deaths : 16
+Number of females born : 85
+Number of males born : 91
+Average age : 1,04
+Average age at death : 1,14
+===============================================
+Total Population : 183
+Total Females : 88
+Total Males :   95
+===============================================
+
+Death by predation : 5.0
+
+-- Year 4 stats : --
+
+* Initial size at the beginning of the year : 183
+Percentage of Females: 49%
+Percentage of Males: 51%
+Number of births : 843
+Number of deaths : 139
+Number of females deaths : 75
+Number of males deaths : 64
+Number of females born : 419
+Number of males born : 424
+Average age : 1,05
+Average age at death : 1,08
+===============================================
+Total Population : 887
+Total Females : 432
+Total Males :   455
+===============================================
+
+Death by predation : 18.0
+
+-- Year 5 stats : --
+
+* Initial size at the beginning of the year : 887
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 4343
+Number of deaths : 634
+Number of females deaths : 287
+Number of males deaths : 347
+Number of females born : 2147
+Number of males born : 2196
+Average age : 1,06 
+Average age at death : 1,11
+===============================================
+Total Population : 4596
+Total Females : 2292
+Total Males :   2304
+===============================================
+
+Death by predation : 55.0
+
+-- Year 6 stats : --
+
+* Initial size at the beginning of the year : 4596
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 22618
+Number of deaths : 3646
+Number of females deaths : 1719
+Number of males deaths : 1927
+Number of females born : 11289
+Number of males born : 11329
+Average age : 1,04
+Average age at death : 1,12
+===============================================
+Total Population : 23568
+Total Females : 11862
+Total Males :   11706
+===============================================
+
+Death by predation : 656.0
+
+-- Year 7 stats : --
+
+* Initial size at the beginning of the year : 23568
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 117023
+Number of deaths : 18786
+Number of females deaths : 9611
+Number of males deaths : 9175
+Number of females born : 58407
+Number of males born : 58616
+Average age : 1,04
+Average age at death : 1,09
+===============================================
+Total Population : 121805
+Total Females : 60658
+Total Males :   61147
+===============================================
+
+Death by predation : 3464.0
+
+-- Year 8 stats : --
+
+* Initial size at the beginning of the year : 121805
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 598336
+Number of deaths : 92867
+Number of females deaths : 48175
+Number of males deaths : 44692
+Number of females born : 299298
+Number of males born : 299038
+Average age : 1,05
+Average age at death : 1,09
+===============================================
+Total Population : 627274
+Total Females : 311781
+Total Males :   315493
+===============================================
+
+Death by predation : 13689.0
+
+-- Year 9 stats : --
+
+* Initial size at the beginning of the year : 627274
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 3078371
+Number of deaths : 480807
+Number of females deaths : 245396
+Number of males deaths : 235411
+Number of females born : 1537377
+Number of males born : 1540994
+Average age : 1,05
+Average age at death : 1,10
+===============================================
+Total Population : 3224838
+Total Females : 1603762
+Total Males :   1621076
+===============================================
+
+Death by predation : 73076.0
+
+-- Year 10 stats : --
+
+* Initial size at the beginning of the year : 3224838
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 15826562
+Number of deaths : 2750345
+Number of females deaths : 1377174
+Number of males deaths : 1373171
+Number of females born : 7911864
+Number of males born : 7914698
+Average age : 1,03
+Average age at death : 1,10
+===============================================
+Total Population : 16301055
+Total Females : 8138452
+Total Males :   8162603
+===============================================
+
+Death by predation : 654199.0
+
+-- Year 11 stats : --
+
+* Initial size at the beginning of the year : 16301055
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 80343110
+Number of deaths : 13112560
+Number of females deaths : 6822307
+Number of males deaths : 6290253
+Number of females born : 40170007
+Number of males born : 40173103
+Average age : 1,04
+Average age at death : 1,07
+===============================================
+Total Population : 83531605
+Total Females : 41486152
+Total Males :   42045453
+===============================================
+
+Death by predation : 2516903.0
+
+-- Year 12 stats : --
+
+* Initial size at the beginning of the year : 83531605
+Percentage of Females: 51%
+Percentage of Males: 49%
+Number of births : 101400390
+Number of deaths : 62151204
+Number of females deaths : 30077320
+Number of males deaths : 32073884
+Number of females born : 50698155
+Number of males born : 50702235
+Average age : 1,18
+Average age at death : 1,08
+===============================================
+Total Population : 122780791
+Total Females : 62106987
+Total Males :   60673804
+===============================================
+
+Death by predation : 7855841.0
+
+-- Year 13 stats : --
+
+* Initial size at the beginning of the year : 122780791
+Percentage of Females: 47%
+Percentage of Males: 53%
+Number of births : 127389765
+Number of deaths : 91818953
+Number of females deaths : 51315687
+Number of males deaths : 40503266
+Number of females born : 63696206
+Number of males born : 63693559
+Average age : 1,24
+Average age at death : 1,32
+===============================================
+Total Population : 158351603
+Total Females : 74487506
+Total Males :   83864097
+===============================================
+
+Death by predation : 1.2012319E7
+
+-- Year 14 stats : --
+
+* Initial size at the beginning of the year : 158351603
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 229196100
+Number of deaths : 121188403
+Number of females deaths : 56909064
+Number of males deaths : 64279339
+Number of females born : 114604273
+Number of males born : 114591827
+Average age : 1,17
+Average age at death : 1,46
+===============================================
+Total Population : 266359300
+Total Females : 132182715
+Total Males :   134176585
+===============================================
+
+Death by predation : 1.8262745E7
+
+-- Year 15 stats : --
+
+* Initial size at the beginning of the year : 266359300
+Percentage of Females: 51%
+Percentage of Males: 49%
+Number of births : 313203707
+Number of deaths : 184271596
+Number of females deaths : 88228214
+Number of males deaths : 96043382
+Number of females born : 156596129
+Number of males born : 156607578
+Average age : 1,24
+Average age at death : 1,37
+===============================================
+Total Population : 395291411
+Total Females : 200550630
+Total Males :   194740781
+===============================================
+
+Death by predation : 1.115829E7
+Average females per simulations :        2.0055063E8
+Average males per simulations :  1.94740781E8
+Average deaths per simulations :         1.84271596E8
+Average population size per simulations :        3.95291411E8
+Average births per simulations :         3.13203707E8
+Average % females per simulations. :     51.0%
+Average % males per simulations. :       49.0%
+
+
+--------------------------------------------------------------------------------------------------
+without predators :
+
+-- Year 1 stats : --
+
+* Initial size at the beginning of the year : 2
+Percentage of Females: 71%
+Percentage of Males: 29%
+Number of births : 7
+Number of deaths : 2
+Number of females deaths : 1
+Number of males deaths : 1
+Number of females born : 5
+Number of males born : 2
+Average age : 1,00 
+Average age at death : 1,00
+===============================================
+Total Population : 7
+Total Females : 5
+Total Males :   2
+===============================================
+
+Death by predation : 0.0
+
+-- Year 2 stats : --
+
+* Initial size at the beginning of the year : 7
+Percentage of Females: 40%
+Percentage of Males: 60%
+Number of births : 44
+Number of deaths : 6
+Number of females deaths : 4
+Number of males deaths : 2
+Number of females born : 17
+Number of males born : 27
+Average age : 1,02
+Average age at death : 1,00
+===============================================
+Total Population : 45
+Total Females : 18
+Total Males :   27
+===============================================
+
+Death by predation : 0.0
+
+-- Year 3 stats : --
+
+* Initial size at the beginning of the year : 45
+Percentage of Females: 53%
+Percentage of Males: 47%
+Number of births : 165
+Number of deaths : 31
+Number of females deaths : 13
+Number of males deaths : 18
+Number of females born : 89
+Number of males born : 76
+Average age : 1,08
+Average age at death : 1,06
+===============================================
+Total Population : 179
+Total Females : 94
+Total Males :   85
+===============================================
+
+Death by predation : 0.0
+
+-- Year 4 stats : --
+
+* Initial size at the beginning of the year : 179
+Percentage of Females: 51%
+Percentage of Males: 49%
+Number of births : 904
+Number of deaths : 118
+Number of females deaths : 62
+Number of males deaths : 56
+Number of females born : 461
+Number of males born : 443
+Average age : 1,07
+Average age at death : 1,16 
+===============================================
+Total Population : 965
+Total Females : 493
+Total Males :   472
+===============================================
+
+Death by predation : 0.0
+
+-- Year 5 stats : --
+
+* Initial size at the beginning of the year : 965
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 4931
+Number of deaths : 629
+Number of females deaths : 322
+Number of males deaths : 307
+Number of females born : 2456
+Number of males born : 2475
+Average age : 1,07
+Average age at death : 1,14 
+===============================================
+Total Population : 5267
+Total Females : 2627
+Total Males :   2640
+===============================================
+
+Death by predation : 0.0
+
+-- Year 6 stats : --
+
+* Initial size at the beginning of the year : 5267
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 26021
+Number of deaths : 3426
+Number of females deaths : 1709
+Number of males deaths : 1717
+Number of females born : 12950
+Number of males born : 13071
+Average age : 1,07
+Average age at death : 1,14
+===============================================
+Total Population : 27862
+Total Females : 13868
+Total Males :   13994
+===============================================
+
+Death by predation : 0.0
+
+-- Year 7 stats : --
+
+* Initial size at the beginning of the year : 27862
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 136581
+Number of deaths : 18114
+Number of females deaths : 9016
+Number of males deaths : 9098
+Number of females born : 68201
+Number of males born : 68380
+Average age : 1,07
+Average age at death : 1,14
+===============================================
+Total Population : 146329
+Total Females : 73053
+Total Males :   73276
+===============================================
+
+Death by predation : 0.0
+
+-- Year 8 stats : --
+
+* Initial size at the beginning of the year : 146329
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 721012
+Number of deaths : 95117
+Number of females deaths : 47486
+Number of males deaths : 47631
+Number of females born : 359944
+Number of males born : 361068
+Average age : 1,07
+Average age at death : 1,14
+===============================================
+Total Population : 772224
+Total Females : 385511
+Total Males :   386713
+===============================================
+
+Death by predation : 0.0
+
+-- Year 9 stats : --
+
+* Initial size at the beginning of the year : 772224
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 3807802
+Number of deaths : 501947
+Number of females deaths : 250583
+Number of males deaths : 251364
+Number of females born : 1902882
+Number of males born : 1904920
+Average age : 1,07
+Average age at death : 1,14
+===============================================
+Total Population : 4078079
+Total Females : 2037810
+Total Males :   2040269
+===============================================
+
+Death by predation : 0.0
+
+-- Year 10 stats : --
+
+* Initial size at the beginning of the year : 4078079
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 20113975
+Number of deaths : 2650737
+Number of females deaths : 1324570
+Number of males deaths : 1326167
+Number of females born : 10053805
+Number of males born : 10060170
+Average age : 1,07
+Average age at death : 1,14
+===============================================
+Total Population : 21541317
+Total Females : 10767045
+Total Males :   10774272
+===============================================
+
+Death by predation : 0.0
+
+-- Year 11 stats : --
+
+* Initial size at the beginning of the year : 21541317
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 26628978
+Number of deaths : 14001755
+Number of females deaths : 6998529
+Number of males deaths : 7003226
+Number of females born : 13314006
+Number of males born : 13314972
+Average age : 1,24
+Average age at death : 1,14
+===============================================
+Total Population : 34168540
+Total Females : 17082522
+Total Males :   17086018
+===============================================
+
+Death by predation : 0.0
+
+-- Year 12 stats : --
+
+* Initial size at the beginning of the year : 34168540
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 67706241
+Number of deaths : 22208980
+Number of females deaths : 11103355
+Number of males deaths : 11105625
+Number of females born : 33851932
+Number of males born : 33854309
+Average age : 1,19
+Average age at death : 1,41
+===============================================
+Total Population : 79665801
+Total Females : 39831099
+Total Males :   39834702
+===============================================
+
+Death by predation : 0.0
+
+-- Year 13 stats : --
+
+* Initial size at the beginning of the year : 79665801
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 124570165
+Number of deaths : 51779727
+Number of females deaths : 25888696
+Number of males deaths : 25891031
+Number of females born : 62285520
+Number of males born : 62284645
+Average age : 1,22
+Average age at death : 1,38
+===============================================
+Total Population : 152456239
+Total Females : 76227923
+Total Males :   76228316
+===============================================
+
+Death by predation : 0.0
+
+-- Year 14 stats : --
+
+* Initial size at the beginning of the year : 152456239
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 187666819
+Number of deaths : 99080448
+Number of females deaths : 49540102
+Number of males deaths : 49540346
+Number of females born : 93833049
+Number of males born : 93833770
+Average age : 1,27
+Average age at death : 1,42
+===============================================
+Total Population : 241042610
+Total Females : 120520870
+Total Males :   120521740
+===============================================
+
+Death by predation : 0.0
+
+-- Year 15 stats : --
+
+* Initial size at the beginning of the year : 241042610
+Percentage of Females: 50%
+Percentage of Males: 50%
+Number of births : 274725557
+Number of deaths : 156592577
+Number of females deaths : 78296021
+Number of males deaths : 78296556
+Number of females born : 137358328
+Number of males born : 137367229
+Average age : 1,30
+Average age at death : 1,51
+===============================================
+Total Population : 359175590
+Total Females : 179583177
+Total Males :   179592413
+===============================================
+
+Death by predation : 0.0
+Average females per simulations :        1.79583177E8
+Average males per simulations :  1.79592413E8
+Average deaths per simulations :         1.56592577E8
+Average population size per simulations :        3.5917559E8
+Average births per simulations :         2.74725557E8
+Average % females per simulations. :     50.0%
+Average % males per simulations. :       50.0%

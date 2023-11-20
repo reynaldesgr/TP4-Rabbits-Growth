@@ -96,15 +96,23 @@ public class RSimulationStats
         System.out.println("Number of males deaths : "       + malesDead);
         System.out.println("Number of females born : "       + femalesBorn);
         System.out.println("Number of males born : "         + malesBorn);
-        System.out.printf("Average age : %.2f \n",             calculateAverageAge());
+        System.out.printf("Average age : %.2f \n",    calculateAverageAge());
         if (femalesDead != 0 || malesDead != 0)
         {
-            System.out.printf("Average age at death : %.2f \n", calculateWeightedAverage(ageAtDeath));
+            System.out.printf("Average age at death : %.2f \n",   calculateWeightedAverage(ageAtDeath));
         }
+        System.out.println("-------------------------------------------------");
+        System.out.printf("Age Coefficient of variation: %.2f\n", calculateAgeCoefficientOfVariation());
+        System.out.printf("Life expectancy: %.2f\n",              calculateLifeExpectancy());
+        System.out.printf("Females to males ratio: %.2f\n",       calculateFemalesToMalesRatio());
+        System.out.println("-------------------------------------------------");
+
+        displayAgeDistribution();
+
         System.out.println("===============================================");
-        System.out.println("Total Population : "                + getTotalPopulation());
-        System.out.println("Total Females :\t"                  + count(females));
-        System.out.println("Total Males :\t"                    + count(males));
+        System.out.println("Total Population : "                        + getTotalPopulation());
+        System.out.println("Total Females :\t"                          + count(females));
+        System.out.println("Total Males :\t"                            + count(males));
         System.out.println("===============================================");
         System.out.println();
     }
@@ -175,6 +183,28 @@ public class RSimulationStats
         return (double) sum / totalPopulation;
     }
 
+
+    public double calculateAgeCoefficientOfVariation() 
+    {
+        double averageAge    = calculateAverageAge();
+        long totalPopulation = getTotalPopulation();
+    
+        if (totalPopulation <= 1) 
+        {
+            return 0.0; // No variations if population has 1 or 0 individuals
+        }
+    
+        double sumSquaredDeviations = 0;
+    
+        for (int i = 0; i < females.length; i++) 
+        {
+            sumSquaredDeviations += Math.pow(i + 1 - averageAge, 2) * (females[i] + males[i]);
+        }
+    
+        return Math.sqrt(sumSquaredDeviations / totalPopulation) / averageAge;
+    }
+    
+
     /**
      * Calculates the population growth rate between two populations.
      *
@@ -192,6 +222,48 @@ public class RSimulationStats
 
         return ((double) currentPopulation - previousPopulation) / previousPopulation * 100.0;
     }
+
+
+    public double calculateFemalesToMalesRatio() 
+    {
+        long totalFemales = count(females);
+        long totalMales   = count(males);
+    
+        if (totalMales == 0) {
+            return totalFemales; 
+        }
+    
+        return (double) totalFemales / totalMales;
+    }
+
+    
+    public double calculateLifeExpectancy() 
+    {
+        long totalDeaths = getFemalesDead() + getMalesDead();
+        if (totalDeaths == 0) 
+        {
+            return 0.0;
+        }
+    
+        long totalAgeAtDeath = 0;
+        for (int i = 0; i < ageAtDeath.length; i++) 
+        {
+            totalAgeAtDeath += i * ageAtDeath[i];
+        }
+    
+        return (double) totalAgeAtDeath / totalDeaths;
+    }
+    
+
+    public void displayAgeDistribution() 
+    {
+        System.out.println("\nAge Distribution of Living Rabbits:");
+        for (int i = 0; i < females.length; i++) 
+        {
+            System.out.println("Age " + (i + 1) + ":\t " + (females[i] + males[i]));
+        }
+    }
+    
 
     /**
      * Counts the total number of rabbits in the given population array.
