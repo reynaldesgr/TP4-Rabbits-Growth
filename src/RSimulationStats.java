@@ -184,6 +184,15 @@ public class RSimulationStats
     }
 
 
+    /**
+     * Calculates the coefficient of variation for the age distribution of the rabbit population.
+     * The coefficient of variation measures the relative variability of ages in the rabbit population.
+     * It is computed as the ratio of the standard deviation to the average age.
+     * If the population has 1 or 0 individuals, the method returns 0.0.
+     *
+     * @return The coefficient of variation for the age distribution.
+     */
+
     public double calculateAgeCoefficientOfVariation() 
     {
         double averageAge    = calculateAverageAge();
@@ -206,7 +215,7 @@ public class RSimulationStats
     
 
     /**
-     * Calculates the population growth rate between two populations.
+     * Calculates the population growth rate between two rabbit populations.
      *
      * @param previousPopulation the population size in the previous year
      * @param currentPopulation  the population size in the current year
@@ -224,6 +233,13 @@ public class RSimulationStats
     }
 
 
+    /**
+     * Calculates the ratio of females to males in the rabbit population.
+     * If there are no males, the method returns the total number of females.
+     *
+     * @return The ratio of females to males in the population.
+     */
+
     public double calculateFemalesToMalesRatio() 
     {
         long totalFemales = count(females);
@@ -237,6 +253,13 @@ public class RSimulationStats
     }
 
     
+    /**
+     * Calculates the life expectancy of the rabbit population.
+     * If there are no deaths, the method returns 0.0.
+     *
+     * @return The life expectancy of the population.
+     */
+
     public double calculateLifeExpectancy() 
     {
         long totalDeaths = getFemalesDead() + getMalesDead();
@@ -254,6 +277,13 @@ public class RSimulationStats
         return (double) totalAgeAtDeath / totalDeaths;
     }
     
+
+                
+    /**
+     * Displays the age distribution of living rabbits.
+     * The age distribution is calculated based on the arrays representing the number
+     * of female and male rabbits at each age.
+     */
 
     public void displayAgeDistribution() 
     {
