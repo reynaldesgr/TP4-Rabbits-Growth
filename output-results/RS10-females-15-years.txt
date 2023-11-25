@@ -1,0 +1,629 @@
+Average females per simulations :         4.02208937E7
+Average males per simulations   :         4.02201253E7
+Average deaths per simulations  :         3.5969828E7
+Average population size per simulations : 8.0441019E7
+Average births per simulations :          6.10319651E7
+
+Average % females per simulations. :      50.0%
+Average % males per simulations.   :      50.0%
+
+------------ SIMULATION -------------
+
+Females dead : (1,1)
+Females born : (1,5)
+
+
+Females dead : (2,4)
+Females born : (2,21)
+
+
+Females dead : (3,15)
+Females born : (3,96)
+
+
+Females dead : (4,68)
+Females born : (4,470)
+
+
+Females dead : (5,330)
+Females born : (5,2389)
+
+
+Females dead : (6,1668)
+Females born : (6,11805)
+
+
+Females dead : (7,8258)
+Females born : (7,59610)
+
+
+Females dead : (8,41637)
+Females born : (8,296732)
+
+
+Females dead : (9,207447)
+Females born : (9,1482536)
+
+
+Females dead : (10,1036248)
+Females born : (10,2039363)
+
+
+Females dead : (11,1688232)
+Females born : (11,4672908)
+
+
+Females dead : (12,3628069)
+Females born : (12,9459710)
+
+
+Females dead : (13,7417624)
+Females born : (13,13034220)
+
+
+Females dead : (14,11063356)
+Females born : (14,21070146)
+
+
+Females dead : (15,17562648)
+Females born : (15,27814761)
+
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Females dead : (1,1)
+Females born : (1,4)
+
+
+Females dead : (2,3)
+Females born : (2,14)
+
+
+Females dead : (3,11)
+Females born : (3,78)
+
+
+Females dead : (4,54)
+Females born : (4,369)
+
+
+Females dead : (5,259)
+Females born : (5,1871)
+
+
+Females dead : (6,1307)
+Females born : (6,9305)
+
+
+Females dead : (7,6507)
+Females born : (7,46624)
+
+
+Females dead : (8,32583)
+Females born : (8,233215)
+
+
+Females dead : (9,162992)
+Females born : (9,1164919)
+
+
+Females dead : (10,814240)
+Females born : (10,1651731)
+
+
+Females dead : (11,1358578)
+Females born : (11,3936008)
+
+
+Females dead : (12,3033749)
+Females born : (12,7464181)
+
+
+Females dead : (13,5912734)
+Females born : (13,10779618)
+
+
+Females dead : (14,9072236)
+Females born : (14,16289475)
+
+
+Females dead : (15,13759232)
+Females born : (15,25718900)
+
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Females dead : (1,1)
+Females born : (1,4)
+
+
+Females dead : (2,3)
+Females born : (2,22)
+
+
+Females dead : (3,16)
+Females born : (3,108)
+
+
+Females dead : (4,76)
+Females born : (4,544)
+
+
+Females dead : (5,381)
+Females born : (5,2727)
+
+
+Females dead : (6,1905)
+Females born : (6,13616)
+
+
+Females dead : (7,9518)
+Females born : (7,68262)
+
+
+Females dead : (8,47702)
+Females born : (8,340652)
+
+
+Females dead : (9,238118)
+Females born : (9,1700251)
+
+
+Females dead : (10,1188495)
+Females born : (10,2430223)
+
+
+Females dead : (11,1995571)
+Females born : (11,5711390)
+
+
+Females dead : (12,4410622)
+Females born : (12,10583372)
+
+
+Females dead : (13,8421749)
+Females born : (13,15922663)
+
+
+Females dead : (14,13291546)
+Females born : (14,25482726)
+
+
+Females dead : (15,21209595)
+Females born : (15,34316831)
+
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Females dead : (1,1)
+Females born : (1,8)
+
+
+Females dead : (2,6)
+Females born : (2,34)
+
+
+Females dead : (3,25)
+Females born : (3,140)
+
+
+Females dead : (4,99)
+Females born : (4,691)
+
+
+Females dead : (5,484)
+Females born : (5,3455)
+
+
+Females dead : (6,2416)
+Females born : (6,17395)
+
+
+Females dead : (7,12152)
+Females born : (7,87105)
+
+
+Females dead : (8,60872)
+Females born : (8,435557)
+
+
+Females dead : (9,304415)
+Females born : (9,2177311)
+
+
+Females dead : (10,1521787)
+Females born : (10,2987739)
+
+
+Females dead : (11,2474596)
+Females born : (11,6991560)
+
+
+Females dead : (12,5410327)
+Females born : (12,10300063)
+
+
+Females dead : (13,8587169)
+Females born : (13,16041417)
+
+
+Females dead : (14,13425006)
+Females born : (14,24396219)
+
+
+Females dead : (15,20548800)
+Females born : (15,34974335)
+
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Females dead : (1,1)
+Females born : (1,4)
+
+
+Females dead : (2,3)
+Females born : (2,19)
+
+
+Females dead : (3,14)
+Females born : (3,88)
+
+
+Females dead : (4,62)
+Females born : (4,447)
+
+
+Females dead : (5,313)
+Females born : (5,2244)
+
+
+Females dead : (6,1568)
+Females born : (6,11123)
+
+
+Females dead : (7,7779)
+Females born : (7,56265)
+
+
+Females dead : (8,39296)
+Females born : (8,280910)
+
+
+Females dead : (9,196343)
+Females born : (9,1402285)
+
+
+Females dead : (10,980199)
+Females born : (10,2019306)
+
+
+Females dead : (11,1655581)
+Females born : (11,4634261)
+
+
+Females dead : (12,3591531)
+Females born : (12,9137720)
+
+
+Females dead : (13,7195596)
+Females born : (13,11932002)
+
+
+Females dead : (14,10269480)
+Females born : (14,18647594)
+
+
+Females dead : (15,15710070)
+Females born : (15,27167645)
+
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Females dead : (1,1)
+Females born : (1,4)
+
+
+Females dead : (2,3)
+Females born : (2,19)
+
+
+Females dead : (3,14)
+Females born : (3,83)
+
+
+Females dead : (4,58)
+Females born : (4,416)
+
+
+Females dead : (5,292)
+Females born : (5,2117)
+
+
+Females dead : (6,1479)
+Females born : (6,10525)
+
+
+Females dead : (7,7358)
+Females born : (7,53056)
+
+
+Females dead : (8,37063)
+Females born : (8,264990)
+
+
+Females dead : (9,185213)
+Females born : (9,1323121)
+
+
+Females dead : (10,924848)
+Females born : (10,1933257)
+
+
+Females dead : (11,1580279)
+Females born : (11,4317479)
+
+
+Females dead : (12,3359277)
+Females born : (12,8551695)
+
+
+Females dead : (13,6733446)
+Females born : (13,11528130)
+
+
+Females dead : (14,9845480)
+Females born : (14,18249789)
+
+
+Females dead : (15,15303285)
+Females born : (15,26371819)
+
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Females dead : (1,1)
+Females born : (1,6)
+
+
+Females dead : (2,4)
+Females born : (2,32)
+
+
+Females dead : (3,23)
+Females born : (3,132)
+
+
+Females dead : (4,94)
+Females born : (4,682)
+
+
+Females dead : (5,476)
+Females born : (5,3418)
+
+
+Females dead : (6,2389)
+Females born : (6,17096)
+
+
+Females dead : (7,11949)
+Females born : (7,85577)
+
+
+Females dead : (8,59807)
+Females born : (8,427690)
+
+
+Females dead : (9,298929)
+Females born : (9,2136168)
+
+
+Females dead : (10,1493124)
+Females born : (10,3011989)
+
+
+Females dead : (11,2480328)
+Females born : (11,6834481)
+
+
+Females dead : (12,5310237)
+Females born : (12,9230420)
+
+
+Females dead : (13,7856897)
+Females born : (13,14814029)
+
+
+Females dead : (14,12371747)
+Females born : (14,23926720)
+
+
+Females dead : (15,19874826)
+Females born : (15,34840072)
+
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Females dead : (1,1)
+Females born : (1,3)
+
+
+Females dead : (2,2)
+Females born : (2,11)
+
+
+Females dead : (3,9)
+Females born : (3,56)
+
+
+Females dead : (4,39)
+Females born : (4,250)
+
+
+Females dead : (5,177)
+Females born : (5,1287)
+
+
+Females dead : (6,898)
+Females born : (6,6293)
+
+
+Females dead : (7,4406)
+Females born : (7,31544)
+
+
+Females dead : (8,22046)
+Females born : (8,157904)
+
+
+Females dead : (9,110354)
+Females born : (9,789022)
+
+
+Females dead : (10,551483)
+Females born : (10,3942108)
+
+
+Females dead : (11,2755368)
+Females born : (11,5692310)
+
+
+Females dead : (12,4664275)
+Females born : (12,7494837)
+
+
+Females dead : (13,6503603)
+Females born : (13,12157819)
+
+
+Females dead : (14,10176152)
+Females born : (14,19409477)
+
+
+Females dead : (15,16164371)
+Females born : (15,29312873)
+
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Females dead : (1,1)
+Females born : (1,4)
+
+
+Females dead : (2,3)
+Females born : (2,20)
+
+
+Females dead : (3,14)
+Females born : (3,91)
+
+
+Females dead : (4,65)
+Females born : (4,457)
+
+
+Females dead : (5,321)
+Females born : (5,2341)
+
+
+Females dead : (6,1633)
+Females born : (6,11668)
+
+
+Females dead : (7,8156)
+Females born : (7,58955)
+
+
+Females dead : (8,41175)
+Females born : (8,293667)
+
+
+Females dead : (9,205294)
+Females born : (9,1468042)
+
+
+Females dead : (10,1026072)
+Females born : (10,2165472)
+
+
+Females dead : (11,1766644)
+Females born : (11,4741800)
+
+
+Females dead : (12,3700293)
+Females born : (12,9586145)
+
+
+Females dead : (13,7525097)
+Females born : (13,12557694)
+
+
+Females dead : (14,10791280)
+Females born : (14,20564880)
+
+
+Females dead : (15,17138497)
+Females born : (15,28136264)
+
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Females dead : (1,1)
+Females born : (1,6)
+
+
+Females dead : (2,4)
+Females born : (2,24)
+
+
+Females dead : (3,18)
+Females born : (3,115)
+
+
+Females dead : (4,81)
+Females born : (4,573)
+
+
+Females dead : (5,401)
+Females born : (5,2907)
+
+
+Females dead : (6,2030)
+Females born : (6,14688)
+
+
+Females dead : (7,10259)
+Females born : (7,73644)
+
+
+Females dead : (8,51459)
+Females born : (8,367778)
+
+
+Females dead : (9,257064)
+Females born : (9,1838096)
+
+
+Females dead : (10,1284726)
+Females born : (10,2519997)
+
+
+Females dead : (11,2087602)
+Females born : (11,5776679)
+
+
+Females dead : (12,4485251)
+Females born : (12,11554804)
+
+
+Females dead : (13,9079208)
+Females born : (13,16853931)
+
+
+Females dead : (14,14126508)
+Females born : (14,27136474)
+
+
+Females dead : (15,22576669)
+Females born : (15,36510805)
+
+-------------------------------------------------

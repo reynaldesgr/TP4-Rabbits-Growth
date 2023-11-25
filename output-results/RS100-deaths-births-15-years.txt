@@ -1,0 +1,4710 @@
+Average females per simulations :         3.715662386E7
+Average males per simulations   :         3.715649168E7
+Average deaths per simulations  :         3.209955164E7
+Average population size per simulations : 7.431311554E7
+Average births per simulations          : 5.699099694E7
+
+Average % females per simulations. :     50.0%
+Average % males per simulations.   :     50.0%
+
+
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,199)
+
+Deaths : (4,140)
+Births : (4,947)
+
+Deaths : (5,666)
+Births : (5,4936)
+
+Deaths : (6,3440)
+Births : (6,24311)
+
+Deaths : (7,17007)
+Births : (7,121221)
+
+Deaths : (8,84748)
+Births : (8,608361)
+
+Deaths : (9,425092)
+Births : (9,3041242)
+
+Deaths : (10,2125575)
+Births : (10,4090578)
+
+Deaths : (11,3402744)
+Births : (11,9884982)
+
+Deaths : (12,7615788)
+Births : (12,19729936)
+
+Deaths : (13,15487908)
+Births : (13,28354266)
+
+Deaths : (14,23840670)
+Births : (14,41946552)
+
+Deaths : (15,35599334)
+Births : (15,59782982)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,189)
+
+Deaths : (4,133)
+Births : (4,899)
+
+Deaths : (5,633)
+Births : (5,4562)
+
+Deaths : (6,3187)
+Births : (6,23054)
+
+Deaths : (7,16100)
+Births : (7,115233)
+
+Deaths : (8,80538)
+Births : (8,575658)
+
+Deaths : (9,402363)
+Births : (9,2870595)
+
+Deaths : (10,2006700)
+Births : (10,4153840)
+
+Deaths : (11,3402264)
+Births : (11,9320269)
+
+Deaths : (12,7248575)
+Births : (12,18133730)
+
+Deaths : (13,14321961)
+Births : (13,23847552)
+
+Deaths : (14,20503810)
+Births : (14,40222684)
+
+Deaths : (15,33310394)
+Births : (15,55721447)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,156)
+
+Deaths : (4,112)
+Births : (4,696)
+
+Deaths : (5,492)
+Births : (5,3293)
+
+Deaths : (6,2313)
+Births : (6,16546)
+
+Deaths : (7,11565)
+Births : (7,83318)
+
+Deaths : (8,58205)
+Births : (8,415899)
+
+Deaths : (9,290704)
+Births : (9,2075033)
+
+Deaths : (10,1450508)
+Births : (10,2838551)
+
+Deaths : (11,2352682)
+Births : (11,6618698)
+
+Deaths : (12,5125309)
+Births : (12,13147549)
+
+Deaths : (13,10338349)
+Births : (13,17076538)
+
+Deaths : (14,14711094)
+Births : (14,27404040)
+
+Deaths : (15,22954402)
+Births : (15,46127565)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,80)
+
+Deaths : (3,55)
+Births : (3,308)
+
+Deaths : (4,219)
+Births : (4,1652)
+
+Deaths : (5,1152)
+Births : (5,8234)
+
+Deaths : (6,5756)
+Births : (6,42010)
+
+Deaths : (7,29322)
+Births : (7,212001)
+
+Deaths : (8,148062)
+Births : (8,1058921)
+
+Deaths : (9,740116)
+Births : (9,5283844)
+
+Deaths : (10,3693511)
+Births : (10,7367643)
+
+Deaths : (11,6081555)
+Births : (11,16362868)
+
+Deaths : (12,12763685)
+Births : (12,22389285)
+
+Deaths : (13,19016714)
+Births : (13,36250473)
+
+Deaths : (14,30200643)
+Births : (14,51677233)
+
+Deaths : (15,44141799)
+Births : (15,79375811)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,127)
+
+Deaths : (4,92)
+Births : (4,567)
+
+Deaths : (5,401)
+Births : (5,2905)
+
+Deaths : (6,2030)
+Births : (6,14240)
+
+Deaths : (7,9967)
+Births : (7,71847)
+
+Deaths : (8,50189)
+Births : (8,360499)
+
+Deaths : (9,251890)
+Births : (9,1802610)
+
+Deaths : (10,1259849)
+Births : (10,9005350)
+
+Deaths : (11,6294376)
+Births : (11,12281412)
+
+Deaths : (12,10185705)
+Births : (12,16932055)
+
+Deaths : (13,14569604)
+Births : (13,26531666)
+
+Deaths : (14,22338797)
+Births : (14,41251950)
+
+Deaths : (15,34601638)
+Births : (15,56637772)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,143)
+
+Deaths : (4,100)
+Births : (4,613)
+
+Deaths : (5,435)
+Births : (5,3096)
+
+Deaths : (6,2163)
+Births : (6,15579)
+
+Deaths : (7,10887)
+Births : (7,76699)
+
+Deaths : (8,53663)
+Births : (8,384466)
+
+Deaths : (9,268684)
+Births : (9,1917617)
+
+Deaths : (10,1340481)
+Births : (10,9578299)
+
+Deaths : (11,6695012)
+Births : (11,14099800)
+
+Deaths : (12,11507863)
+Births : (12,18798074)
+
+Deaths : (13,16245189)
+Births : (13,31417944)
+
+Deaths : (14,26100941)
+Births : (14,48718428)
+
+Deaths : (15,40769649)
+Births : (15,66971111)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,26)
+Births : (3,168)
+
+Deaths : (4,118)
+Births : (4,785)
+
+Deaths : (5,552)
+Births : (5,4076)
+
+Deaths : (6,2842)
+Births : (6,20034)
+
+Deaths : (7,14017)
+Births : (7,100997)
+
+Deaths : (8,70557)
+Births : (8,507185)
+
+Deaths : (9,354361)
+Births : (9,2529401)
+
+Deaths : (10,1768126)
+Births : (10,3759061)
+
+Deaths : (11,3062165)
+Births : (11,8725328)
+
+Deaths : (12,6742878)
+Births : (12,16190267)
+
+Deaths : (13,12881951)
+Births : (13,23498649)
+
+Deaths : (14,19774183)
+Births : (14,38659756)
+
+Deaths : (15,32040017)
+Births : (15,63380665)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,105)
+
+Deaths : (4,75)
+Births : (4,499)
+
+Deaths : (5,351)
+Births : (5,2417)
+
+Deaths : (6,1694)
+Births : (6,12077)
+
+Deaths : (7,8445)
+Births : (7,59749)
+
+Deaths : (8,41792)
+Births : (8,296961)
+
+Deaths : (9,207651)
+Births : (9,1478564)
+
+Deaths : (10,1033739)
+Births : (10,7397006)
+
+Deaths : (11,5169820)
+Births : (11,10578904)
+
+Deaths : (12,8685522)
+Births : (12,13659901)
+
+Deaths : (13,11917858)
+Births : (13,23650529)
+
+Deaths : (14,19539056)
+Births : (14,37113241)
+
+Deaths : (15,30937047)
+Births : (15,55357937)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,29)
+Births : (3,192)
+
+Deaths : (4,135)
+Births : (4,896)
+
+Deaths : (5,630)
+Births : (5,4461)
+
+Deaths : (6,3119)
+Births : (6,22227)
+
+Deaths : (7,15541)
+Births : (7,111773)
+
+Deaths : (8,78093)
+Births : (8,555593)
+
+Deaths : (9,388465)
+Births : (9,2776345)
+
+Deaths : (10,1940574)
+Births : (10,3786011)
+
+Deaths : (11,3140033)
+Births : (11,8847537)
+
+Deaths : (12,6849529)
+Births : (12,17319430)
+
+Deaths : (13,13653071)
+Births : (13,23001186)
+
+Deaths : (14,19719879)
+Births : (14,37050542)
+
+Deaths : (15,30975344)
+Births : (15,54092676)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,26)
+Births : (3,168)
+
+Deaths : (4,118)
+Births : (4,741)
+
+Deaths : (5,524)
+Births : (5,3718)
+
+Deaths : (6,2599)
+Births : (6,18422)
+
+Deaths : (7,12885)
+Births : (7,93287)
+
+Deaths : (8,65148)
+Births : (8,465472)
+
+Deaths : (9,325356)
+Births : (9,2330316)
+
+Deaths : (10,1628569)
+Births : (10,3075961)
+
+Deaths : (11,2569314)
+Births : (11,7051034)
+
+Deaths : (12,5482112)
+Births : (12,13678540)
+
+Deaths : (13,10808204)
+Births : (13,18429671)
+
+Deaths : (14,15754211)
+Births : (14,27847741)
+
+Deaths : (15,23607440)
+Births : (15,43887729)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,49)
+
+Deaths : (3,35)
+Births : (3,249)
+
+Deaths : (4,173)
+Births : (4,1263)
+
+Deaths : (5,884)
+Births : (5,6348)
+
+Deaths : (6,4435)
+Births : (6,31635)
+
+Deaths : (7,22116)
+Births : (7,158231)
+
+Deaths : (8,110590)
+Births : (8,789667)
+
+Deaths : (9,551987)
+Births : (9,3940359)
+
+Deaths : (10,2754407)
+Births : (10,5912922)
+
+Deaths : (11,4807338)
+Births : (11,12597112)
+
+Deaths : (12,9870152)
+Births : (12,18600675)
+
+Deaths : (13,15542298)
+Births : (13,26962568)
+
+Deaths : (14,22952037)
+Births : (14,42023054)
+
+Deaths : (15,35332739)
+Births : (15,62676074)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,197)
+
+Deaths : (4,137)
+Births : (4,1007)
+
+Deaths : (5,703)
+Births : (5,5196)
+
+Deaths : (6,3624)
+Births : (6,25815)
+
+Deaths : (7,18047)
+Births : (7,127862)
+
+Deaths : (8,89430)
+Births : (8,636608)
+
+Deaths : (9,445091)
+Births : (9,3179071)
+
+Deaths : (10,2222162)
+Births : (10,4164546)
+
+Deaths : (11,3484625)
+Births : (11,10312916)
+
+Deaths : (12,7922580)
+Births : (12,20149755)
+
+Deaths : (13,15868074)
+Births : (13,27584528)
+
+Deaths : (14,23472929)
+Births : (14,43987206)
+
+Deaths : (15,36797009)
+Births : (15,62174524)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,29)
+Births : (3,192)
+
+Deaths : (4,135)
+Births : (4,964)
+
+Deaths : (5,675)
+Births : (5,4824)
+
+Deaths : (6,3372)
+Births : (6,23866)
+
+Deaths : (7,16693)
+Births : (7,119820)
+
+Deaths : (8,83726)
+Births : (8,599466)
+
+Deaths : (9,418954)
+Births : (9,2991093)
+
+Deaths : (10,2090828)
+Births : (10,4073819)
+
+Deaths : (11,3379694)
+Births : (11,9291789)
+
+Deaths : (12,7222147)
+Births : (12,18126199)
+
+Deaths : (13,14307739)
+Births : (13,24288125)
+
+Deaths : (14,20784789)
+Births : (14,40693077)
+
+Deaths : (15,33714995)
+Births : (15,56088537)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,179)
+
+Deaths : (4,124)
+Births : (4,881)
+
+Deaths : (5,618)
+Births : (5,4489)
+
+Deaths : (6,3134)
+Births : (6,22412)
+
+Deaths : (7,15664)
+Births : (7,113472)
+
+Deaths : (8,79241)
+Births : (8,568453)
+
+Deaths : (9,397227)
+Births : (9,2836915)
+
+Deaths : (10,1983010)
+Births : (10,3751211)
+
+Deaths : (11,3132264)
+Births : (11,8930400)
+
+Deaths : (12,6900667)
+Births : (12,17104002)
+
+Deaths : (13,13530896)
+Births : (13,25300570)
+
+Deaths : (14,21171510)
+Births : (14,40950207)
+
+Deaths : (15,34018433)
+Births : (15,59661744)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,14)
+
+Deaths : (3,12)
+Births : (3,66)
+
+Deaths : (4,48)
+Births : (4,318)
+
+Deaths : (5,222)
+Births : (5,1586)
+
+Deaths : (6,1110)
+Births : (6,8022)
+
+Deaths : (7,5604)
+Births : (7,40324)
+
+Deaths : (8,28172)
+Births : (8,201315)
+
+Deaths : (9,140716)
+Births : (9,1001071)
+
+Deaths : (10,699943)
+Births : (10,4996067)
+
+Deaths : (11,3492395)
+Births : (11,7152392)
+
+Deaths : (12,5871258)
+Births : (12,15707976)
+
+Deaths : (13,12264441)
+Births : (13,20874680)
+
+Deaths : (14,17857682)
+Births : (14,33941585)
+
+Deaths : (15,28295183)
+Births : (15,56684012)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,49)
+
+Deaths : (3,35)
+Births : (3,225)
+
+Deaths : (4,159)
+Births : (4,1007)
+
+Deaths : (5,712)
+Births : (5,5179)
+
+Deaths : (6,3615)
+Births : (6,26145)
+
+Deaths : (7,18260)
+Births : (7,130772)
+
+Deaths : (8,91392)
+Births : (8,651101)
+
+Deaths : (9,455200)
+Births : (9,3255563)
+
+Deaths : (10,2275421)
+Births : (10,4541066)
+
+Deaths : (11,3747999)
+Births : (11,10719915)
+
+Deaths : (12,8279302)
+Births : (12,21256179)
+
+Deaths : (13,16712050)
+Births : (13,27633728)
+
+Deaths : (14,23800043)
+Births : (14,42019203)
+
+Deaths : (15,35631009)
+Births : (15,56608347)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,29)
+Births : (3,166)
+
+Deaths : (4,118)
+Births : (4,738)
+
+Deaths : (5,522)
+Births : (5,3792)
+
+Deaths : (6,2647)
+Births : (6,18868)
+
+Deaths : (7,13190)
+Births : (7,95156)
+
+Deaths : (8,66469)
+Births : (8,475910)
+
+Deaths : (9,332604)
+Births : (9,2379953)
+
+Deaths : (10,1663372)
+Births : (10,3452928)
+
+Deaths : (11,2826520)
+Births : (11,7513944)
+
+Deaths : (12,5873020)
+Births : (12,15314518)
+
+Deaths : (13,12008371)
+Births : (13,20180750)
+
+Deaths : (14,17312301)
+Births : (14,32926039)
+
+Deaths : (15,27452338)
+Births : (15,53712648)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,156)
+
+Deaths : (4,109)
+Births : (4,708)
+
+Deaths : (5,499)
+Births : (5,3610)
+
+Deaths : (6,2521)
+Births : (6,18160)
+
+Deaths : (7,12687)
+Births : (7,91812)
+
+Deaths : (8,64119)
+Births : (8,457118)
+
+Deaths : (9,319566)
+Births : (9,2286170)
+
+Deaths : (10,1597848)
+Births : (10,3031682)
+
+Deaths : (11,2529778)
+Births : (11,7457008)
+
+Deaths : (12,5732166)
+Births : (12,13573063)
+
+Deaths : (13,10827189)
+Births : (13,18445168)
+
+Deaths : (14,15771082)
+Births : (14,30317353)
+
+Deaths : (15,25218685)
+Births : (15,46179308)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,87)
+
+Deaths : (4,63)
+Births : (4,386)
+
+Deaths : (5,274)
+Births : (5,2231)
+
+Deaths : (6,1547)
+Births : (6,11299)
+
+Deaths : (7,7885)
+Births : (7,56781)
+
+Deaths : (8,39669)
+Births : (8,283745)
+
+Deaths : (9,198316)
+Births : (9,1415682)
+
+Deaths : (10,989599)
+Births : (10,7069876)
+
+Deaths : (11,4941740)
+Births : (11,10544238)
+
+Deaths : (12,8583170)
+Births : (12,15306280)
+
+Deaths : (13,12952226)
+Births : (13,24812565)
+
+Deaths : (14,20656624)
+Births : (14,41603005)
+
+Deaths : (15,34247661)
+Births : (15,67082495)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,14)
+
+Deaths : (3,12)
+Births : (3,45)
+
+Deaths : (4,34)
+Births : (4,270)
+
+Deaths : (5,187)
+Births : (5,1437)
+
+Deaths : (6,1000)
+Births : (6,7523)
+
+Deaths : (7,5241)
+Births : (7,38148)
+
+Deaths : (8,26633)
+Births : (8,189950)
+
+Deaths : (9,132789)
+Births : (9,949818)
+
+Deaths : (10,663849)
+Births : (10,4742587)
+
+Deaths : (11,3315007)
+Births : (11,6490187)
+
+Deaths : (12,5378746)
+Births : (12,15605226)
+
+Deaths : (13,12025309)
+Births : (13,23216960)
+
+Deaths : (14,19296644)
+Births : (14,37516131)
+
+Deaths : (15,31123139)
+Births : (15,55626438)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,49)
+
+Deaths : (3,35)
+Births : (3,195)
+
+Deaths : (4,139)
+Births : (4,941)
+
+Deaths : (5,662)
+Births : (5,4791)
+
+Deaths : (6,3346)
+Births : (6,23434)
+
+Deaths : (7,16403)
+Births : (7,117351)
+
+Deaths : (8,82020)
+Births : (8,585735)
+
+Deaths : (9,409432)
+Births : (9,2930095)
+
+Deaths : (10,2047847)
+Births : (10,4267513)
+
+Deaths : (11,3490553)
+Births : (11,9976108)
+
+Deaths : (12,7705763)
+Births : (12,19650042)
+
+Deaths : (13,15467546)
+Births : (13,26614221)
+
+Deaths : (14,22702894)
+Births : (14,42057572)
+
+Deaths : (15,35272421)
+Births : (15,61117915)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,189)
+
+Deaths : (4,133)
+Births : (4,939)
+
+Deaths : (5,658)
+Births : (5,4987)
+
+Deaths : (6,3474)
+Births : (6,25132)
+
+Deaths : (7,17549)
+Births : (7,126284)
+
+Deaths : (8,88229)
+Births : (8,629133)
+
+Deaths : (9,439813)
+Births : (9,3147378)
+
+Deaths : (10,2199717)
+Births : (10,4555823)
+
+Deaths : (11,3731100)
+Births : (11,9955045)
+
+Deaths : (12,7776234)
+Births : (12,20421925)
+
+Deaths : (13,15993788)
+Births : (13,28209758)
+
+Deaths : (14,23923435)
+Births : (14,44305499)
+
+Deaths : (15,37160053)
+Births : (15,61862836)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,123)
+
+Deaths : (4,88)
+Births : (4,549)
+
+Deaths : (5,388)
+Births : (5,2811)
+
+Deaths : (6,1963)
+Births : (6,13897)
+
+Deaths : (7,9722)
+Births : (7,69620)
+
+Deaths : (8,48656)
+Births : (8,347360)
+
+Deaths : (9,242812)
+Births : (9,1737010)
+
+Deaths : (10,1214033)
+Births : (10,8676612)
+
+Deaths : (11,6064661)
+Births : (11,12137665)
+
+Deaths : (12,10011878)
+Births : (12,17858623)
+
+Deaths : (13,15111078)
+Births : (13,30192301)
+
+Deaths : (14,24907950)
+Births : (14,47164033)
+
+Deaths : (15,39344818)
+Births : (15,68351911)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,163)
+
+Deaths : (4,116)
+Births : (4,795)
+
+Deaths : (5,559)
+Births : (5,3891)
+
+Deaths : (6,2724)
+Births : (6,19230)
+
+Deaths : (7,13453)
+Births : (7,96412)
+
+Deaths : (8,67378)
+Births : (8,483029)
+
+Deaths : (9,337549)
+Births : (9,2416741)
+
+Deaths : (10,1689012)
+Births : (10,3329497)
+
+Deaths : (11,2755264)
+Births : (11,7639655)
+
+Deaths : (12,5929786)
+Births : (12,14568292)
+
+Deaths : (13,11543172)
+Births : (13,19481190)
+
+Deaths : (14,16694641)
+Births : (14,30679888)
+
+Deaths : (15,25776682)
+Births : (15,47748237)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,143)
+
+Deaths : (4,100)
+Births : (4,629)
+
+Deaths : (5,444)
+Births : (5,3187)
+
+Deaths : (6,2227)
+Births : (6,15587)
+
+Deaths : (7,10913)
+Births : (7,77814)
+
+Deaths : (8,54400)
+Births : (8,390836)
+
+Deaths : (9,273079)
+Births : (9,1950439)
+
+Deaths : (10,1363355)
+Births : (10,9748079)
+
+Deaths : (11,6813374)
+Births : (11,12816530)
+
+Deaths : (12,10715159)
+Births : (12,19416213)
+
+Deaths : (13,16369513)
+Births : (13,29993559)
+
+Deaths : (14,25218492)
+Births : (14,51132787)
+
+Deaths : (15,42029542)
+Births : (15,72033613)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,113)
+
+Deaths : (4,81)
+Births : (4,416)
+
+Deaths : (5,299)
+Births : (5,2155)
+
+Deaths : (6,1507)
+Births : (6,10703)
+
+Deaths : (7,7484)
+Births : (7,53905)
+
+Deaths : (8,37658)
+Births : (8,270468)
+
+Deaths : (9,188984)
+Births : (9,1347724)
+
+Deaths : (10,942158)
+Births : (10,6730346)
+
+Deaths : (11,4704445)
+Births : (11,8977851)
+
+Deaths : (12,7481975)
+Births : (12,12794008)
+
+Deaths : (13,10933876)
+Births : (13,21595479)
+
+Deaths : (14,17859326)
+Births : (14,32442096)
+
+Deaths : (15,27315172)
+Births : (15,49072641)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,59)
+
+Deaths : (3,42)
+Births : (3,281)
+
+Deaths : (4,197)
+Births : (4,1426)
+
+Deaths : (5,995)
+Births : (5,6878)
+
+Deaths : (6,4822)
+Births : (6,34273)
+
+Deaths : (7,23966)
+Births : (7,172945)
+
+Deaths : (8,120801)
+Births : (8,864936)
+
+Deaths : (9,604485)
+Births : (9,4330920)
+
+Deaths : (10,3026645)
+Births : (10,5776518)
+
+Deaths : (11,4813947)
+Births : (11,13439798)
+
+Deaths : (12,10420162)
+Births : (12,18222210)
+
+Deaths : (13,15488542)
+Births : (13,28979599)
+
+Deaths : (14,24242958)
+Births : (14,48043602)
+
+Deaths : (15,39699093)
+Births : (15,67569714)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,194)
+
+Deaths : (4,135)
+Births : (4,891)
+
+Deaths : (5,628)
+Births : (5,4570)
+
+Deaths : (6,3189)
+Births : (6,22767)
+
+Deaths : (7,15916)
+Births : (7,114794)
+
+Deaths : (8,80188)
+Births : (8,572992)
+
+Deaths : (9,400509)
+Births : (9,2865466)
+
+Deaths : (10,2002716)
+Births : (10,4153480)
+
+Deaths : (11,3400634)
+Births : (11,9425182)
+
+Deaths : (12,7316200)
+Births : (12,18577031)
+
+Deaths : (13,14633788)
+Births : (13,25526171)
+
+Deaths : (14,21704065)
+Births : (14,39355077)
+
+Deaths : (15,33166528)
+Births : (15,57971870)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,205)
+
+Deaths : (4,144)
+Births : (4,1091)
+
+Deaths : (5,761)
+Births : (5,5411)
+
+Deaths : (6,3783)
+Births : (6,26441)
+
+Deaths : (7,18512)
+Births : (7,133174)
+
+Deaths : (8,93042)
+Births : (8,664131)
+
+Deaths : (9,464246)
+Births : (9,3324955)
+
+Deaths : (10,2323690)
+Births : (10,4962042)
+
+Deaths : (11,4038532)
+Births : (11,11071188)
+
+Deaths : (12,8609304)
+Births : (12,22633942)
+
+Deaths : (13,17723055)
+Births : (13,30698250)
+
+Deaths : (14,26145591)
+Births : (14,46834581)
+
+Deaths : (15,39580487)
+Births : (15,69997908)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,17)
+
+Deaths : (3,14)
+Births : (3,123)
+
+Deaths : (4,85)
+Births : (4,598)
+
+Deaths : (5,419)
+Births : (5,3081)
+
+Deaths : (6,2150)
+Births : (6,15218)
+
+Deaths : (7,10646)
+Births : (7,76181)
+
+Deaths : (8,53242)
+Births : (8,380918)
+
+Deaths : (9,266231)
+Births : (9,1901103)
+
+Deaths : (10,1328888)
+Births : (10,9511022)
+
+Deaths : (11,6647226)
+Births : (11,13203207)
+
+Deaths : (12,10908353)
+Births : (12,19602606)
+
+Deaths : (13,16558318)
+Births : (13,29571137)
+
+Deaths : (14,25010169)
+Births : (14,45965811)
+
+Deaths : (15,38598901)
+Births : (15,66502310)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,17)
+
+Deaths : (3,14)
+Births : (3,77)
+
+Deaths : (4,55)
+Births : (4,383)
+
+Deaths : (5,269)
+Births : (5,1947)
+
+Deaths : (6,1359)
+Births : (6,9757)
+
+Deaths : (7,6819)
+Births : (7,49049)
+
+Deaths : (8,34270)
+Births : (8,244724)
+
+Deaths : (9,171063)
+Births : (9,1222266)
+
+Deaths : (10,854340)
+Births : (10,6105934)
+
+Deaths : (11,4267844)
+Births : (11,8533940)
+
+Deaths : (12,7040639)
+Births : (12,11047640)
+
+Deaths : (13,9644357)
+Births : (13,19682316)
+
+Deaths : (14,16164864)
+Births : (14,31370007)
+
+Deaths : (15,26027385)
+Births : (15,49746972)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,163)
+
+Deaths : (4,117)
+Births : (4,820)
+
+Deaths : (5,574)
+Births : (5,4140)
+
+Deaths : (6,2891)
+Births : (6,20510)
+
+Deaths : (7,14345)
+Births : (7,103941)
+
+Deaths : (8,72585)
+Births : (8,519162)
+
+Deaths : (9,362856)
+Births : (9,2594037)
+
+Deaths : (10,1813111)
+Births : (10,3749596)
+
+Deaths : (11,3071759)
+Births : (11,8460242)
+
+Deaths : (12,6573915)
+Births : (12,16386310)
+
+Deaths : (13,12950202)
+Births : (13,21663450)
+
+Deaths : (14,18604970)
+Births : (14,33689646)
+
+Deaths : (15,28400368)
+Births : (15,47205066)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,171)
+
+Deaths : (4,120)
+Births : (4,888)
+
+Deaths : (5,620)
+Births : (5,4464)
+
+Deaths : (6,3120)
+Births : (6,21690)
+
+Deaths : (7,15190)
+Births : (7,108776)
+
+Deaths : (8,76021)
+Births : (8,545058)
+
+Deaths : (9,380894)
+Births : (9,2724910)
+
+Deaths : (10,1904490)
+Births : (10,4004238)
+
+Deaths : (11,3269253)
+Births : (11,8965719)
+
+Deaths : (12,6971586)
+Births : (12,17398393)
+
+Deaths : (13,13747152)
+Births : (13,24757448)
+
+Deaths : (14,20894553)
+Births : (14,37595150)
+
+Deaths : (15,31739564)
+Births : (15,56190935)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,123)
+
+Deaths : (4,88)
+Births : (4,504)
+
+Deaths : (5,358)
+Births : (5,2582)
+
+Deaths : (6,1804)
+Births : (6,12621)
+
+Deaths : (7,8838)
+Births : (7,63701)
+
+Deaths : (8,44496)
+Births : (8,318938)
+
+Deaths : (9,222885)
+Births : (9,1592731)
+
+Deaths : (10,1113278)
+Births : (10,7957943)
+
+Deaths : (11,5562267)
+Births : (11,11846950)
+
+Deaths : (12,9647093)
+Births : (12,16519830)
+
+Deaths : (13,14113286)
+Births : (13,26770469)
+
+Deaths : (14,22335026)
+Births : (14,44674397)
+
+Deaths : (15,36828478)
+Births : (15,62472236)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,123)
+
+Deaths : (4,88)
+Births : (4,611)
+
+Deaths : (5,428)
+Births : (5,3250)
+
+Deaths : (6,2263)
+Births : (6,15754)
+
+Deaths : (7,11033)
+Births : (7,79497)
+
+Deaths : (8,55534)
+Births : (8,397157)
+
+Deaths : (9,277589)
+Births : (9,1979023)
+
+Deaths : (10,1383511)
+Births : (10,9879233)
+
+Deaths : (11,6905678)
+Births : (11,14430860)
+
+Deaths : (12,11796774)
+Births : (12,19452027)
+
+Deaths : (13,16771335)
+Births : (13,31018697)
+
+Deaths : (14,26025376)
+Births : (14,48471720)
+
+Deaths : (15,40581813)
+Births : (15,65804866)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,183)
+
+Deaths : (4,129)
+Births : (4,931)
+
+Deaths : (5,652)
+Births : (5,4547)
+
+Deaths : (6,3183)
+Births : (6,22571)
+
+Deaths : (7,15785)
+Births : (7,112822)
+
+Deaths : (8,78861)
+Births : (8,563376)
+
+Deaths : (9,393793)
+Births : (9,2814162)
+
+Deaths : (10,1967020)
+Births : (10,3887336)
+
+Deaths : (11,3215148)
+Births : (11,9352549)
+
+Deaths : (12,7204073)
+Births : (12,17030870)
+
+Deaths : (13,13589571)
+Births : (13,25438800)
+
+Deaths : (14,21281977)
+Births : (14,38885590)
+
+Deaths : (15,32714542)
+Births : (15,53755612)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,156)
+
+Deaths : (4,109)
+Births : (4,658)
+
+Deaths : (5,465)
+Births : (5,3153)
+
+Deaths : (6,2214)
+Births : (6,15916)
+
+Deaths : (7,11121)
+Births : (7,80589)
+
+Deaths : (8,56276)
+Births : (8,402414)
+
+Deaths : (9,281264)
+Births : (9,2004992)
+
+Deaths : (10,1401678)
+Births : (10,2671109)
+
+Deaths : (11,2226755)
+Births : (11,6512319)
+
+Deaths : (12,5012095)
+Births : (12,12122156)
+
+Deaths : (13,9632264)
+Births : (13,18251122)
+
+Deaths : (14,15227686)
+Births : (14,28996117)
+
+Deaths : (15,24170567)
+Births : (15,48421547)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,49)
+
+Deaths : (3,34)
+Births : (3,203)
+
+Deaths : (4,145)
+Births : (4,1068)
+
+Deaths : (5,745)
+Births : (5,5630)
+
+Deaths : (6,3922)
+Births : (6,28114)
+
+Deaths : (7,19647)
+Births : (7,142067)
+
+Deaths : (8,99220)
+Births : (8,709224)
+
+Deaths : (9,495719)
+Births : (9,3548073)
+
+Deaths : (10,2479730)
+Births : (10,5028167)
+
+Deaths : (11,4136120)
+Births : (11,11471368)
+
+Deaths : (12,8903544)
+Births : (12,22050132)
+
+Deaths : (13,17446411)
+Births : (13,32925206)
+
+Deaths : (14,27495526)
+Births : (14,51185684)
+
+Deaths : (15,42881319)
+Births : (15,71921748)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,182)
+
+Deaths : (4,127)
+Births : (4,877)
+
+Deaths : (5,616)
+Births : (5,4292)
+
+Deaths : (6,3006)
+Births : (6,21032)
+
+Deaths : (7,14723)
+Births : (7,106126)
+
+Deaths : (8,74137)
+Births : (8,529379)
+
+Deaths : (9,370041)
+Births : (9,2644895)
+
+Deaths : (10,1848683)
+Births : (10,3689593)
+
+Deaths : (11,3045203)
+Births : (11,8247078)
+
+Deaths : (12,6426061)
+Births : (12,15823909)
+
+Deaths : (13,12532858)
+Births : (13,21072975)
+
+Deaths : (14,18074916)
+Births : (14,32971122)
+
+Deaths : (15,27748118)
+Births : (15,54602904)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,144)
+
+Deaths : (4,103)
+Births : (4,685)
+
+Deaths : (5,483)
+Births : (5,3577)
+
+Deaths : (6,2493)
+Births : (6,17888)
+
+Deaths : (7,12500)
+Births : (7,89073)
+
+Deaths : (8,62274)
+Births : (8,447696)
+
+Deaths : (9,312795)
+Births : (9,2233973)
+
+Deaths : (10,1561550)
+Births : (10,3140137)
+
+Deaths : (11,2587572)
+Births : (11,7342518)
+
+Deaths : (12,5677985)
+Births : (12,13928209)
+
+Deaths : (13,11039103)
+Births : (13,20576236)
+
+Deaths : (14,17230625)
+Births : (14,31776691)
+
+Deaths : (15,26677596)
+Births : (15,51150419)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,17)
+
+Deaths : (3,14)
+Births : (3,63)
+
+Deaths : (4,46)
+Births : (4,318)
+
+Deaths : (5,223)
+Births : (5,1517)
+
+Deaths : (6,1065)
+Births : (6,7711)
+
+Deaths : (7,5385)
+Births : (7,38982)
+
+Deaths : (8,27223)
+Births : (8,195728)
+
+Deaths : (9,136752)
+Births : (9,978532)
+
+Deaths : (10,683903)
+Births : (10,4890665)
+
+Deaths : (11,3418275)
+Births : (11,6942285)
+
+Deaths : (12,5708750)
+Births : (12,15961438)
+
+Deaths : (13,12372328)
+Births : (13,22775699)
+
+Deaths : (14,19131183)
+Births : (14,37077164)
+
+Deaths : (15,30779393)
+Births : (15,56145718)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,123)
+
+Deaths : (4,88)
+Births : (4,574)
+
+Deaths : (5,404)
+Births : (5,2979)
+
+Deaths : (6,2079)
+Births : (6,14959)
+
+Deaths : (7,10451)
+Births : (7,74232)
+
+Deaths : (8,51910)
+Births : (8,370996)
+
+Deaths : (9,259315)
+Births : (9,1855820)
+
+Deaths : (10,1297034)
+Births : (10,9277883)
+
+Deaths : (11,6484535)
+Births : (11,13809047)
+
+Deaths : (12,11245215)
+Births : (12,19049494)
+
+Deaths : (13,16316734)
+Births : (13,30397914)
+
+Deaths : (14,25463172)
+Births : (14,50485027)
+
+Deaths : (15,41695738)
+Births : (15,69981153)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,171)
+
+Deaths : (4,120)
+Births : (4,858)
+
+Deaths : (5,601)
+Births : (5,4187)
+
+Deaths : (6,2932)
+Births : (6,20595)
+
+Deaths : (7,14414)
+Births : (7,103374)
+
+Deaths : (8,72239)
+Births : (8,514194)
+
+Deaths : (9,359507)
+Births : (9,2570249)
+
+Deaths : (10,1796476)
+Births : (10,3624968)
+
+Deaths : (11,2984929)
+Births : (11,8504451)
+
+Deaths : (12,6572262)
+Births : (12,17100709)
+
+Deaths : (13,13414002)
+Births : (13,23980091)
+
+Deaths : (14,20273198)
+Births : (14,35212046)
+
+Deaths : (15,29974233)
+Births : (15,50134416)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,49)
+
+Deaths : (3,35)
+Births : (3,240)
+
+Deaths : (4,168)
+Births : (4,1116)
+
+Deaths : (5,784)
+Births : (5,5490)
+
+Deaths : (6,3844)
+Births : (6,27834)
+
+Deaths : (7,19438)
+Births : (7,140210)
+
+Deaths : (8,97941)
+Births : (8,700319)
+
+Deaths : (9,489484)
+Births : (9,3495246)
+
+Deaths : (10,2443212)
+Births : (10,4624133)
+
+Deaths : (11,3860715)
+Births : (11,10749133)
+
+Deaths : (12,8337709)
+Births : (12,21536504)
+
+Deaths : (13,16914539)
+Births : (13,31304165)
+
+Deaths : (14,26255880)
+Births : (14,50554408)
+
+Deaths : (15,42038537)
+Births : (15,66454607)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,123)
+
+Deaths : (4,88)
+Births : (4,659)
+
+Deaths : (5,459)
+Births : (5,3256)
+
+Deaths : (6,2277)
+Births : (6,16020)
+
+Deaths : (7,11211)
+Births : (7,80039)
+
+Deaths : (8,55951)
+Births : (8,400602)
+
+Deaths : (9,279972)
+Births : (9,2001125)
+
+Deaths : (10,1398712)
+Births : (10,2640320)
+
+Deaths : (11,2205704)
+Births : (11,6127317)
+
+Deaths : (12,4754479)
+Births : (12,11423029)
+
+Deaths : (13,9087671)
+Births : (13,15364822)
+
+Deaths : (14,13160995)
+Births : (14,24237025)
+
+Deaths : (15,20353925)
+Births : (15,36913027)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,127)
+
+Deaths : (4,91)
+Births : (4,613)
+
+Deaths : (5,433)
+Births : (5,2975)
+
+Deaths : (6,2083)
+Births : (6,14749)
+
+Deaths : (7,10318)
+Births : (7,74806)
+
+Deaths : (8,52235)
+Births : (8,375358)
+
+Deaths : (9,262263)
+Births : (9,1875876)
+
+Deaths : (10,1311103)
+Births : (10,9357289)
+
+Deaths : (11,6541077)
+Births : (11,12761153)
+
+Deaths : (12,10583870)
+Births : (12,17376291)
+
+Deaths : (13,14997664)
+Births : (13,27819338)
+
+Deaths : (14,23325355)
+Births : (14,47079008)
+
+Deaths : (15,38733327)
+Births : (15,67399594)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,96)
+
+Deaths : (4,69)
+Births : (4,576)
+
+Deaths : (5,400)
+Births : (5,2861)
+
+Deaths : (6,2001)
+Births : (6,13691)
+
+Deaths : (7,9600)
+Births : (7,67981)
+
+Deaths : (8,47548)
+Births : (8,340309)
+
+Deaths : (9,237841)
+Births : (9,1701682)
+
+Deaths : (10,1189328)
+Births : (10,8506678)
+
+Deaths : (11,5945562)
+Births : (11,11845778)
+
+Deaths : (12,9780471)
+Births : (12,16244510)
+
+Deaths : (13,13980938)
+Births : (13,27348349)
+
+Deaths : (14,22663951)
+Births : (14,40910529)
+
+Deaths : (15,34495215)
+Births : (15,61443301)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,17)
+
+Deaths : (3,14)
+Births : (3,89)
+
+Deaths : (4,63)
+Births : (4,411)
+
+Deaths : (5,289)
+Births : (5,2232)
+
+Deaths : (6,1553)
+Births : (6,10956)
+
+Deaths : (7,7666)
+Births : (7,54622)
+
+Deaths : (8,38188)
+Births : (8,273563)
+
+Deaths : (9,191181)
+Births : (9,1363957)
+
+Deaths : (10,953480)
+Births : (10,6801838)
+
+Deaths : (11,4754875)
+Births : (11,8965035)
+
+Deaths : (12,7491294)
+Births : (12,13510826)
+
+Deaths : (13,11403059)
+Births : (13,21128551)
+
+Deaths : (14,17719979)
+Births : (14,31633365)
+
+Deaths : (15,26740487)
+Births : (15,53162650)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,14)
+
+Deaths : (3,12)
+Births : (3,45)
+
+Deaths : (4,34)
+Births : (4,185)
+
+Deaths : (5,132)
+Births : (5,890)
+
+Deaths : (6,626)
+Births : (6,4561)
+
+Deaths : (7,3184)
+Births : (7,22551)
+
+Deaths : (8,15772)
+Births : (8,114304)
+
+Deaths : (9,79820)
+Births : (9,571128)
+
+Deaths : (10,399166)
+Births : (10,2853766)
+
+Deaths : (11,1994644)
+Births : (11,3951847)
+
+Deaths : (12,3266749)
+Births : (12,8860246)
+
+Deaths : (13,6902132)
+Births : (13,18098499)
+
+Deaths : (14,14177822)
+Births : (14,25081394)
+
+Deaths : (15,21255416)
+Births : (15,41460796)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,29)
+Births : (3,166)
+
+Deaths : (4,118)
+Births : (4,720)
+
+Deaths : (5,510)
+Births : (5,3741)
+
+Deaths : (6,2610)
+Births : (6,18067)
+
+Deaths : (7,12657)
+Births : (7,90265)
+
+Deaths : (8,63104)
+Births : (8,449691)
+
+Deaths : (9,314384)
+Births : (9,2244994)
+
+Deaths : (10,1569268)
+Births : (10,3000624)
+
+Deaths : (11,2499589)
+Births : (11,7054044)
+
+Deaths : (12,5459677)
+Births : (12,14155173)
+
+Deaths : (13,11110218)
+Births : (13,18576168)
+
+Deaths : (14,15955433)
+Births : (14,31046633)
+
+Deaths : (15,25757285)
+Births : (15,50212060)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,177)
+
+Deaths : (4,125)
+Births : (4,969)
+
+Deaths : (5,675)
+Births : (5,4987)
+
+Deaths : (6,3478)
+Births : (6,24590)
+
+Deaths : (7,17201)
+Births : (7,123455)
+
+Deaths : (8,86266)
+Births : (8,615423)
+
+Deaths : (9,430217)
+Births : (9,3074846)
+
+Deaths : (10,2149210)
+Births : (10,4272445)
+
+Deaths : (11,3529231)
+Births : (11,10075825)
+
+Deaths : (12,7784094)
+Births : (12,19432951)
+
+Deaths : (13,15353755)
+Births : (13,25628740)
+
+Deaths : (14,22022010)
+Births : (14,40525264)
+
+Deaths : (15,34038340)
+Births : (15,61387889)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,177)
+
+Deaths : (4,125)
+Births : (4,890)
+
+Deaths : (5,625)
+Births : (5,4451)
+
+Deaths : (6,3111)
+Births : (6,22242)
+
+Deaths : (7,15547)
+Births : (7,112547)
+
+Deaths : (8,78597)
+Births : (8,558836)
+
+Deaths : (9,390749)
+Births : (9,2795919)
+
+Deaths : (10,1954098)
+Births : (10,4169096)
+
+Deaths : (11,3393770)
+Births : (11,8968845)
+
+Deaths : (12,7017187)
+Births : (12,18666670)
+
+Deaths : (13,14587447)
+Births : (13,27336459)
+
+Deaths : (14,22864769)
+Births : (14,43042853)
+
+Deaths : (15,35969652)
+Births : (15,62987787)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,29)
+Births : (3,213)
+
+Deaths : (4,148)
+Births : (4,1098)
+
+Deaths : (5,767)
+Births : (5,5526)
+
+Deaths : (6,3859)
+Births : (6,27315)
+
+Deaths : (7,19107)
+Births : (7,137300)
+
+Deaths : (8,95932)
+Births : (8,684136)
+
+Deaths : (9,478263)
+Births : (9,3415985)
+
+Deaths : (10,2387763)
+Births : (10,4858953)
+
+Deaths : (11,3993944)
+Births : (11,11080405)
+
+Deaths : (12,8599677)
+Births : (12,20695848)
+
+Deaths : (13,16459858)
+Births : (13,29312579)
+
+Deaths : (14,24802481)
+Births : (14,47103247)
+
+Deaths : (15,39285575)
+Births : (15,66826632)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,49)
+
+Deaths : (3,35)
+Births : (3,225)
+
+Deaths : (4,159)
+Births : (4,1150)
+
+Deaths : (5,804)
+Births : (5,5802)
+
+Deaths : (6,4053)
+Births : (6,29512)
+
+Deaths : (7,20602)
+Births : (7,146638)
+
+Deaths : (8,102525)
+Births : (8,736985)
+
+Deaths : (9,514921)
+Births : (9,3682546)
+
+Deaths : (10,2573858)
+Births : (10,4827050)
+
+Deaths : (11,4038334)
+Births : (11,11966911)
+
+Deaths : (12,9191409)
+Births : (12,23406576)
+
+Deaths : (13,18428754)
+Births : (13,34316269)
+
+Deaths : (14,28743081)
+Births : (14,50688507)
+
+Deaths : (15,42995779)
+Births : (15,77423843)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,143)
+
+Deaths : (4,100)
+Births : (4,671)
+
+Deaths : (5,472)
+Births : (5,3529)
+
+Deaths : (6,2460)
+Births : (6,17413)
+
+Deaths : (7,12181)
+Births : (7,87903)
+
+Deaths : (8,61400)
+Births : (8,440807)
+
+Deaths : (9,308013)
+Births : (9,2204793)
+
+Deaths : (10,1540907)
+Births : (10,3219283)
+
+Deaths : (11,2631794)
+Births : (11,7059905)
+
+Deaths : (12,5509766)
+Births : (12,13389564)
+
+Deaths : (13,10630132)
+Births : (13,18139690)
+
+Deaths : (14,15503827)
+Births : (14,29370207)
+
+Deaths : (15,24508658)
+Births : (15,47470050)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,151)
+
+Deaths : (4,106)
+Births : (4,791)
+
+Deaths : (5,552)
+Births : (5,3790)
+
+Deaths : (6,2657)
+Births : (6,18788)
+
+Deaths : (7,13143)
+Births : (7,93474)
+
+Deaths : (8,65359)
+Births : (8,466246)
+
+Deaths : (9,325932)
+Births : (9,2331877)
+
+Deaths : (10,1629787)
+Births : (10,3192702)
+
+Deaths : (11,2645618)
+Births : (11,7162306)
+
+Deaths : (12,5581145)
+Births : (12,13733673)
+
+Deaths : (13,10878700)
+Births : (13,20816896)
+
+Deaths : (14,17330577)
+Births : (14,32200207)
+
+Deaths : (15,26987836)
+Births : (15,52344904)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,123)
+
+Deaths : (4,88)
+Births : (4,611)
+
+Deaths : (5,428)
+Births : (5,3125)
+
+Deaths : (6,2181)
+Births : (6,15336)
+
+Deaths : (7,10735)
+Births : (7,77406)
+
+Deaths : (8,54069)
+Births : (8,387868)
+
+Deaths : (9,271037)
+Births : (9,1938613)
+
+Deaths : (10,1354952)
+Births : (10,9680621)
+
+Deaths : (11,6766588)
+Births : (11,14260501)
+
+Deaths : (12,11637366)
+Births : (12,21122605)
+
+Deaths : (13,17801449)
+Births : (13,32929875)
+
+Deaths : (14,27628316)
+Births : (14,55421836)
+
+Deaths : (15,45661092)
+Births : (15,71802482)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,161)
+
+Deaths : (4,114)
+Births : (4,827)
+
+Deaths : (5,578)
+Births : (5,4389)
+
+Deaths : (6,3055)
+Births : (6,21762)
+
+Deaths : (7,15215)
+Births : (7,109745)
+
+Deaths : (8,76660)
+Births : (8,547252)
+
+Deaths : (9,382543)
+Births : (9,2732055)
+
+Deaths : (10,1909713)
+Births : (10,4017772)
+
+Deaths : (11,3279878)
+Births : (11,9054823)
+
+Deaths : (12,7033217)
+Births : (12,18225240)
+
+Deaths : (13,14306168)
+Births : (13,25783289)
+
+Deaths : (14,21756982)
+Births : (14,39795711)
+
+Deaths : (15,33471744)
+Births : (15,59333997)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,151)
+
+Deaths : (4,106)
+Births : (4,713)
+
+Deaths : (5,500)
+Births : (5,3619)
+
+Deaths : (6,2528)
+Births : (6,17783)
+
+Deaths : (7,12443)
+Births : (7,89558)
+
+Deaths : (8,62570)
+Births : (8,447112)
+
+Deaths : (9,312519)
+Births : (9,2232710)
+
+Deaths : (10,1560635)
+Births : (10,3320456)
+
+Deaths : (11,2704457)
+Births : (11,7366976)
+
+Deaths : (12,5734791)
+Births : (12,14131959)
+
+Deaths : (13,11191425)
+Births : (13,19109162)
+
+Deaths : (14,16330344)
+Births : (14,29012215)
+
+Deaths : (15,24564910)
+Births : (15,47944863)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,175)
+
+Deaths : (4,121)
+Births : (4,925)
+
+Deaths : (5,645)
+Births : (5,4510)
+
+Deaths : (6,3157)
+Births : (6,23004)
+
+Deaths : (7,16058)
+Births : (7,114821)
+
+Deaths : (8,80256)
+Births : (8,574881)
+
+Deaths : (9,401759)
+Births : (9,2867531)
+
+Deaths : (10,2004499)
+Births : (10,3887751)
+
+Deaths : (11,3228532)
+Births : (11,9442129)
+
+Deaths : (12,7266982)
+Births : (12,17263713)
+
+Deaths : (13,13762896)
+Births : (13,25317288)
+
+Deaths : (14,21263474)
+Births : (14,39127369)
+
+Deaths : (15,32865313)
+Births : (15,53295440)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,171)
+
+Deaths : (4,120)
+Births : (4,867)
+
+Deaths : (5,608)
+Births : (5,4387)
+
+Deaths : (6,3064)
+Births : (6,21277)
+
+Deaths : (7,14901)
+Births : (7,107469)
+
+Deaths : (8,75072)
+Births : (8,538721)
+
+Deaths : (9,376442)
+Births : (9,2689694)
+
+Deaths : (10,1880043)
+Births : (10,4038441)
+
+Deaths : (11,3282931)
+Births : (11,8721298)
+
+Deaths : (12,6817502)
+Births : (12,16607654)
+
+Deaths : (13,13179263)
+Births : (13,23523242)
+
+Deaths : (14,19893679)
+Births : (14,35936723)
+
+Deaths : (15,30311097)
+Births : (15,53101451)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,172)
+
+Deaths : (4,120)
+Births : (4,872)
+
+Deaths : (5,611)
+Births : (5,4278)
+
+Deaths : (6,2995)
+Births : (6,21461)
+
+Deaths : (7,14998)
+Births : (7,107196)
+
+Deaths : (8,74926)
+Births : (8,536652)
+
+Deaths : (9,375046)
+Births : (9,2680970)
+
+Deaths : (10,1873885)
+Births : (10,3650288)
+
+Deaths : (11,3028476)
+Births : (11,8739217)
+
+Deaths : (12,6740090)
+Births : (12,17305496)
+
+Deaths : (13,13605775)
+Births : (13,22301105)
+
+Deaths : (14,19248600)
+Births : (14,36776786)
+
+Deaths : (15,30632799)
+Births : (15,51616212)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,17)
+
+Deaths : (3,14)
+Births : (3,71)
+
+Deaths : (4,52)
+Births : (4,300)
+
+Deaths : (5,213)
+Births : (5,1546)
+
+Deaths : (6,1080)
+Births : (6,7914)
+
+Deaths : (7,5523)
+Births : (7,38746)
+
+Deaths : (8,27118)
+Births : (8,193349)
+
+Deaths : (9,135168)
+Births : (9,964286)
+
+Deaths : (10,674090)
+Births : (10,4812451)
+
+Deaths : (11,3363998)
+Births : (11,6706444)
+
+Deaths : (12,5536459)
+Births : (12,15503508)
+
+Deaths : (13,12014384)
+Births : (13,21701231)
+
+Deaths : (14,18307547)
+Births : (14,32895474)
+
+Deaths : (15,27773289)
+Births : (15,54174303)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,29)
+Births : (3,166)
+
+Deaths : (4,118)
+Births : (4,867)
+
+Deaths : (5,605)
+Births : (5,4362)
+
+Deaths : (6,3047)
+Births : (6,21755)
+
+Deaths : (7,15206)
+Births : (7,108825)
+
+Deaths : (8,76061)
+Births : (8,541867)
+
+Deaths : (9,378833)
+Births : (9,2704882)
+
+Deaths : (10,1890751)
+Births : (10,3973436)
+
+Deaths : (11,3244423)
+Births : (11,8682118)
+
+Deaths : (12,6778555)
+Births : (12,17068685)
+
+Deaths : (13,13465294)
+Births : (13,25539626)
+
+Deaths : (14,21304388)
+Births : (14,39971446)
+
+Deaths : (15,33427683)
+Births : (15,55246097)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,161)
+
+Deaths : (4,113)
+Births : (4,763)
+
+Deaths : (5,538)
+Births : (5,3879)
+
+Deaths : (6,2709)
+Births : (6,19417)
+
+Deaths : (7,13568)
+Births : (7,97732)
+
+Deaths : (8,68278)
+Births : (8,489223)
+
+Deaths : (9,341889)
+Births : (9,2446806)
+
+Deaths : (10,1710073)
+Births : (10,3657010)
+
+Deaths : (11,2975515)
+Births : (11,8011023)
+
+Deaths : (12,6248264)
+Births : (12,15207558)
+
+Deaths : (13,12070137)
+Births : (13,22018533)
+
+Deaths : (14,18528249)
+Births : (14,35550218)
+
+Deaths : (15,29582986)
+Births : (15,53959874)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,189)
+
+Deaths : (4,133)
+Births : (4,976)
+
+Deaths : (5,682)
+Births : (5,4823)
+
+Deaths : (6,3374)
+Births : (6,23984)
+
+Deaths : (7,16770)
+Births : (7,121918)
+
+Deaths : (8,85119)
+Births : (8,608341)
+
+Deaths : (9,425209)
+Births : (9,3034793)
+
+Deaths : (10,2121422)
+Births : (10,4171884)
+
+Deaths : (11,3454141)
+Births : (11,9876540)
+
+Deaths : (12,7628286)
+Births : (12,18393213)
+
+Deaths : (13,14623414)
+Births : (13,25121796)
+
+Deaths : (14,21437017)
+Births : (14,41789374)
+
+Deaths : (15,34655573)
+Births : (15,61009662)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,172)
+
+Deaths : (4,121)
+Births : (4,866)
+
+Deaths : (5,606)
+Births : (5,4101)
+
+Deaths : (6,2877)
+Births : (6,20668)
+
+Deaths : (7,14442)
+Births : (7,102619)
+
+Deaths : (8,71760)
+Births : (8,512516)
+
+Deaths : (9,358246)
+Births : (9,2560365)
+
+Deaths : (10,1789612)
+Births : (10,3630452)
+
+Deaths : (11,2986089)
+Births : (11,8469274)
+
+Deaths : (12,6549808)
+Births : (12,15690446)
+
+Deaths : (13,12489477)
+Births : (13,23792029)
+
+Deaths : (14,19827409)
+Births : (14,37653289)
+
+Deaths : (15,31404976)
+Births : (15,60119601)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,49)
+
+Deaths : (3,34)
+Births : (3,233)
+
+Deaths : (4,164)
+Births : (4,1099)
+
+Deaths : (5,774)
+Births : (5,5483)
+
+Deaths : (6,3835)
+Births : (6,27777)
+
+Deaths : (7,19397)
+Births : (7,139190)
+
+Deaths : (8,97264)
+Births : (8,695714)
+
+Deaths : (9,486252)
+Births : (9,3477613)
+
+Deaths : (10,2430619)
+Births : (10,4704057)
+
+Deaths : (11,3908260)
+Births : (11,10712154)
+
+Deaths : (12,8330318)
+Births : (12,21171783)
+
+Deaths : (13,16674897)
+Births : (13,27870879)
+
+Deaths : (14,23940427)
+Births : (14,41229383)
+
+Deaths : (15,35166532)
+Births : (15,64214073)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,182)
+
+Deaths : (4,127)
+Births : (4,911)
+
+Deaths : (5,638)
+Births : (5,4700)
+
+Deaths : (6,3279)
+Births : (6,23049)
+
+Deaths : (7,16129)
+Births : (7,115729)
+
+Deaths : (8,80870)
+Births : (8,578353)
+
+Deaths : (9,404231)
+Births : (9,2889937)
+
+Deaths : (10,2019926)
+Births : (10,3877312)
+
+Deaths : (11,3227149)
+Births : (11,9326802)
+
+Deaths : (12,7191530)
+Births : (12,18232224)
+
+Deaths : (13,14366008)
+Births : (13,24614472)
+
+Deaths : (14,21017654)
+Births : (14,38838976)
+
+Deaths : (15,32591898)
+Births : (15,51476923)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,49)
+
+Deaths : (3,35)
+Births : (3,167)
+
+Deaths : (4,121)
+Births : (4,862)
+
+Deaths : (5,604)
+Births : (5,4493)
+
+Deaths : (6,3131)
+Births : (6,22865)
+
+Deaths : (7,15960)
+Births : (7,115180)
+
+Deaths : (8,80453)
+Births : (8,577399)
+
+Deaths : (9,403465)
+Births : (9,2885272)
+
+Deaths : (10,2016627)
+Births : (10,3814615)
+
+Deaths : (11,3185241)
+Births : (11,9278290)
+
+Deaths : (12,7145330)
+Births : (12,17904263)
+
+Deaths : (13,14136668)
+Births : (13,25645714)
+
+Deaths : (14,21607709)
+Births : (14,41396950)
+
+Deaths : (15,34461326)
+Births : (15,58000592)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,149)
+
+Deaths : (4,106)
+Births : (4,697)
+
+Deaths : (5,492)
+Births : (5,3431)
+
+Deaths : (6,2401)
+Births : (6,17235)
+
+Deaths : (7,12044)
+Births : (7,86399)
+
+Deaths : (8,60376)
+Births : (8,432446)
+
+Deaths : (9,302218)
+Births : (9,2156592)
+
+Deaths : (10,1507549)
+Births : (10,3232534)
+
+Deaths : (11,2628733)
+Births : (11,7439259)
+
+Deaths : (12,5755282)
+Births : (12,13969862)
+
+Deaths : (13,11093287)
+Births : (13,20117490)
+
+Deaths : (14,16951663)
+Births : (14,31221169)
+
+Deaths : (15,26218396)
+Births : (15,51611815)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,183)
+
+Deaths : (4,129)
+Births : (4,951)
+
+Deaths : (5,665)
+Births : (5,5060)
+
+Deaths : (6,3522)
+Births : (6,25611)
+
+Deaths : (7,17879)
+Births : (7,128796)
+
+Deaths : (8,89977)
+Births : (8,641798)
+
+Deaths : (9,448658)
+Births : (9,3200214)
+
+Deaths : (10,2237152)
+Births : (10,4674018)
+
+Deaths : (11,3821029)
+Births : (11,10100506)
+
+Deaths : (12,7902253)
+Births : (12,19822220)
+
+Deaths : (13,15648042)
+Births : (13,25974074)
+
+Deaths : (14,22349053)
+Births : (14,41267558)
+
+Deaths : (15,34634005)
+Births : (15,56594728)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,26)
+Births : (3,168)
+
+Deaths : (4,118)
+Births : (4,854)
+
+Deaths : (5,597)
+Births : (5,4472)
+
+Deaths : (6,3116)
+Births : (6,22750)
+
+Deaths : (7,15878)
+Births : (7,114174)
+
+Deaths : (8,79772)
+Births : (8,566428)
+
+Deaths : (9,396097)
+Births : (9,2833565)
+
+Deaths : (10,1980437)
+Births : (10,3755736)
+
+Deaths : (11,3134304)
+Births : (11,8760517)
+
+Deaths : (12,6790953)
+Births : (12,17495613)
+
+Deaths : (13,13747052)
+Births : (13,24527645)
+
+Deaths : (14,20744777)
+Births : (14,39733447)
+
+Deaths : (15,33078153)
+Births : (15,52665332)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,26)
+Births : (3,168)
+
+Deaths : (4,118)
+Births : (4,756)
+
+Deaths : (5,533)
+Births : (5,3724)
+
+Deaths : (6,2606)
+Births : (6,18385)
+
+Deaths : (7,12864)
+Births : (7,92114)
+
+Deaths : (8,64379)
+Births : (8,459365)
+
+Deaths : (9,321114)
+Births : (9,2290696)
+
+Deaths : (10,1601333)
+Births : (10,3266117)
+
+Deaths : (11,2683382)
+Births : (11,7380340)
+
+Deaths : (12,5736089)
+Births : (12,14814898)
+
+Deaths : (13,11635751)
+Births : (13,20042648)
+
+Deaths : (14,17092425)
+Births : (14,30965319)
+
+Deaths : (15,26101463)
+Births : (15,52028561)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,105)
+
+Deaths : (4,75)
+Births : (4,499)
+
+Deaths : (5,351)
+Births : (5,2589)
+
+Deaths : (6,1805)
+Births : (6,12706)
+
+Deaths : (7,8894)
+Births : (7,64263)
+
+Deaths : (8,44883)
+Births : (8,321178)
+
+Deaths : (9,224475)
+Births : (9,1608524)
+
+Deaths : (10,1124099)
+Births : (10,8046835)
+
+Deaths : (11,5623834)
+Births : (11,11266090)
+
+Deaths : (12,9291083)
+Births : (12,16369330)
+
+Deaths : (13,13890851)
+Births : (13,27045086)
+
+Deaths : (14,22435617)
+Births : (14,45227628)
+
+Deaths : (15,37222980)
+Births : (15,64705095)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,49)
+
+Deaths : (3,35)
+Births : (3,179)
+
+Deaths : (4,128)
+Births : (4,957)
+
+Deaths : (5,668)
+Births : (5,4782)
+
+Deaths : (6,3342)
+Births : (6,24033)
+
+Deaths : (7,16792)
+Births : (7,121091)
+
+Deaths : (8,84588)
+Births : (8,603561)
+
+Deaths : (9,421916)
+Births : (9,3015785)
+
+Deaths : (10,2107917)
+Births : (10,4410815)
+
+Deaths : (11,3604719)
+Births : (11,9939917)
+
+Deaths : (12,7722186)
+Births : (12,20401950)
+
+Deaths : (13,15961974)
+Births : (13,28175400)
+
+Deaths : (14,23890419)
+Births : (14,44087625)
+
+Deaths : (15,37007198)
+Births : (15,60953686)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,134)
+
+Deaths : (4,94)
+Births : (4,648)
+
+Deaths : (5,454)
+Births : (5,3225)
+
+Deaths : (6,2257)
+Births : (6,16065)
+
+Deaths : (7,11232)
+Births : (7,80924)
+
+Deaths : (8,56533)
+Births : (8,403109)
+
+Deaths : (9,281805)
+Births : (9,2011367)
+
+Deaths : (10,1406011)
+Births : (10,2658639)
+
+Deaths : (11,2220168)
+Births : (11,6363446)
+
+Deaths : (12,4913020)
+Births : (12,11740126)
+
+Deaths : (13,9349266)
+Births : (13,16582712)
+
+Deaths : (14,14044148)
+Births : (14,26838812)
+
+Deaths : (15,22354137)
+Births : (15,43947500)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,87)
+
+Deaths : (4,63)
+Births : (4,386)
+
+Deaths : (5,274)
+Births : (5,2014)
+
+Deaths : (6,1406)
+Births : (6,9996)
+
+Deaths : (7,6988)
+Births : (7,49357)
+
+Deaths : (8,34530)
+Births : (8,246244)
+
+Deaths : (9,172142)
+Births : (9,1226314)
+
+Deaths : (10,857351)
+Births : (10,6129312)
+
+Deaths : (11,4284091)
+Births : (11,8126593)
+
+Deaths : (12,6781550)
+Births : (12,11151735)
+
+Deaths : (13,9621332)
+Births : (13,18243335)
+
+Deaths : (14,15221454)
+Births : (14,28556276)
+
+Deaths : (15,23868187)
+Births : (15,48585335)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,17)
+
+Deaths : (3,14)
+Births : (3,89)
+
+Deaths : (4,63)
+Births : (4,433)
+
+Deaths : (5,304)
+Births : (5,2238)
+
+Deaths : (6,1563)
+Births : (6,11277)
+
+Deaths : (7,7876)
+Births : (7,56543)
+
+Deaths : (8,39511)
+Births : (8,281362)
+
+Deaths : (9,196713)
+Births : (9,1398785)
+
+Deaths : (10,978054)
+Births : (10,6991251)
+
+Deaths : (11,4886593)
+Births : (11,9866671)
+
+Deaths : (12,8123450)
+Births : (12,13097466)
+
+Deaths : (13,11355603)
+Births : (13,22402227)
+
+Deaths : (14,18531145)
+Births : (14,35888735)
+
+Deaths : (15,29789735)
+Births : (15,57937134)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,156)
+
+Deaths : (4,109)
+Births : (4,814)
+
+Deaths : (5,567)
+Births : (5,4281)
+
+Deaths : (6,2983)
+Births : (6,21226)
+
+Deaths : (7,14841)
+Births : (7,107210)
+
+Deaths : (8,74881)
+Births : (8,534141)
+
+Deaths : (9,373397)
+Births : (9,2666427)
+
+Deaths : (10,1863854)
+Births : (10,3710722)
+
+Deaths : (11,3064248)
+Births : (11,8287016)
+
+Deaths : (12,6458680)
+Births : (12,16719036)
+
+Deaths : (13,13126094)
+Births : (13,24753151)
+
+Deaths : (14,20674588)
+Births : (14,37178486)
+
+Deaths : (15,31392751)
+Births : (15,53970734)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,26)
+Births : (3,168)
+
+Deaths : (4,118)
+Births : (4,816)
+
+Deaths : (5,571)
+Births : (5,4240)
+
+Deaths : (6,2957)
+Births : (6,21098)
+
+Deaths : (7,14749)
+Births : (7,106489)
+
+Deaths : (8,74381)
+Births : (8,533292)
+
+Deaths : (9,372671)
+Births : (9,2663781)
+
+Deaths : (10,1861882)
+Births : (10,3508410)
+
+Deaths : (11,2932054)
+Births : (11,8690996)
+
+Deaths : (12,6675000)
+Births : (12,16530229)
+
+Deaths : (13,13079081)
+Births : (13,22033896)
+
+Deaths : (14,18890631)
+Births : (14,33222453)
+
+Deaths : (15,28197694)
+Births : (15,44096814)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,149)
+
+Deaths : (4,106)
+Births : (4,680)
+
+Deaths : (5,480)
+Births : (5,3437)
+
+Deaths : (6,2402)
+Births : (6,16868)
+
+Deaths : (7,11806)
+Births : (7,84026)
+
+Deaths : (8,58751)
+Births : (8,421219)
+
+Deaths : (9,294353)
+Births : (9,2105300)
+
+Deaths : (10,1471455)
+Births : (10,2769462)
+
+Deaths : (11,2315104)
+Births : (11,6769312)
+
+Deaths : (12,5210053)
+Births : (12,12421506)
+
+Deaths : (13,9896062)
+Births : (13,16680532)
+
+Deaths : (14,14298789)
+Births : (14,25375657)
+
+Deaths : (15,21491957)
+Births : (15,40910818)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,17)
+
+Deaths : (3,14)
+Births : (3,97)
+
+Deaths : (4,68)
+Births : (4,517)
+
+Deaths : (5,361)
+Births : (5,2636)
+
+Deaths : (6,1840)
+Births : (6,12858)
+
+Deaths : (7,9003)
+Births : (7,65336)
+
+Deaths : (8,45618)
+Births : (8,326557)
+
+Deaths : (9,228230)
+Births : (9,1633544)
+
+Deaths : (10,1141676)
+Births : (10,8163376)
+
+Deaths : (11,5705739)
+Births : (11,11844653)
+
+Deaths : (12,9695809)
+Births : (12,16808065)
+
+Deaths : (13,14317664)
+Births : (13,27811407)
+
+Deaths : (14,23083025)
+Births : (14,41717353)
+
+Deaths : (15,35167498)
+Births : (15,56920067)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,151)
+
+Deaths : (4,106)
+Births : (4,736)
+
+Deaths : (5,516)
+Births : (5,3759)
+
+Deaths : (6,2624)
+Births : (6,18867)
+
+Deaths : (7,13183)
+Births : (7,94737)
+
+Deaths : (8,66193)
+Births : (8,473961)
+
+Deaths : (9,331240)
+Births : (9,2368057)
+
+Deaths : (10,1655160)
+Births : (10,3103260)
+
+Deaths : (11,2596363)
+Births : (11,7488743)
+
+Deaths : (12,5776087)
+Births : (12,13924299)
+
+Deaths : (13,11070806)
+Births : (13,19290995)
+
+Deaths : (14,16405859)
+Births : (14,30992594)
+
+Deaths : (15,25879632)
+Births : (15,51097808)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,167)
+
+Deaths : (4,118)
+Births : (4,774)
+
+Deaths : (5,547)
+Births : (5,4064)
+
+Deaths : (6,2832)
+Births : (6,19870)
+
+Deaths : (7,13908)
+Births : (7,99975)
+
+Deaths : (8,69852)
+Births : (8,499122)
+
+Deaths : (9,348875)
+Births : (9,2490896)
+
+Deaths : (10,1741176)
+Births : (10,3618175)
+
+Deaths : (11,2961162)
+Births : (11,8181182)
+
+Deaths : (12,6353832)
+Births : (12,15560373)
+
+Deaths : (13,12336381)
+Births : (13,21086237)
+
+Deaths : (14,18015298)
+Births : (14,32415266)
+
+Deaths : (15,27365954)
+Births : (15,50621396)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,134)
+
+Deaths : (4,94)
+Births : (4,638)
+
+Deaths : (5,448)
+Births : (5,3133)
+
+Deaths : (6,2194)
+Births : (6,15536)
+
+Deaths : (7,10868)
+Births : (7,78121)
+
+Deaths : (8,54582)
+Births : (8,392122)
+
+Deaths : (9,273981)
+Births : (9,1959823)
+
+Deaths : (10,1369770)
+Births : (10,9795130)
+
+Deaths : (11,6846201)
+Births : (11,13281129)
+
+Deaths : (12,11028641)
+Births : (12,19816642)
+
+Deaths : (13,16739504)
+Births : (13,30488991)
+
+Deaths : (14,25669986)
+Births : (14,46786020)
+
+Deaths : (15,39362003)
+Births : (15,69321827)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,20)
+Births : (3,151)
+
+Deaths : (4,107)
+Births : (4,708)
+
+Deaths : (5,498)
+Births : (5,3569)
+
+Deaths : (6,2493)
+Births : (6,17838)
+
+Deaths : (7,12468)
+Births : (7,89657)
+
+Deaths : (8,62642)
+Births : (8,450416)
+
+Deaths : (9,314693)
+Births : (9,2252415)
+
+Deaths : (10,1574202)
+Births : (10,3330286)
+
+Deaths : (11,2715597)
+Births : (11,7266496)
+
+Deaths : (12,5673375)
+Births : (12,14620500)
+
+Deaths : (13,11487469)
+Births : (13,20494627)
+
+Deaths : (14,17334443)
+Births : (14,33092290)
+
+Deaths : (15,27568392)
+Births : (15,50685971)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,26)
+Births : (3,168)
+
+Deaths : (4,118)
+Births : (4,778)
+
+Deaths : (5,548)
+Births : (5,4021)
+
+Deaths : (6,2804)
+Births : (6,20408)
+
+Deaths : (7,14248)
+Births : (7,102424)
+
+Deaths : (8,71563)
+Births : (8,510649)
+
+Deaths : (9,356966)
+Births : (9,2547152)
+
+Deaths : (10,1780574)
+Births : (10,3572965)
+
+Deaths : (11,2945562)
+Births : (11,7892272)
+
+Deaths : (12,6160572)
+Births : (12,15651500)
+
+Deaths : (13,12327937)
+Births : (13,22428329)
+
+Deaths : (14,18884507)
+Births : (14,32709560)
+
+Deaths : (15,27861734)
+Births : (15,56858302)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,163)
+
+Deaths : (4,117)
+Births : (4,756)
+
+Deaths : (5,532)
+Births : (5,3807)
+
+Deaths : (6,2661)
+Births : (6,19010)
+
+Deaths : (7,13287)
+Births : (7,96312)
+
+Deaths : (8,67256)
+Births : (8,481147)
+
+Deaths : (9,336281)
+Births : (9,2401317)
+
+Deaths : (10,1678546)
+Births : (10,3363267)
+
+Deaths : (11,2773551)
+Births : (11,7989524)
+
+Deaths : (12,6163604)
+Births : (12,16090763)
+
+Deaths : (13,12614616)
+Births : (13,21876020)
+
+Deaths : (14,18626344)
+Births : (14,34383731)
+
+Deaths : (15,28860124)
+Births : (15,55148845)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,134)
+
+Deaths : (4,94)
+Births : (4,688)
+
+Deaths : (5,481)
+Births : (5,3564)
+
+Deaths : (6,2486)
+Births : (6,17469)
+
+Deaths : (7,12224)
+Births : (7,87737)
+
+Deaths : (8,61309)
+Births : (8,437267)
+
+Deaths : (9,305680)
+Births : (9,2189588)
+
+Deaths : (10,1530210)
+Births : (10,3257613)
+
+Deaths : (11,2652961)
+Births : (11,7014327)
+
+Deaths : (12,5487551)
+Births : (12,13644632)
+
+Deaths : (13,10788165)
+Births : (13,18611306)
+
+Deaths : (14,15865739)
+Births : (14,28203522)
+
+Deaths : (15,23876810)
+Births : (15,48532452)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,29)
+Births : (3,192)
+
+Deaths : (4,134)
+Births : (4,973)
+
+Deaths : (5,680)
+Births : (5,4934)
+
+Deaths : (6,3446)
+Births : (6,24660)
+
+Deaths : (7,17236)
+Births : (7,123934)
+
+Deaths : (8,86590)
+Births : (8,621168)
+
+Deaths : (9,434064)
+Births : (9,3099390)
+
+Deaths : (10,2166510)
+Births : (10,4359230)
+
+Deaths : (11,3591695)
+Births : (11,9696486)
+
+Deaths : (12,7559388)
+Births : (12,19073294)
+
+Deaths : (13,15041306)
+Births : (13,28280371)
+
+Deaths : (14,23636132)
+Births : (14,41273274)
+
+Deaths : (15,35089208)
+Births : (15,62985270)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,26)
+Births : (3,168)
+
+Deaths : (4,118)
+Births : (4,741)
+
+Deaths : (5,524)
+Births : (5,3782)
+
+Deaths : (6,2641)
+Births : (6,18748)
+
+Deaths : (7,13111)
+Births : (7,95112)
+
+Deaths : (8,66412)
+Births : (8,477223)
+
+Deaths : (9,333437)
+Births : (9,2380356)
+
+Deaths : (10,1663926)
+Births : (10,3174647)
+
+Deaths : (11,2645831)
+Births : (11,7634611)
+
+Deaths : (12,5888213)
+Births : (12,15393796)
+
+Deaths : (13,12065212)
+Births : (13,21708605)
+
+Deaths : (14,18325302)
+Births : (14,35454749)
+
+Deaths : (15,29451595)
+Births : (15,53701626)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,27)
+
+Deaths : (3,21)
+Births : (3,113)
+
+Deaths : (4,81)
+Births : (4,535)
+
+Deaths : (5,376)
+Births : (5,2866)
+
+Deaths : (6,1994)
+Births : (6,14368)
+
+Deaths : (7,10041)
+Births : (7,71982)
+
+Deaths : (8,50301)
+Births : (8,358733)
+
+Deaths : (9,250781)
+Births : (9,1789842)
+
+Deaths : (10,1251162)
+Births : (10,8953206)
+
+Deaths : (11,6257442)
+Births : (11,13236593)
+
+Deaths : (12,10793644)
+Births : (12,19140695)
+
+Deaths : (13,16218007)
+Births : (13,29195100)
+
+Deaths : (14,24647017)
+Births : (14,48434141)
+
+Deaths : (15,40078112)
+Births : (15,64579724)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,29)
+Births : (3,192)
+
+Deaths : (4,135)
+Births : (4,954)
+
+Deaths : (5,668)
+Births : (5,5079)
+
+Deaths : (6,3536)
+Births : (6,24547)
+
+Deaths : (7,17193)
+Births : (7,123047)
+
+Deaths : (8,85998)
+Births : (8,616680)
+
+Deaths : (9,430938)
+Births : (9,3076422)
+
+Deaths : (10,2150488)
+Births : (10,4607843)
+
+Deaths : (11,3747686)
+Births : (11,10116124)
+
+Deaths : (12,7886751)
+Births : (12,20228456)
+
+Deaths : (13,15906756)
+Births : (13,27046431)
+
+Deaths : (14,23137055)
+Births : (14,44291920)
+
+Deaths : (15,36875681)
+Births : (15,64920765)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,183)
+
+Deaths : (4,129)
+Births : (4,775)
+
+Deaths : (5,551)
+Births : (5,3768)
+
+Deaths : (6,2640)
+Births : (6,18811)
+
+Deaths : (7,13153)
+Births : (7,94529)
+
+Deaths : (8,66048)
+Births : (8,471990)
+
+Deaths : (9,329906)
+Births : (9,2362959)
+
+Deaths : (10,1651382)
+Births : (10,3169619)
+
+Deaths : (11,2638173)
+Births : (11,7272555)
+
+Deaths : (12,5650200)
+Births : (12,14817974)
+
+Deaths : (13,11607642)
+Births : (13,20034765)
+
+Deaths : (14,17077214)
+Births : (14,32065522)
+
+Deaths : (15,26811755)
+Births : (15,48830130)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,188)
+
+Deaths : (4,131)
+Births : (4,871)
+
+Deaths : (5,613)
+Births : (5,4478)
+
+Deaths : (6,3126)
+Births : (6,22636)
+
+Deaths : (7,15808)
+Births : (7,113403)
+
+Deaths : (8,79247)
+Births : (8,563663)
+
+Deaths : (9,394114)
+Births : (9,2815097)
+
+Deaths : (10,1967739)
+Births : (10,3840846)
+
+Deaths : (11,3185181)
+Births : (11,9151279)
+
+Deaths : (12,7062758)
+Births : (12,18068162)
+
+Deaths : (13,14214352)
+Births : (13,26156511)
+
+Deaths : (14,21967158)
+Births : (14,42384056)
+
+Deaths : (15,35228533)
+Births : (15,60535404)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,163)
+
+Deaths : (4,117)
+Births : (4,647)
+
+Deaths : (5,461)
+Births : (5,3257)
+
+Deaths : (6,2280)
+Births : (6,16064)
+
+Deaths : (7,11239)
+Births : (7,80259)
+
+Deaths : (8,56103)
+Births : (8,401374)
+
+Deaths : (9,280527)
+Births : (9,2005652)
+
+Deaths : (10,1401849)
+Births : (10,2906053)
+
+Deaths : (11,2379527)
+Births : (11,6389035)
+
+Deaths : (12,4985434)
+Births : (12,12596560)
+
+Deaths : (13,9931301)
+Births : (13,16728882)
+
+Deaths : (14,14342887)
+Births : (14,27964669)
+
+Deaths : (15,23189567)
+Births : (15,45031758)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,39)
+
+Deaths : (3,28)
+Births : (3,189)
+
+Deaths : (4,133)
+Births : (4,850)
+
+Deaths : (5,600)
+Births : (5,4300)
+
+Deaths : (6,3005)
+Births : (6,21557)
+
+Deaths : (7,15065)
+Births : (7,108537)
+
+Deaths : (8,75823)
+Births : (8,540678)
+
+Deaths : (9,377976)
+Births : (9,2692219)
+
+Deaths : (10,1882220)
+Births : (10,4033979)
+
+Deaths : (11,3280792)
+Births : (11,8954570)
+
+Deaths : (12,6968378)
+Births : (12,17943312)
+
+Deaths : (13,14100242)
+Births : (13,24714023)
+
+Deaths : (14,20990023)
+Births : (14,38105904)
+
+Deaths : (15,32104806)
+Births : (15,56128699)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,49)
+
+Deaths : (3,35)
+Births : (3,240)
+
+Deaths : (4,168)
+Births : (4,1092)
+
+Deaths : (5,770)
+Births : (5,5581)
+
+Deaths : (6,3898)
+Births : (6,27937)
+
+Deaths : (7,19524)
+Births : (7,140859)
+
+Deaths : (8,98392)
+Births : (8,704019)
+
+Deaths : (9,492046)
+Births : (9,3521001)
+
+Deaths : (10,2460849)
+Births : (10,4827828)
+
+Deaths : (11,3999290)
+Births : (11,10790314)
+
+Deaths : (12,8412978)
+Births : (12,20829131)
+
+Deaths : (13,16481075)
+Births : (13,30628683)
+
+Deaths : (14,25665011)
+Births : (14,46016702)
+
+Deaths : (15,38881504)
+Births : (15,65081021)
+-------------------------------------------------
+------------ SIMULATION -------------
+
+Deaths : (1,2)
+Births : (1,8)
+
+Deaths : (2,6)
+Births : (2,34)
+
+Deaths : (3,25)
+Births : (3,136)
+
+Deaths : (4,98)
+Births : (4,738)
+
+Deaths : (5,515)
+Births : (5,3716)
+
+Deaths : (6,2595)
+Births : (6,18276)
+
+Deaths : (7,12789)
+Births : (7,91397)
+
+Deaths : (8,63884)
+Births : (8,454851)
+
+Deaths : (9,318009)
+Births : (9,2274769)
+
+Deaths : (10,1589894)
+Births : (10,3398842)
+
+Deaths : (11,2765648)
+Births : (11,7270580)
+
+Deaths : (12,5693543)
+Births : (12,14564225)
+
+Deaths : (13,11457937)
+Births : (13,19807530)
+
+Deaths : (14,16877417)
+Births : (14,31361631)
+
+Deaths : (15,26283284)
+Births : (15,51735998)
+-------------------------------------------------

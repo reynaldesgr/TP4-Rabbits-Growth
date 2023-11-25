@@ -126,7 +126,7 @@ public class Rabbit
         } 
         else 
         {
-            return Math.max(0, 0.6 - ( (10 - age) * SURVIVAL_DECREASE_RATE ) );
+            return Math.max(0, 0.6 - ( (age - 10) * SURVIVAL_DECREASE_RATE ) );
         }
     }
 
@@ -137,28 +137,40 @@ public class Rabbit
      * @return the number of litters
      */
 
-    public static int calculateNumberOfLitters(MTRandom rnd)
-    {
+     public static int calculateNumberOfLitters(MTRandom rnd) 
+     {
         int numLitters;
         double rndNumber = rnd.nextDouble();
-
-        if (rndNumber < 0.1)
+    
+        // A female rabbit gives birth to 4 to 8 litters per year
+        // Non-Uniform law
+        
+        if (rndNumber < 0.1) 
         {
-            numLitters = 3;
-        }
-        else if (rndNumber < 0.4)
-        {
+            // 10% chance for 4 litters
             numLitters = 4;
-        }
-        else if (rndNumber < 0.8)
+        } 
+        else if (rndNumber < 0.4) 
         {
+            // 30% chance for 5 litters
             numLitters = 5;
-        }
-        else
+        } 
+        else if (rndNumber < 0.7) 
         {
+            // 30% chance for 6 litters
             numLitters = 6;
+        } 
+        else if (rndNumber < 0.9) 
+        {
+            // 20% chance for 7 litters
+            numLitters = 7;
+        } 
+        else 
+        {
+            // 10% chance for 8 litters
+            numLitters = 8;
         }
-
+    
         return numLitters;
     }
     

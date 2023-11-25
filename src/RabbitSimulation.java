@@ -19,7 +19,7 @@ public class RabbitSimulation
     private long[] males   = new long[15];
     private int simulationYear;
 
-    private static final long ESTIMATION_THRESHOLD = 10000000;
+    private static final long ESTIMATION_THRESHOLD = 1000000;
     private static final double[] CONSTANT_PREDATION_PROBABILITIES = {0.7, 0.5, 0.25, 0.35, 0.4, 0.2, 0.3, 0.25, 0.35, 0.4, 0.2, 0.3, 0.25, 0.35, 0.4};
 
     /**
@@ -86,6 +86,7 @@ public class RabbitSimulation
         MTRandom rnd = new MTRandom();
         rnd.setSeed(new int[]{0x125, 0x235, 0x345, 0x404});
 
+        long totalPredationDeaths = 0;
         long        initialSizePopulation;
         long        numOfFemalesDead;
         long        numOfMalesDead;
@@ -99,7 +100,6 @@ public class RabbitSimulation
         long        totalMalesDeath   = 0;
 
         double      numLitters;
-        double      numDeathByPredations;
 
         System.out.println("Computing simulation...");
 
@@ -115,13 +115,14 @@ public class RabbitSimulation
             numBirths            = 0;
             totalFemalesDeath    = 0;
             totalMalesDeath      = 0;
-            numDeathByPredations = 0;
+            totalPredationDeaths = 0;
             numOfFemalesBorn     = 0;
             numOfMalesBorn       = 0;
             numSurvivedMales     = 0;
             numSurvivedFemales   = 0;
 
 
+            // Births
             for (int age = 0; age < 15; age++) 
             {
                 if (age >= 1)
@@ -143,7 +144,7 @@ public class RabbitSimulation
 
                                 for (int litter = 0; litter < numLitters; litter++) 
                                 {
-                                    int numBorn = rnd.nextInt(5) + 4; // (4 à 8)
+                                    int numBorn = rnd.nextInt(4) + 3; // (3 to 6 babies per litters)
 
                                     List<Rabbit> femaleBabies = Rabbit.giveBirth(numBorn, rnd);
 
@@ -193,12 +194,14 @@ public class RabbitSimulation
                     females[age]       = numSurvivedFemales;
                 }
 
+                // To simulate predation 
                 //long[] predation = simulatePredation(females, males, age, rnd);
 
-                totalFemalesDeath += numOfFemalesDead;
-                totalMalesDeath   += numOfMalesDead;
+                totalFemalesDeath += numOfFemalesDead; //+ predation[0];
+                totalMalesDeath   += numOfMalesDead;   //+ predation[1];
 
-                ageAtDeath[age] = age * (numOfMalesDead + numOfFemalesDead);
+                // totalPredationDeaths += predation[0] + predation[1];
+                ageAtDeath[age] =  age * (numOfMalesDead + numOfFemalesDead);
             }
 
 
@@ -206,12 +209,15 @@ public class RabbitSimulation
                     totalFemalesDeath, totalMalesDeath, ageAtDeath);
 
             stats.displayStats(year);
-            
+
+            //System.out.println("Year " + (year + 1) + " : Total deaths by predation:\t " + totalPredationDeaths);
+
+            // Increage age for each age
             for (int age = 14; age >= 1; age--) 
             {
                 females[age] = females[age - 1];
-                males[age] = males[age - 1];
-            }
+                males[age]   = males[age - 1];
+            } 
 
             females[0] = 0;
             males  [0] = 0;

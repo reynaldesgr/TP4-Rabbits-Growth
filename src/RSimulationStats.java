@@ -7,7 +7,6 @@
  */
 
 package src;
-
 public class RSimulationStats 
 {
     private long   initialSizePopulation;
@@ -82,7 +81,6 @@ public class RSimulationStats
      *
      * @param year the simulation year
      */
-
     public void displayStats(int year) 
     {
         System.out.println();
@@ -271,7 +269,7 @@ public class RSimulationStats
         long totalAgeAtDeath = 0;
         for (int i = 0; i < ageAtDeath.length; i++) 
         {
-            totalAgeAtDeath += i * ageAtDeath[i];
+            totalAgeAtDeath += ageAtDeath[i];
         }
     
         return (double) totalAgeAtDeath / totalDeaths;
