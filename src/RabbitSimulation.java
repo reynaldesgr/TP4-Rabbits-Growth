@@ -127,7 +127,7 @@ public class RabbitSimulation
             {
                 if (age >= 1)
                 {
-                    if (females[age] > 0) 
+                    if (females[age] > 0 && count(males) > 0) 
                     {
                         if (females[age] > ESTIMATION_THRESHOLD) 
                         {
